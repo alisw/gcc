@@ -43,7 +43,7 @@ ln -nfs mpfr-${MPFR_VER} mpfr
 [[ -e gmp-${GMP_VER}.tar.bz2 ]] || wget ftp://ftp.gnu.org/gnu/gmp/gmp-${GMP_VER}.tar.bz2
 rm -rf gmp gmp-${GMP_VER}
 tar xjf gmp-${GMP_VER}.tar.bz2
-ln -nfs gmp-${GMP_VER} gmp
+ln -nfs gmp-$( echo ${GMP_VER} | sed -e 's|[a-z]\+$||' ) gmp
 
 [[ -e mpc-${MPC_VER}.tar.gz ]] || wget http://www.multiprecision.org/mpc/download/mpc-${MPC_VER}.tar.gz
 rm -rf mpc mpc-${MPC_VER}
