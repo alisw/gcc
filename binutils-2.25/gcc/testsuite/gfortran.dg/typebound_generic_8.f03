@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/typebound_generic_8.f03

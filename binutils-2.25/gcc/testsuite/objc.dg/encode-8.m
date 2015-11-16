@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/encode-8.m

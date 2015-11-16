@@ -1,0 +1,1 @@
+../../../../../../../../libjava/classpath/tools/gnu/classpath/tools/rmiregistry/RegistryImpl_Stub.java

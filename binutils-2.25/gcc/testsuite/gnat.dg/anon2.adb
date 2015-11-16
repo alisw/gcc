@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/anon2.adb

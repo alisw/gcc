@@ -1,0 +1,1 @@
+../../../../gcc/config/arc/predicates.md

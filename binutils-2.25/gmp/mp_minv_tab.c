@@ -1,0 +1,1 @@
+../../gmp/mp_minv_tab.c

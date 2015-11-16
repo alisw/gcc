@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/expect1.adb

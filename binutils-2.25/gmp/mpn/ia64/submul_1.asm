@@ -1,0 +1,1 @@
+../../../../gmp/mpn/ia64/submul_1.asm

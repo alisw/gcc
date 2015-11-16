@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/tree-ssa/ivopts-4.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arc/mtune-ARC600.c

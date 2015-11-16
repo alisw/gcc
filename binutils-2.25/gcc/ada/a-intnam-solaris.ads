@@ -1,0 +1,1 @@
+../../../gcc/ada/a-intnam-solaris.ads

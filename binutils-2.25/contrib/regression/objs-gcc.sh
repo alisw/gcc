@@ -1,0 +1,1 @@
+../../../contrib/regression/objs-gcc.sh

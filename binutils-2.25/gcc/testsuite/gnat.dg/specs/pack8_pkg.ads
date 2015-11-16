@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gnat.dg/specs/pack8_pkg.ads

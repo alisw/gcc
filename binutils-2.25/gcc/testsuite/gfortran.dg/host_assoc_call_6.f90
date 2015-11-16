@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/host_assoc_call_6.f90

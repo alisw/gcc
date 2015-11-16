@@ -1,0 +1,1 @@
+../../../../gmp/mpn/alpha/mul_1.asm

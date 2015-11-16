@@ -1,0 +1,1 @@
+../../../../gcc/config/m32c/bitops.md

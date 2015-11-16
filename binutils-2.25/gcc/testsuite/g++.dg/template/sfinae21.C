@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/sfinae21.C

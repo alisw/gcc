@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.jason/overload34.C

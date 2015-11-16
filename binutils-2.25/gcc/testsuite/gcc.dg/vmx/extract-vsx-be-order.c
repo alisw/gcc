@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/vmx/extract-vsx-be-order.c

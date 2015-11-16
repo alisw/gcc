@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/gomp/ordered-2.C

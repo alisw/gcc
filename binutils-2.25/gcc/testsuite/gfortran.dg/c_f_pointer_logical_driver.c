@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/c_f_pointer_logical_driver.c

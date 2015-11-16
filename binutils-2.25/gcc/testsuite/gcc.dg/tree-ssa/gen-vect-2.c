@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/tree-ssa/gen-vect-2.c

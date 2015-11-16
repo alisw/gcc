@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/sparc/edge.c

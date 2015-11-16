@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/nullify_1.f

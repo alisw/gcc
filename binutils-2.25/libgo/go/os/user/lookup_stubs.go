@@ -1,0 +1,1 @@
+../../../../../libgo/go/os/user/lookup_stubs.go

@@ -1,0 +1,1 @@
+../../../../gmp/mpn/mips32/addmul_1.asm

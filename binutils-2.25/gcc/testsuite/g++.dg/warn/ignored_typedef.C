@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/ignored_typedef.C

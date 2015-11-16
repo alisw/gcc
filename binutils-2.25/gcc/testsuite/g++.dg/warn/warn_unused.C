@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/warn_unused.C

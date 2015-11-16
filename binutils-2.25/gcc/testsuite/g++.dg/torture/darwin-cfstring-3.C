@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/torture/darwin-cfstring-3.C

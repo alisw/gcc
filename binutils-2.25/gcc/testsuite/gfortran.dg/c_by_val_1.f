@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/c_by_val_1.f

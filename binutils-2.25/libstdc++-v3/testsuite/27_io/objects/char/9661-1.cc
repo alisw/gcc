@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/27_io/objects/char/9661-1.cc

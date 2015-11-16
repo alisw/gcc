@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/g++.dg/ext/visibility/template3.C

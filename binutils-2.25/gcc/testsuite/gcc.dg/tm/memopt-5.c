@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/tm/memopt-5.c

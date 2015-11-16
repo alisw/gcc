@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/compile/pr40351.c

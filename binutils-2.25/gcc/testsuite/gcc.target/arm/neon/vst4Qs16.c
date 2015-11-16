@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/gcc.target/arm/neon/vst4Qs16.c

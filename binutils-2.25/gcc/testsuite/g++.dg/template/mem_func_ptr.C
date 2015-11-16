@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/mem_func_ptr.C

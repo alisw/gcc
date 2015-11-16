@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/unsorted/scond.c

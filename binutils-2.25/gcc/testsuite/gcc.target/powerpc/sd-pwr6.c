@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/sd-pwr6.c

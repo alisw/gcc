@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/gcc.target/arm/neon/vRshrQ_nu16.c

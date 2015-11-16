@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/dfp/wtr-conversion-1.c

@@ -1,0 +1,1 @@
+../../../../../libjava/gnu/gcj/io/natSimpleSHSStream.cc

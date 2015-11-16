@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/vect/vect-reduc-pattern-1c-big-array.c

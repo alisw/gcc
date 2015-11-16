@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/ext/java-2.C

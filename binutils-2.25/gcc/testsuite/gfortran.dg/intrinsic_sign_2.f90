@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/intrinsic_sign_2.f90

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/coarray_lib_token_4.f90

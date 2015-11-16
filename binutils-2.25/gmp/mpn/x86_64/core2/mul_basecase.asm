@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/x86_64/core2/mul_basecase.asm

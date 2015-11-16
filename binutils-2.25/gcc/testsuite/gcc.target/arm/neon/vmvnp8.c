@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/gcc.target/arm/neon/vmvnp8.c

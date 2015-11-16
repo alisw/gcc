@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/system-binary-constants-1.h

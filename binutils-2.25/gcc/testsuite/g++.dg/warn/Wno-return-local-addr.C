@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/Wno-return-local-addr.C

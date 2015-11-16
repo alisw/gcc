@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/c-c++-common/ubsan/overflow-mul-2.c

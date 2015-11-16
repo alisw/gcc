@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/ext/attr-ifunc-4.C

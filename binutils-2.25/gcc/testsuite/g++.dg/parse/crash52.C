@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/parse/crash52.C

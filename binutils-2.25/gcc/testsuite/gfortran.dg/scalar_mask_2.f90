@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/scalar_mask_2.f90

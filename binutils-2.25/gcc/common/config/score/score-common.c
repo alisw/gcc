@@ -1,0 +1,1 @@
+../../../../../gcc/common/config/score/score-common.c

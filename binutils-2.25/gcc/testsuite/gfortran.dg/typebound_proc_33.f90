@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/typebound_proc_33.f90

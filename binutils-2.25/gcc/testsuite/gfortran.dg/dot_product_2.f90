@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/dot_product_2.f90

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/c90-array-quals-2.c

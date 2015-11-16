@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/arm/v5/gcd_1.asm

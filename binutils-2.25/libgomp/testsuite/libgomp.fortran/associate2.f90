@@ -1,0 +1,1 @@
+../../../../libgomp/testsuite/libgomp.fortran/associate2.f90

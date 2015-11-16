@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.jason/temporary7.C

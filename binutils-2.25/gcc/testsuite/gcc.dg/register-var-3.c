@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/register-var-3.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/opt/reload3.C

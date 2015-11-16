@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.jason/default1.C

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/overriding_ops.ads

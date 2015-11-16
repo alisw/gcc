@@ -1,0 +1,1 @@
+../../../../../libjava/javax/imageio/metadata/IIOMetadataFormatImpl.h

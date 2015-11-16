@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/write_zero_array.f90

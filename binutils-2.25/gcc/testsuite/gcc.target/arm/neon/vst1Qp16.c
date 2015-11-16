@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/gcc.target/arm/neon/vst1Qp16.c

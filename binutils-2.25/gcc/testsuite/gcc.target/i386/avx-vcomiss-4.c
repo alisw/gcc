@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/avx-vcomiss-4.c

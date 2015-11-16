@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/compat/scalar-by-value-1_x.c

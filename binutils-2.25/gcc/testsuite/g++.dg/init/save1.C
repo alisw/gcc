@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/init/save1.C

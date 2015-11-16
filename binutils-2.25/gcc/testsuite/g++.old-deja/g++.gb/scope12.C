@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.gb/scope12.C

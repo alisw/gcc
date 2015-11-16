@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/config/os/aix/atomic_word.h

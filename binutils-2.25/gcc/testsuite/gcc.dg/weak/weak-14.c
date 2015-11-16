@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/weak/weak-14.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/gomp/vla-4.c

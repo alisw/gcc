@@ -1,0 +1,1 @@
+../../../gcc/ada/s-arit64.ads

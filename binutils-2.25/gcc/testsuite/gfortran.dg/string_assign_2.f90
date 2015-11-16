@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/string_assign_2.f90

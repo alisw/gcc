@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/assign_6.f

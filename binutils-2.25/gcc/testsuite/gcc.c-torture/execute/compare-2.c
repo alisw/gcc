@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/execute/compare-2.c

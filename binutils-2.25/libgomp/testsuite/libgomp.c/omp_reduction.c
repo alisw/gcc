@@ -1,0 +1,1 @@
+../../../../libgomp/testsuite/libgomp.c/omp_reduction.c

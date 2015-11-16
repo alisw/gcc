@@ -1,0 +1,1 @@
+../../../../gcc/config/nds32/nds32_intrinsic.h

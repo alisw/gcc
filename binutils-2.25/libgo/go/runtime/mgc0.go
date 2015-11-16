@@ -1,0 +1,1 @@
+../../../../libgo/go/runtime/mgc0.go

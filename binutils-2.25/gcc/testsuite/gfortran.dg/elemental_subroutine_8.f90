@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/elemental_subroutine_8.f90

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/abi/arm_va_list.C

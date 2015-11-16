@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.law/arg5.C

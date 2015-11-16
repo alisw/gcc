@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/go.go-torture/execute/nested-1.go

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/tm/props-3.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/string1.C

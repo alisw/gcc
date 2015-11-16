@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/io_constraints_2.f90

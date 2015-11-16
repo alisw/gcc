@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/dup_save_1.f90

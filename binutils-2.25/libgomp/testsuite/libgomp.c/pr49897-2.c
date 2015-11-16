@@ -1,0 +1,1 @@
+../../../../libgomp/testsuite/libgomp.c/pr49897-2.c

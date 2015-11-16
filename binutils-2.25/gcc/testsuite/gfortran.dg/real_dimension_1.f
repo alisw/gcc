@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/real_dimension_1.f

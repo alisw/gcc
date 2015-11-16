@@ -1,0 +1,1 @@
+../../../../libgomp/testsuite/libgomp.fortran/alloc-comp-2.f90

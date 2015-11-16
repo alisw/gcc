@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.eh/crash2.C

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.other/linkage7.C

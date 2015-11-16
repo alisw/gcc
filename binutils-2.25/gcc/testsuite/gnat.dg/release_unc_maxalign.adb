@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/release_unc_maxalign.adb

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/parse/operator7.C

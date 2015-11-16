@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/sum_zero_array_1.f90

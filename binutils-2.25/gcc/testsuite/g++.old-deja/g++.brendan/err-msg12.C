@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.brendan/err-msg12.C

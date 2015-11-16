@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/lto/pr54709_0.c

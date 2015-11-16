@@ -1,0 +1,1 @@
+../../../../libvtv/testsuite/other-tests/environment-fail-32.s

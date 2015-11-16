@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/sse2-movdqu-2.c

@@ -1,0 +1,1 @@
+../../../../gmp/mpn/power/submul_1.asm

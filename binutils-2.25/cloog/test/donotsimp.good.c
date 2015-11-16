@@ -1,0 +1,1 @@
+../../../cloog/test/donotsimp.good.c

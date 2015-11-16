@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/module_procedure_double_colon_4.f90

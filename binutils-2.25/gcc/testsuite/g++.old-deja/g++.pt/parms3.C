@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.pt/parms3.C

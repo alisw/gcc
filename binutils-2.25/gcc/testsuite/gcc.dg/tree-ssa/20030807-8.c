@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/tree-ssa/20030807-8.c

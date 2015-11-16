@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arm/require-pic-register-loc.c

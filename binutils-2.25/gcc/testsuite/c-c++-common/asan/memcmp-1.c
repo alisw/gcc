@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/c-c++-common/asan/memcmp-1.c

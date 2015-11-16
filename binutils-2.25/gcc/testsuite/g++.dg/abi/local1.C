@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/abi/local1.C

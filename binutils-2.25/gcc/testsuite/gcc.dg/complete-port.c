@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/complete-port.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/extend-divide-2.c

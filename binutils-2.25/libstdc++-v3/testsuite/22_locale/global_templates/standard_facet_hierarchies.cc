@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/22_locale/global_templates/standard_facet_hierarchies.cc

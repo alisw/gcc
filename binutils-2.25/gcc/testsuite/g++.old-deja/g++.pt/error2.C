@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.pt/error2.C

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/lto10_pkg.ads

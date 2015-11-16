@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/gfortran.dg/gomp/appendix-a/a.23.4.f90

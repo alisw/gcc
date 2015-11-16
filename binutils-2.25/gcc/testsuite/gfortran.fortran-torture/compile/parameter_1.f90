@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.fortran-torture/compile/parameter_1.f90

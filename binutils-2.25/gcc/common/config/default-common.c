@@ -1,0 +1,1 @@
+../../../../gcc/common/config/default-common.c

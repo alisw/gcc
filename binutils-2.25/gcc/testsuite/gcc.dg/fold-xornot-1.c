@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/fold-xornot-1.c

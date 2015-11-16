@@ -1,0 +1,1 @@
+../../../../libjava/classpath/m4/lib-ld.m4

@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/26_numerics/partial_sum/1.cc

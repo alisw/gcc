@@ -1,0 +1,1 @@
+../../../../../libgo/go/compress/testdata/pi.txt

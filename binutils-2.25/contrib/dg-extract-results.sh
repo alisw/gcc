@@ -1,0 +1,1 @@
+../../contrib/dg-extract-results.sh

@@ -1,0 +1,1 @@
+../../../../libgo/go/unicode/digit_test.go

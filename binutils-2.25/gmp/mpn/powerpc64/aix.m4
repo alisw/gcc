@@ -1,0 +1,1 @@
+../../../../gmp/mpn/powerpc64/aix.m4

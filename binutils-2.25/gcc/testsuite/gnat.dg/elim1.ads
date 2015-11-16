@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/elim1.ads

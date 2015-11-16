@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gnat.dg/specs/rep_clause4.ads

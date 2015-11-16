@@ -1,0 +1,1 @@
+../../../../gmp/tests/mpz/t-get_d_2exp.c

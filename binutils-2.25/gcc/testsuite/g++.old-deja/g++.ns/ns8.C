@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.ns/ns8.C

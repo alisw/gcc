@@ -1,0 +1,1 @@
+../../../../gmp/tests/mpz/t-lucnum_ui.c

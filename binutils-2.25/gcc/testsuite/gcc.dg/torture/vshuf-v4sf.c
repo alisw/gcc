@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/torture/vshuf-v4sf.c

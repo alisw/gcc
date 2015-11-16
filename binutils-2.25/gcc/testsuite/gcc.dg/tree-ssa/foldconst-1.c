@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/tree-ssa/foldconst-1.c

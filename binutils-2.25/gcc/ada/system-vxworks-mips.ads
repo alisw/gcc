@@ -1,0 +1,1 @@
+../../../gcc/ada/system-vxworks-mips.ads

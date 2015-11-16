@@ -1,0 +1,1 @@
+../../../../../../gmp/mpn/x86/atom/sse2/mod_1_4.asm

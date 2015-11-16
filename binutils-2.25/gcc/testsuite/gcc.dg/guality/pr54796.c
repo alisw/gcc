@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/guality/pr54796.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/charset/attribute1.c

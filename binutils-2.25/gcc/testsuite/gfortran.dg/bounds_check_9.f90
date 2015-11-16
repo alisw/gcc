@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/bounds_check_9.f90

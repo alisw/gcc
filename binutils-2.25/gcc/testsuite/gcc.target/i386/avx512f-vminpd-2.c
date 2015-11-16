@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/avx512f-vminpd-2.c

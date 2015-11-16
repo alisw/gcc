@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/27_io/basic_ostream/inserters_arithmetic/wchar_t/2.cc

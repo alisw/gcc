@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/20_util/shared_ptr/cons/43820_neg.cc

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/vect/vect-double-reduc-7.c

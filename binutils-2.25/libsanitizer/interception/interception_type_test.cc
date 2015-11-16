@@ -1,0 +1,1 @@
+../../../libsanitizer/interception/interception_type_test.cc

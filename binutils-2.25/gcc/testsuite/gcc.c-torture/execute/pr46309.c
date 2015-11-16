@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/execute/pr46309.c

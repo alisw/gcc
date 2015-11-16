@@ -1,0 +1,1 @@
+../../../gcc/ada/cstreams.c

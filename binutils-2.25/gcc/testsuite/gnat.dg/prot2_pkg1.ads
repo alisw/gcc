@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/prot2_pkg1.ads

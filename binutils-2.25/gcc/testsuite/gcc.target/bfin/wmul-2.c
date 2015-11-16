@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/bfin/wmul-2.c

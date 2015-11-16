@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/abi-o32-long64.c

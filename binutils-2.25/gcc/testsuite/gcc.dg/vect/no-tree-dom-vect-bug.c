@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/vect/no-tree-dom-vect-bug.c

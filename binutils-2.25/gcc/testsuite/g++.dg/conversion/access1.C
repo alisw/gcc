@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/conversion/access1.C

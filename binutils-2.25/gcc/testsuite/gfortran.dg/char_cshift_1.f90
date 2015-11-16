@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/char_cshift_1.f90

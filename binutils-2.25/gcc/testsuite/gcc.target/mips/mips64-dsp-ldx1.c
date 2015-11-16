@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/mips64-dsp-ldx1.c

@@ -1,0 +1,1 @@
+../../../../../libgo/go/old/template/template_test.go

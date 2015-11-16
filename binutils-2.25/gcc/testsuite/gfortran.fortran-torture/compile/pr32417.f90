@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.fortran-torture/compile/pr32417.f90

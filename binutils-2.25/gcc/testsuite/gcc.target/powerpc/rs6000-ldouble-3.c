@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/rs6000-ldouble-3.c

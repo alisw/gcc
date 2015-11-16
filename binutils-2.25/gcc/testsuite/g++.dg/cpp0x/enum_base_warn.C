@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/cpp0x/enum_base_warn.C

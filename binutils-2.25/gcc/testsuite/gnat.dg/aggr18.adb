@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/aggr18.adb

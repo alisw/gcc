@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.oliva/delete2.C

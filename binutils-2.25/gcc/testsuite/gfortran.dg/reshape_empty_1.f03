@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/reshape_empty_1.f03

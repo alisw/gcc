@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/eh/subreg-1.C

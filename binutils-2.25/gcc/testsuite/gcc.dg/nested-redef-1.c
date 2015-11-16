@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/nested-redef-1.c

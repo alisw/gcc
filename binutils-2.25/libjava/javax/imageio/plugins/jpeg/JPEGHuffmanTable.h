@@ -1,0 +1,1 @@
+../../../../../../libjava/javax/imageio/plugins/jpeg/JPEGHuffmanTable.h

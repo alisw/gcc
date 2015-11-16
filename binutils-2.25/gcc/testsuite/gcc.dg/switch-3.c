@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/switch-3.c

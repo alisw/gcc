@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/20_util/remove_extent/requirements/explicit_instantiation.cc

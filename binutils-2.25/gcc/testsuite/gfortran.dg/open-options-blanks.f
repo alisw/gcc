@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/open-options-blanks.f

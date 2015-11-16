@@ -1,0 +1,1 @@
+../../../../gmp/mpn/powerpc64/elf.m4

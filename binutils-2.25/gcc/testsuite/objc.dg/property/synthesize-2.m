@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/objc.dg/property/synthesize-2.m

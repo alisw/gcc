@@ -1,0 +1,1 @@
+../../contrib/update-copyright.py

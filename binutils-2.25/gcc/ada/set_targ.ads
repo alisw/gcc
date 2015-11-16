@@ -1,0 +1,1 @@
+../../../gcc/ada/set_targ.ads

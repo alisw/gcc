@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/allocate_error_2.f90

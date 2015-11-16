@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/guality/asm-1.c

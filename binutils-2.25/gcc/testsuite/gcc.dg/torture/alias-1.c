@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/torture/alias-1.c

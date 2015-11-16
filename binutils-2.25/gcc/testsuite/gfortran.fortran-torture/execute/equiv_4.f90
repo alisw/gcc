@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.fortran-torture/execute/equiv_4.f90

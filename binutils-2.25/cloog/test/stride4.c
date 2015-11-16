@@ -1,0 +1,1 @@
+../../../cloog/test/stride4.c

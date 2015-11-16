@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/format/few-1.c

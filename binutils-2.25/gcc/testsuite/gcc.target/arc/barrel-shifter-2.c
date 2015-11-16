@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arc/barrel-shifter-2.c

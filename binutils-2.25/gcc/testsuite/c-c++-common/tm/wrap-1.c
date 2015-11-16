@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/c-c++-common/tm/wrap-1.c

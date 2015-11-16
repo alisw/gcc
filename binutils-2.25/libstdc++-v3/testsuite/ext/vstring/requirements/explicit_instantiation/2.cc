@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/ext/vstring/requirements/explicit_instantiation/2.cc

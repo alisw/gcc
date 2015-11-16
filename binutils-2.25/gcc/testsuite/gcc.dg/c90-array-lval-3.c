@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/c90-array-lval-3.c

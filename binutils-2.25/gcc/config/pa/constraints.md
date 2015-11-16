@@ -1,0 +1,1 @@
+../../../../gcc/config/pa/constraints.md

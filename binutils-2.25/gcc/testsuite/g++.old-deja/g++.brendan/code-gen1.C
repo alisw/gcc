@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.brendan/code-gen1.C

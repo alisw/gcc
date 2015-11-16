@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/compat/struct-by-value-10_x.c

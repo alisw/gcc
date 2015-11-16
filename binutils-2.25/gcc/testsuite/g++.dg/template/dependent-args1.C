@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/dependent-args1.C

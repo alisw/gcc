@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/c-c++-common/rotate-2a.c

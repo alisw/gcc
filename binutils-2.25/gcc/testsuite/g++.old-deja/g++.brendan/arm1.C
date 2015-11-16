@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.brendan/arm1.C

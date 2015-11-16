@@ -1,0 +1,1 @@
+../../../gcc/ada/s-pack25.adb

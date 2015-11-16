@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/18_support/quick_exit/quick_exit.cc

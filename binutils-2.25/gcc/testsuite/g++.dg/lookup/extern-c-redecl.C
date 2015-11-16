@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/lookup/extern-c-redecl.C

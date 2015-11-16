@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/c99-complex-2.c

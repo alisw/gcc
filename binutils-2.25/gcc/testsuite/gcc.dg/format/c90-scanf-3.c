@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/format/c90-scanf-3.c

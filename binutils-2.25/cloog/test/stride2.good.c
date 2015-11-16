@@ -1,0 +1,1 @@
+../../../cloog/test/stride2.good.c

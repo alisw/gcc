@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/vect/trapv-vect-reduc-4.c

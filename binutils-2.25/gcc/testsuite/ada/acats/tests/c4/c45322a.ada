@@ -1,0 +1,1 @@
+../../../../../../../gcc/testsuite/ada/acats/tests/c4/c45322a.ada

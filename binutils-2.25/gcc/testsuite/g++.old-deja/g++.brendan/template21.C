@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.brendan/template21.C

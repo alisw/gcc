@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/c-c++-common/tm/inline-asm-2.c

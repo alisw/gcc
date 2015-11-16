@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/objc/execute/formal_protocol-5.m

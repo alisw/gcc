@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/20_util/decay/requirements/typedefs-2.cc

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.brendan/delete1.C

@@ -1,0 +1,1 @@
+../../../../libgomp/testsuite/libgomp.fortran/sharing1.f90

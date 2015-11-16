@@ -1,0 +1,1 @@
+../../../../libgomp/testsuite/libgomp.c++/copyin-2.C

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.benjamin/tem02.C

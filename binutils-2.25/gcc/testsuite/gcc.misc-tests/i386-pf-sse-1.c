@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.misc-tests/i386-pf-sse-1.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/vect/bb-slp-13.c

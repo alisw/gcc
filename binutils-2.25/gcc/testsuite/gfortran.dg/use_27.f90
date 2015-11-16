@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/use_27.f90

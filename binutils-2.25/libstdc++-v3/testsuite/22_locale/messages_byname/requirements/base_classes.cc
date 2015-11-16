@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/22_locale/messages_byname/requirements/base_classes.cc

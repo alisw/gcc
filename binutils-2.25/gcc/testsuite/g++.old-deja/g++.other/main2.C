@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.other/main2.C

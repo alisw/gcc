@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/pubtypes-2.c

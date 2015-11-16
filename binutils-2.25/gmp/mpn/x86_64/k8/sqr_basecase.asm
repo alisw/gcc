@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/x86_64/k8/sqr_basecase.asm

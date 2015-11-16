@@ -1,0 +1,1 @@
+../../../../../libgcc/config/nds32/isr-library/intr_isr_4b.S

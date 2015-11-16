@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/split-5.c

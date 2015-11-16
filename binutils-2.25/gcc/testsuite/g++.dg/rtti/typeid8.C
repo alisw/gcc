@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/rtti/typeid8.C

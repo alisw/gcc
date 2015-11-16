@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/vect/vect-widen-mult-const-u16.c

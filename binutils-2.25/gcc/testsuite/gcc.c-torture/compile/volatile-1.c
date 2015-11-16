@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/compile/volatile-1.c

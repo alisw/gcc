@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/rtti/no-rtti-voidptr.C

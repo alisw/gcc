@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arm/thumb-16bit-ops.c

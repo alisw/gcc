@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/inherit3.C

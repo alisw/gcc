@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/nested_array_constructor_4.f90

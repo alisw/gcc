@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/rep_clause5_pkg.ads

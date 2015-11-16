@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/vmx/varargs-3.c

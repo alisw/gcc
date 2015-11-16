@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/char_cast_2.f90

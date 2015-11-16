@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/vect/no-tree-reassoc-bb-slp-12.c

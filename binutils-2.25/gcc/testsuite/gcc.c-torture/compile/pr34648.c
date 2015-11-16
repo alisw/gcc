@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/compile/pr34648.c

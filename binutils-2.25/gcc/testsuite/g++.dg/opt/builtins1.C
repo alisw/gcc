@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/opt/builtins1.C

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/builtins-34.c

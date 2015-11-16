@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/ipa/iinline-2.c

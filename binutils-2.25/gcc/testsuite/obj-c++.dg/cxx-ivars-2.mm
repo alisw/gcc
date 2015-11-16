@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/obj-c++.dg/cxx-ivars-2.mm

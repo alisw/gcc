@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/struct-ret-2.c

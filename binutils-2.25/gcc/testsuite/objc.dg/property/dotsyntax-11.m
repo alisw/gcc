@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/objc.dg/property/dotsyntax-11.m

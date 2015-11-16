@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/error_format.f90

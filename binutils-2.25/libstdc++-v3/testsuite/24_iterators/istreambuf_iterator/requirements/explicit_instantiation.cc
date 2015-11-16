@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/24_iterators/istreambuf_iterator/requirements/explicit_instantiation.cc

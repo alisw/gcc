@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/transfer_intrinsic_6.f90

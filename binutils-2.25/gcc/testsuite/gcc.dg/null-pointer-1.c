@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/null-pointer-1.c

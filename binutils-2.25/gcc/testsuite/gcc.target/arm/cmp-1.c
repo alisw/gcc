@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arm/cmp-1.c

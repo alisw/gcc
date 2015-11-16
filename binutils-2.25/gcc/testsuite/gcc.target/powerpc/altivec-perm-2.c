@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/altivec-perm-2.c

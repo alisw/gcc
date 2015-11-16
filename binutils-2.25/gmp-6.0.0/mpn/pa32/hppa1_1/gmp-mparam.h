@@ -1,0 +1,1 @@
+../../../../../gmp-6.0.0/mpn/pa32/hppa1_1/gmp-mparam.h

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/public_private_module_7.f90

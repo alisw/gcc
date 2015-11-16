@@ -1,0 +1,1 @@
+../../../../gcc/config/score/score.h

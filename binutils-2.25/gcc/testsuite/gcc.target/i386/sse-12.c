@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/sse-12.c

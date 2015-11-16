@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/gcc.dg/cpp/trad/null-drctv.c

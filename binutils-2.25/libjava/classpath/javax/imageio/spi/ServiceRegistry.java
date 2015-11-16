@@ -1,0 +1,1 @@
+../../../../../../libjava/classpath/javax/imageio/spi/ServiceRegistry.java

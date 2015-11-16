@@ -1,0 +1,1 @@
+../../../../../libgo/go/encoding/ascii85/ascii85_test.go

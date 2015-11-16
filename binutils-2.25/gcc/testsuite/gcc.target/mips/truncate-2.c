@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/truncate-2.c

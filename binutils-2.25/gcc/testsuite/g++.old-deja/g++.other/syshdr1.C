@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.other/syshdr1.C

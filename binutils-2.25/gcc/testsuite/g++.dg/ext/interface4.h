@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/ext/interface4.h

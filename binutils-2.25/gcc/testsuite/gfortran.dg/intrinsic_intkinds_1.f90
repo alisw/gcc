@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/intrinsic_intkinds_1.f90

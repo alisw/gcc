@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/inline_product_1.f90

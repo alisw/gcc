@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/wtr-union-init-3.c

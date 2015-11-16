@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/rx/i272091.c

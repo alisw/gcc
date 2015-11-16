@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/struct-in-proto-1.c

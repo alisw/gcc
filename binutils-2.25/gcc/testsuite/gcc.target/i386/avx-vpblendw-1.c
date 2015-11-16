@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/avx-vpblendw-1.c

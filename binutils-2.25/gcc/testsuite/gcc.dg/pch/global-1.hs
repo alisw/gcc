@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/pch/global-1.hs

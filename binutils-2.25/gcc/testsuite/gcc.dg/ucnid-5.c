@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/ucnid-5.c

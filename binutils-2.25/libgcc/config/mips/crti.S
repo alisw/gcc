@@ -1,0 +1,1 @@
+../../../../libgcc/config/mips/crti.S

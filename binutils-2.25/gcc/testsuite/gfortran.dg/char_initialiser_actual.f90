@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/char_initialiser_actual.f90

@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/22_locale/collate/requirements/base_classes.cc

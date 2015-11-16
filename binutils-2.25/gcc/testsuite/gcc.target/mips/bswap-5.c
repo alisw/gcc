@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/bswap-5.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.fortran-torture/execute/random_2.f90

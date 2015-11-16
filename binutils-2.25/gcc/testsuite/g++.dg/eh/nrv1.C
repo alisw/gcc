@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/eh/nrv1.C

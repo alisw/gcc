@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/shift-kind.f90

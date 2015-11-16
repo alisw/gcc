@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.dg/gomp/openmp-simd-3.f90

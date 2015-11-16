@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/not_null.adb

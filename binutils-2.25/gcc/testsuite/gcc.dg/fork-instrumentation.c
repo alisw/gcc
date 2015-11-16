@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/fork-instrumentation.c

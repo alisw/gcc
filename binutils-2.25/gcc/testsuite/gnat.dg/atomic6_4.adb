@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/atomic6_4.adb

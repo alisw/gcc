@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/27_io/basic_filebuf/seekoff/char/1-out.cc

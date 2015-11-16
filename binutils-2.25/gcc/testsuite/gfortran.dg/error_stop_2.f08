@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/error_stop_2.f08

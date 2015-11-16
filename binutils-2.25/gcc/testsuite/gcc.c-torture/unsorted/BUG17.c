@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/unsorted/BUG17.c

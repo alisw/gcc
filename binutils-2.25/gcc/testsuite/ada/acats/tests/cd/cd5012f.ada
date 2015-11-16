@@ -1,0 +1,1 @@
+../../../../../../../gcc/testsuite/ada/acats/tests/cd/cd5012f.ada

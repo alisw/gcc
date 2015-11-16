@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/builtin-bswap-2.c

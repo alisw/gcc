@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.mike/p4750.C

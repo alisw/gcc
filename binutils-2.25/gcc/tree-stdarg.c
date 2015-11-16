@@ -1,0 +1,1 @@
+../../gcc/tree-stdarg.c

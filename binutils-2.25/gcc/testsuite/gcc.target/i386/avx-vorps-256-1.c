@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/avx-vorps-256-1.c

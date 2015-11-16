@@ -1,0 +1,1 @@
+../../../../../../../gcc/testsuite/gcc.target/x86_64/abi/avx/test_passing_unions.c

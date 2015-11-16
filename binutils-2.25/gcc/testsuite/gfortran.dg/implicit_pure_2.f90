@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/implicit_pure_2.f90

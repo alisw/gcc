@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/arrow3.C

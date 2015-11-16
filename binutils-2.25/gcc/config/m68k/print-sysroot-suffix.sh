@@ -1,0 +1,1 @@
+../../../../gcc/config/m68k/print-sysroot-suffix.sh

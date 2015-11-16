@@ -1,0 +1,1 @@
+../../../../libgcc/config/msp430/lib2hw_mul.S

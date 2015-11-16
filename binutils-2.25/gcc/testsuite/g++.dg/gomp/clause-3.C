@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/gomp/clause-3.C

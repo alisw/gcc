@@ -1,0 +1,1 @@
+../../../../../../libjava/classpath/java/awt/geom/QuadCurve2D.java

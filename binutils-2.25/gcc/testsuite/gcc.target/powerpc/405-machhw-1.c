@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/405-machhw-1.c

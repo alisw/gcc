@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/tr1/6_containers/array/requirements/zero_sized_arrays.cc

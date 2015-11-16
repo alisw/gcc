@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.eh/tmpl5.C

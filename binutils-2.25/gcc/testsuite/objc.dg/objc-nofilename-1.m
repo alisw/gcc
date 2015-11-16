@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/objc-nofilename-1.m

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/execute/loop-5.c

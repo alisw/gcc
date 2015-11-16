@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/transpose_3.f03

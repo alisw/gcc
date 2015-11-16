@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/ppc-fma-6.c

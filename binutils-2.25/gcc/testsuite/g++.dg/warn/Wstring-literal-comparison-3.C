@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/Wstring-literal-comparison-3.C

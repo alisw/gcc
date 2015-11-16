@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/x86/pentium/dive_1.asm

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.dg/vect/vect-6.f

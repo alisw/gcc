@@ -1,0 +1,1 @@
+../../../../libstdc++-v3/testsuite/data/seekpos-2io.tst

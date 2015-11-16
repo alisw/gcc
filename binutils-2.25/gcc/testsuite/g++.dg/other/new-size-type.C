@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/other/new-size-type.C

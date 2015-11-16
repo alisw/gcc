@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/lto/pr46940_1.c

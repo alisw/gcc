@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/dshift_1.F90

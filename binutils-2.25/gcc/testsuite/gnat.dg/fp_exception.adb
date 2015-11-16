@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/fp_exception.adb

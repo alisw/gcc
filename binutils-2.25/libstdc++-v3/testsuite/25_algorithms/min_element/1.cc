@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/25_algorithms/min_element/1.cc

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/cpp/separate-1.c

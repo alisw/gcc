@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/imag-1.c

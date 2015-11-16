@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/compile/mangle-1.c

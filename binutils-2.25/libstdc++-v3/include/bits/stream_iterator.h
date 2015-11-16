@@ -1,0 +1,1 @@
+../../../../libstdc++-v3/include/bits/stream_iterator.h

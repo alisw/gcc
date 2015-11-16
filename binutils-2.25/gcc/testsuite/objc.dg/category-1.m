@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/category-1.m

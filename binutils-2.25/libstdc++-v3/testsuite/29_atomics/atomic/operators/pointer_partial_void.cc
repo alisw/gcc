@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/29_atomics/atomic/operators/pointer_partial_void.cc

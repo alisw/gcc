@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/26_numerics/slice_array/requirements/explicit_instantiation.cc

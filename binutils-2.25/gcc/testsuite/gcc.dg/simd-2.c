@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/simd-2.c

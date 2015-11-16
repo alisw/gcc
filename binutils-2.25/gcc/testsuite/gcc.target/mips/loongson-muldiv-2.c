@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/loongson-muldiv-2.c

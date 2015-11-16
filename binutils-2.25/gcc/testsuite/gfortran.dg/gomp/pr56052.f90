@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.dg/gomp/pr56052.f90

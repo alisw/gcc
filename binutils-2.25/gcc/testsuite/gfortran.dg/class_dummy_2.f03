@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/class_dummy_2.f03

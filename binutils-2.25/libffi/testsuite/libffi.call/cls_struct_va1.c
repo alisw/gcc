@@ -1,0 +1,1 @@
+../../../../libffi/testsuite/libffi.call/cls_struct_va1.c

@@ -1,0 +1,1 @@
+../../../../gmp-6.0.0/tests/mpz/t-gcd_ui.c

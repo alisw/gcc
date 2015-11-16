@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/obj-c++.dg/property/property-neg-6.mm

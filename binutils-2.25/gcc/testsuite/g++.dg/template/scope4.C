@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/scope4.C

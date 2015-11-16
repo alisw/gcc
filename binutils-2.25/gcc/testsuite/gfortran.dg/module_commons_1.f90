@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/module_commons_1.f90

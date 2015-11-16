@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/char_eoshift_5.f90

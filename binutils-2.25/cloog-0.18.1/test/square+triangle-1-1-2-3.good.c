@@ -1,0 +1,1 @@
+../../../cloog-0.18.1/test/square+triangle-1-1-2-3.good.c

@@ -1,0 +1,1 @@
+../../../libjava/classpath/lt~obsolete.m4

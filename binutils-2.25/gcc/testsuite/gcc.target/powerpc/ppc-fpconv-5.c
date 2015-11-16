@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/ppc-fpconv-5.c

@@ -1,0 +1,1 @@
+../../../../gmp/mpn/powerpc32/mul_1.asm

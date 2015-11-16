@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/use_rename_1.f90

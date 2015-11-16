@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/gcc.target/avr/torture/addr-space-2-1.c

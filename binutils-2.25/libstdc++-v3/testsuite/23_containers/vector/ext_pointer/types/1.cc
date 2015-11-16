@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/23_containers/vector/ext_pointer/types/1.cc

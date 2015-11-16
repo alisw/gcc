@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/cris/asm-v10.S

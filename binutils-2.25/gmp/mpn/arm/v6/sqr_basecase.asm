@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/arm/v6/sqr_basecase.asm

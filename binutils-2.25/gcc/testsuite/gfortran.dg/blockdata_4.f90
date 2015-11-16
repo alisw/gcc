@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/blockdata_4.f90

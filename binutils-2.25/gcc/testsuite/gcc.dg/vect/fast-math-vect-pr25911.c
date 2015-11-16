@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/vect/fast-math-vect-pr25911.c

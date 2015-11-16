@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.fortran-torture/compile/module_common.f90

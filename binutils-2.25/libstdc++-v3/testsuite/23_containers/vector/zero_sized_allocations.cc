@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/23_containers/vector/zero_sized_allocations.cc

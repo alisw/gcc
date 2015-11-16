@@ -1,0 +1,1 @@
+../../../../../../../libjava/gnu/javax/swing/text/html/CharacterAttributeTranslator.h

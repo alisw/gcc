@@ -1,0 +1,1 @@
+../../../../libgomp/testsuite/libgomp.c/ordered-2.c

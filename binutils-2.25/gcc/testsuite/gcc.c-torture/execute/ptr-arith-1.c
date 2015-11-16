@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/execute/ptr-arith-1.c

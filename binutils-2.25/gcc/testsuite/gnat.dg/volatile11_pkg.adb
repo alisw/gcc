@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/volatile11_pkg.adb

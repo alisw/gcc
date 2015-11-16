@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/tree-prof/update-loopch.c

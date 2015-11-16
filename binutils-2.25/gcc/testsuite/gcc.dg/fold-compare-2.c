@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/fold-compare-2.c

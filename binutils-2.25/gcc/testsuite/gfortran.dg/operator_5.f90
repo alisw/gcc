@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/operator_5.f90

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/zero_length_2.f90

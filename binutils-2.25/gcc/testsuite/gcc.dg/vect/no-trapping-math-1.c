@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/vect/no-trapping-math-1.c

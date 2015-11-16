@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/gomp/sections-2.c

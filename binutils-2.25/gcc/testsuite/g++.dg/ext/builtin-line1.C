@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/ext/builtin-line1.C

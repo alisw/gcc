@@ -1,0 +1,1 @@
+../../../../gmp/mpn/ia64/mode1o.asm

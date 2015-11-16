@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/no-asm-1.c

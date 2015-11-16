@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/friend37.C

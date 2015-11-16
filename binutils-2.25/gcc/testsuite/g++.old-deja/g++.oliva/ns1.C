@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.oliva/ns1.C

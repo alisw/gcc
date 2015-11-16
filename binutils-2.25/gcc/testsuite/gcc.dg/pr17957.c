@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/pr17957.c

@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/19_diagnostics/error_condition/cons/1.cc

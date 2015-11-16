@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/format/warnll-1.c

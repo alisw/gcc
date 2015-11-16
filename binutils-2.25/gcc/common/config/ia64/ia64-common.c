@@ -1,0 +1,1 @@
+../../../../../gcc/common/config/ia64/ia64-common.c

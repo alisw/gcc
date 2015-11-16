@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/typebound_proc_15.f03

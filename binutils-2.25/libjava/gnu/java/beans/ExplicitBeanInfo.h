@@ -1,0 +1,1 @@
+../../../../../libjava/gnu/java/beans/ExplicitBeanInfo.h

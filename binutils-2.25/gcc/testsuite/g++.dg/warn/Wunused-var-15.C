@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/Wunused-var-15.C

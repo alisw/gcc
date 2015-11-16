@@ -1,0 +1,1 @@
+../../libffi/generate-ios-source-and-headers.py

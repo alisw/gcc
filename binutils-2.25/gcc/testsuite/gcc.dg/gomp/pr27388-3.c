@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/gomp/pr27388-3.c

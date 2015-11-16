@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/cpp/warn-trigraphs-1.c

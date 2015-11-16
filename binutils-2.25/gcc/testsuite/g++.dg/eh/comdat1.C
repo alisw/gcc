@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/eh/comdat1.C

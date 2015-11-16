@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/soft-float-1.c

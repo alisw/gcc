@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/abi/no-weak1.C

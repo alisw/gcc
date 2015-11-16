@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.other/conv6.C

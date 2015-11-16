@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.law/unsorted2.C

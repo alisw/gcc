@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/open_errors.f90

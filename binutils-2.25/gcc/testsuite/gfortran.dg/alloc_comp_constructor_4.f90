@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/alloc_comp_constructor_4.f90

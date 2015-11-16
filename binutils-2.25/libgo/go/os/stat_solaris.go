@@ -1,0 +1,1 @@
+../../../../libgo/go/os/stat_solaris.go

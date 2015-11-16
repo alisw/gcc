@@ -1,0 +1,1 @@
+../../../../libffi/testsuite/libffi.call/err_bad_typedef.c

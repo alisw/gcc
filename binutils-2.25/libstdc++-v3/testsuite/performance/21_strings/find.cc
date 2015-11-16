@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/performance/21_strings/find.cc

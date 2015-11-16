@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/entry_dummy_ref_2.f90

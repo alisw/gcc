@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/nan-2008.c

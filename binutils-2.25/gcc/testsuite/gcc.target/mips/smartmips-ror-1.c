@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/smartmips-ror-1.c

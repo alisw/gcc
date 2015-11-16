@@ -1,0 +1,1 @@
+../../../gcc/c/c-aux-info.c

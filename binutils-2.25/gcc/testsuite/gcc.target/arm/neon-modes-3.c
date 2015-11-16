@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arm/neon-modes-3.c

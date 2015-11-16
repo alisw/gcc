@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/20_util/allocator/10378.cc

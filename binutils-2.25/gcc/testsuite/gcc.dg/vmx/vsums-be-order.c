@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/vmx/vsums-be-order.c

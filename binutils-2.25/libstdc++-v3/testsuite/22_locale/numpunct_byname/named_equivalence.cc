@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/22_locale/numpunct_byname/named_equivalence.cc

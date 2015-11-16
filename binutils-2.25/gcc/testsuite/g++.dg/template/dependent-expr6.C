@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/dependent-expr6.C

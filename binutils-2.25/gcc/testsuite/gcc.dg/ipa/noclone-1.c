@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/ipa/noclone-1.c

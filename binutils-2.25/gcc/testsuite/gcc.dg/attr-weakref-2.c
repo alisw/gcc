@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/attr-weakref-2.c

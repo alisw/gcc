@@ -1,0 +1,1 @@
+../../../../libjava/testsuite/libjava.lang/Throw_3.java

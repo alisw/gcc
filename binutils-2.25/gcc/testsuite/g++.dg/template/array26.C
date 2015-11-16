@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/array26.C

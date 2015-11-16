@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/objc/execute/nested-func-1.m

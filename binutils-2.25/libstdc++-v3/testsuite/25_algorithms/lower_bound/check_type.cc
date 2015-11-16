@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/25_algorithms/lower_bound/check_type.cc

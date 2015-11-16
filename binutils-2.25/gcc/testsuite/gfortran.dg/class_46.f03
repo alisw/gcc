@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/class_46.f03

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.other/access8.C

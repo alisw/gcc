@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/21_strings/basic_string/cons/char/5.cc

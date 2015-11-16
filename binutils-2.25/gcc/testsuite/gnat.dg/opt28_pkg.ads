@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/opt28_pkg.ads

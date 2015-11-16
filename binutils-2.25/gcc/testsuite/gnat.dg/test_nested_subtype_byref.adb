@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/test_nested_subtype_byref.adb

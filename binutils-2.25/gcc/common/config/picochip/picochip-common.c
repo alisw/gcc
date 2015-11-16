@@ -1,0 +1,1 @@
+../../../../../gcc/common/config/picochip/picochip-common.c

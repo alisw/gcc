@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/vmx/sum2s.c

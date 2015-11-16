@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/overflow-warn-6.C

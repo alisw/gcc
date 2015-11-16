@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/pack18_pkg.ads

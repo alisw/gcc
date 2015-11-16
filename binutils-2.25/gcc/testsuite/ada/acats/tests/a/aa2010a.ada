@@ -1,0 +1,1 @@
+../../../../../../../gcc/testsuite/ada/acats/tests/a/aa2010a.ada

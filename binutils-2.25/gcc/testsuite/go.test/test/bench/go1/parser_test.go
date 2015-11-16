@@ -1,0 +1,1 @@
+../../../../../../../gcc/testsuite/go.test/test/bench/go1/parser_test.go

@@ -1,0 +1,1 @@
+../../../cloog/test/equality2.good.c

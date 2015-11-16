@@ -1,0 +1,1 @@
+../../../../../libgo/go/runtime/debug/stack_test.go

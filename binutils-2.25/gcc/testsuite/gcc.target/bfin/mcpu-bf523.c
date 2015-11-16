@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/bfin/mcpu-bf523.c

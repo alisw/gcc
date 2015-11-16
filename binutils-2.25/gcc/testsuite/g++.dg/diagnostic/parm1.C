@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/diagnostic/parm1.C

@@ -1,0 +1,1 @@
+../../../../libstdc++-v3/testsuite/data/istream_seeks-1.tst

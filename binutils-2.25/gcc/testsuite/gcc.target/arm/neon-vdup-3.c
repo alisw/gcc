@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arm/neon-vdup-3.c

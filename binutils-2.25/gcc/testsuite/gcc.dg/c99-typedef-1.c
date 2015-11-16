@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/c99-typedef-1.c

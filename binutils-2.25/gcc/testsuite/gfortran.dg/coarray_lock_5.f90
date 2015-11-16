@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/coarray_lock_5.f90

@@ -1,0 +1,1 @@
+../../../libgo/runtime/go-type-string.c

@@ -1,0 +1,1 @@
+../../../gcc/ada/i-cobol.ads

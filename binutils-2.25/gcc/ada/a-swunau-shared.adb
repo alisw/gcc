@@ -1,0 +1,1 @@
+../../../gcc/ada/a-swunau-shared.adb

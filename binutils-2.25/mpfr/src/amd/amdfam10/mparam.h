@@ -1,0 +1,1 @@
+../../../../../mpfr/src/amd/amdfam10/mparam.h

@@ -1,0 +1,1 @@
+../../../gcc/ada/style.adb

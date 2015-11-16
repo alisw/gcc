@@ -1,0 +1,1 @@
+../../../../libjava/testsuite/libjava.lang/negzero.java

@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/25_algorithms/set_intersection/check_type.cc

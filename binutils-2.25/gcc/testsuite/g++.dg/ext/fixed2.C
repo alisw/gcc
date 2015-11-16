@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/ext/fixed2.C

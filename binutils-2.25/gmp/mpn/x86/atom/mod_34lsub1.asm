@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/x86/atom/mod_34lsub1.asm

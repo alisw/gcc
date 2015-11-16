@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/proc_ptr_31.f90

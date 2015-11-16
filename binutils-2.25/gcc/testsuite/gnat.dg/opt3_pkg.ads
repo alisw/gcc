@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/opt3_pkg.ads

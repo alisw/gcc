@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/format/ms_c94-scanf-1.c

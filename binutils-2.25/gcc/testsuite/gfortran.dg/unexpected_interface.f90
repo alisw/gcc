@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/unexpected_interface.f90

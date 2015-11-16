@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/conv1.C

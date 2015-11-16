@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/sse-divss-1.c

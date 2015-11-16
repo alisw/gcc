@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/conv-2.c

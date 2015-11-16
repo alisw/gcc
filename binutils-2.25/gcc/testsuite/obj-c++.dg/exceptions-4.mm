@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/obj-c++.dg/exceptions-4.mm

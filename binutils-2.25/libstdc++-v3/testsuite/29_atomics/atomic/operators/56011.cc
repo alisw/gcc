@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/29_atomics/atomic/operators/56011.cc

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/objc/execute/many_args_method.m

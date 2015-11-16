@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/execute/vfprintf-chk-1.c

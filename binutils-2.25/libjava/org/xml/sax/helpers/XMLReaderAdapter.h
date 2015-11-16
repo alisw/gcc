@@ -1,0 +1,1 @@
+../../../../../../libjava/org/xml/sax/helpers/XMLReaderAdapter.h

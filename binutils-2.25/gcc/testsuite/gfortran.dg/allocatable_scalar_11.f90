@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/allocatable_scalar_11.f90

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/vect/vect-1-big-array.c

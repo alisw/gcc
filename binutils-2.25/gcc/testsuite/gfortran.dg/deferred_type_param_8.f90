@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/deferred_type_param_8.f90

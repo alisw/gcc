@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/gcc.target/bfin/builtins/sum_fr2x16-2.c

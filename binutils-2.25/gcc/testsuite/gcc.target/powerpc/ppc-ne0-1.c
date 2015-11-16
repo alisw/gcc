@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/ppc-ne0-1.c

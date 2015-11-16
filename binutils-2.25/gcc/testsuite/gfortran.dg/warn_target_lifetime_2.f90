@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/warn_target_lifetime_2.f90

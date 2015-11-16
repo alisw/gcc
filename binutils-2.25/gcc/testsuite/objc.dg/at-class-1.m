@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/at-class-1.m

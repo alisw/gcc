@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/bug_elaboration_code.ads

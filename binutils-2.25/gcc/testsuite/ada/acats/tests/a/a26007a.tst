@@ -1,0 +1,1 @@
+../../../../../../../gcc/testsuite/ada/acats/tests/a/a26007a.tst

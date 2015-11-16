@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/write_direct_eor.f90

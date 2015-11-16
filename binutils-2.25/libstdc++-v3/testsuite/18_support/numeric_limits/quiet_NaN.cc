@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/18_support/numeric_limits/quiet_NaN.cc

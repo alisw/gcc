@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/x86/atom/bdiv_q_1.asm

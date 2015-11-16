@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/obj-c++.dg/syntax-error-7.mm

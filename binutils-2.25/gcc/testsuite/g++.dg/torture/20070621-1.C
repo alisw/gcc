@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/torture/20070621-1.C

@@ -1,0 +1,1 @@
+../../../../../../../../libstdc++-v3/testsuite/ext/vstring/modifiers/erase/wchar_t/54577.cc

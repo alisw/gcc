@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arm/neon-for-64bits-1.c

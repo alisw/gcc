@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/auto_internal_assumed.f90

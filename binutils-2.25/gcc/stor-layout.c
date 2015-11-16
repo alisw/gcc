@@ -1,0 +1,1 @@
+../../gcc/stor-layout.c

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/discr41.adb

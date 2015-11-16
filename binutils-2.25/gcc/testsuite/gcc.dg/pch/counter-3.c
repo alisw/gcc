@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/pch/counter-3.c

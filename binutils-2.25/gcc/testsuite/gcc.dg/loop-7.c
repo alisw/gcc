@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/loop-7.c

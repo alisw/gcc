@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/execute/strct-pack-3.c

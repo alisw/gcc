@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/random_seed_2.f90

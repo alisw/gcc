@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/compile/inline-1.c

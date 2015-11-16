@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/decl-nospec-1.c

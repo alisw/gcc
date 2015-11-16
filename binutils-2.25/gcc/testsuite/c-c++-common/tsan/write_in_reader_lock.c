@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/c-c++-common/tsan/write_in_reader_lock.c

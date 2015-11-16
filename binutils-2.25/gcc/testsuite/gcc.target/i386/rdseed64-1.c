@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/rdseed64-1.c

@@ -1,0 +1,1 @@
+../../../../../libgo/go/sync/atomic/doc.go

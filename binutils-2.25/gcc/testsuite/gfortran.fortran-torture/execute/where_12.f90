@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.fortran-torture/execute/where_12.f90

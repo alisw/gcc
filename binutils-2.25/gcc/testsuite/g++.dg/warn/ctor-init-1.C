@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/ctor-init-1.C

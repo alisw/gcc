@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/contained_equivalence_1.f90

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/case-const-2.c

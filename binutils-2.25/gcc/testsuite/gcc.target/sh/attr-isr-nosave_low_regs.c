@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/sh/attr-isr-nosave_low_regs.c

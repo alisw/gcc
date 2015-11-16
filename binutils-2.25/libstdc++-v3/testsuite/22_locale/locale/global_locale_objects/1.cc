@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/22_locale/locale/global_locale_objects/1.cc

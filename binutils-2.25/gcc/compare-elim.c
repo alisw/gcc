@@ -1,0 +1,1 @@
+../../gcc/compare-elim.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/error45.C

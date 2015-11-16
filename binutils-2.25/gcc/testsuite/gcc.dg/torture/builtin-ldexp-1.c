@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/torture/builtin-ldexp-1.c

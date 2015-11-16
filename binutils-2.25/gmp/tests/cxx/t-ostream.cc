@@ -1,0 +1,1 @@
+../../../../gmp/tests/cxx/t-ostream.cc

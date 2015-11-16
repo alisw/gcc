@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/parent_result_ref_4.f90

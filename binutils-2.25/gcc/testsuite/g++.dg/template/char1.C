@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/char1.C

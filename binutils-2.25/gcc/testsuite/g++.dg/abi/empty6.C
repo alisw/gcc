@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/abi/empty6.C

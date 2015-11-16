@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/ref-temp1.C

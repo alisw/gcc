@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/obj-c++.dg/fobjc-exceptions-3.mm

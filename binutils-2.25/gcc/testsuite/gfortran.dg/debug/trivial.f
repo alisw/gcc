@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.dg/debug/trivial.f

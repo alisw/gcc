@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/fabsf-2008.c

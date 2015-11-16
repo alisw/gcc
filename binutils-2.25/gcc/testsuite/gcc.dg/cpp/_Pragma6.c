@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/cpp/_Pragma6.c

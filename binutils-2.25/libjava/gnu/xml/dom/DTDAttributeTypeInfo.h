@@ -1,0 +1,1 @@
+../../../../../libjava/gnu/xml/dom/DTDAttributeTypeInfo.h

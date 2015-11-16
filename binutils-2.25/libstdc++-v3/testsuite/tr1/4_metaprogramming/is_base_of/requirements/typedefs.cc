@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/tr1/4_metaprogramming/is_base_of/requirements/typedefs.cc

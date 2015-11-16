@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/22_locale/headers/clocale/types_std.cc

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/intent_out_5.f90

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/strlenopt-14gf.c

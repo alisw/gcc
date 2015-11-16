@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/vect/fast-math-slp-27.c

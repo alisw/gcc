@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/execute/printf-1.c

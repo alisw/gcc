@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/gomp/tls-1.C

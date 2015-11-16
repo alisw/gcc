@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arm/crypto-vsha256hq_u32.c

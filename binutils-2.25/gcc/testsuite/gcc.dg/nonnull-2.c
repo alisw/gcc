@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/nonnull-2.c

@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/29_atomics/atomic/operators/integral_assignment.cc

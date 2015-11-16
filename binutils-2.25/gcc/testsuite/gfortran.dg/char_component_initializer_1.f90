@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/char_component_initializer_1.f90

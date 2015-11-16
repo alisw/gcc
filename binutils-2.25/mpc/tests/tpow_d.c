@@ -1,0 +1,1 @@
+../../../mpc/tests/tpow_d.c

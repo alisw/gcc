@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/pack20_pkg.ads

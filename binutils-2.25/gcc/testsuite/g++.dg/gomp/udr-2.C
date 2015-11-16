@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/gomp/udr-2.C

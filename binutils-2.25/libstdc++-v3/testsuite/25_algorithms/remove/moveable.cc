@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/25_algorithms/remove/moveable.cc

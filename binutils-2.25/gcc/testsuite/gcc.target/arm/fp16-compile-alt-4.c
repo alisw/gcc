@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arm/fp16-compile-alt-4.c

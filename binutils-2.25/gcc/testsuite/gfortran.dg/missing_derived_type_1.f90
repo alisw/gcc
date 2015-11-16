@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/missing_derived_type_1.f90

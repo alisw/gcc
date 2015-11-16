@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/x86_64/pentium4/sec_tabselect.asm

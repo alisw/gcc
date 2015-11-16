@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/intrinsic_spread_3.f90

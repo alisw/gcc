@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/compile/iftrap-3.c

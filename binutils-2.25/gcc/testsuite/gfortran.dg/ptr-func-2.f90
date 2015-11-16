@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/ptr-func-2.f90

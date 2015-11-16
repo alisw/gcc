@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.bugs/900213_03.C

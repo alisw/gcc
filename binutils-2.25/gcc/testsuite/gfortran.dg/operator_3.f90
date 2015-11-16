@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/operator_3.f90

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/Wmissing-declarations-1.C

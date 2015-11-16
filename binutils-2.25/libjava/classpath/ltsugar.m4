@@ -1,0 +1,1 @@
+../../../libjava/classpath/ltsugar.m4

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/const-uniq-1.c

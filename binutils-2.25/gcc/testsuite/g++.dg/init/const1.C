@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/init/const1.C

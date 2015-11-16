@@ -1,0 +1,1 @@
+../../../../gcc/config/pa/predicates.md

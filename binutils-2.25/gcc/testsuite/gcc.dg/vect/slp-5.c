@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/vect/slp-5.c

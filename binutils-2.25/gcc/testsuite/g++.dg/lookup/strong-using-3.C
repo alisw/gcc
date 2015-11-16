@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/lookup/strong-using-3.C

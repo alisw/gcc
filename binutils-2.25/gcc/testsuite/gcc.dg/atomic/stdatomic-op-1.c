@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/atomic/stdatomic-op-1.c

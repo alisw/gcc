@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/24_iterators/front_insert_iterator/requirements/explicit_instantiation.cc

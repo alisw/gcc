@@ -1,0 +1,1 @@
+../../../../libgcc/config/nios2/linux-atomic.c

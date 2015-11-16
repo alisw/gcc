@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/intrinsic_8.f90

@@ -1,0 +1,1 @@
+../../../../gmp-6.0.0/mini-gmp/tests/t-div_2exp.c

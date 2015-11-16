@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arm/neon-vmla-1.c

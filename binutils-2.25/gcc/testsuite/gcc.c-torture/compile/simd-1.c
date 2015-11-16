@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/compile/simd-1.c

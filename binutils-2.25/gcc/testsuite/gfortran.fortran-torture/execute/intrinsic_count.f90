@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.fortran-torture/execute/intrinsic_count.f90

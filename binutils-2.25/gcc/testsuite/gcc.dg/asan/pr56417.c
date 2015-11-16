@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/asan/pr56417.c

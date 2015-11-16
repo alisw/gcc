@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/440-mulchwu-2.c

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/protocol-inheritance-1.m

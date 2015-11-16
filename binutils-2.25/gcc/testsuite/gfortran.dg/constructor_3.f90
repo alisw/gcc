@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/constructor_3.f90

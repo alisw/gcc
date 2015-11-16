@@ -1,0 +1,1 @@
+../../../../gmp/mpn/mips64/submul_1.asm

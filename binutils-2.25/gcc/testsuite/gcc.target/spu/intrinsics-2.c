@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/spu/intrinsics-2.c

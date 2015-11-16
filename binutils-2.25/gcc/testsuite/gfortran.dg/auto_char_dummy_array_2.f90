@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/auto_char_dummy_array_2.f90

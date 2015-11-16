@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/overwrite_1.f

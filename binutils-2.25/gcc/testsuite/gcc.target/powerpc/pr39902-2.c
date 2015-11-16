@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/pr39902-2.c

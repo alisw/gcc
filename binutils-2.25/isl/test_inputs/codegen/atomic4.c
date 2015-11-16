@@ -1,0 +1,1 @@
+../../../../isl/test_inputs/codegen/atomic4.c

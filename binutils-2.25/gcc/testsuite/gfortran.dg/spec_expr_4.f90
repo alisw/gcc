@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/spec_expr_4.f90

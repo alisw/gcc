@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/expr/string-2.C

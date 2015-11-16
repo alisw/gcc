@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/27_io/basic_stringbuf/pbackfail/char/1.cc

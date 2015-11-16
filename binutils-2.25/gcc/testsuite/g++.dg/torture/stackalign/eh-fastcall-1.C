@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/g++.dg/torture/stackalign/eh-fastcall-1.C

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arm/vrintrf64.c

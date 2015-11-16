@@ -1,0 +1,1 @@
+../../../mpfr/tests/tpow3.c

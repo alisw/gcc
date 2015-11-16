@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/execute/struct-ret-1.c

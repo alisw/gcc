@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.eh/ctor1.C

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/c90-mixdecl-1.c

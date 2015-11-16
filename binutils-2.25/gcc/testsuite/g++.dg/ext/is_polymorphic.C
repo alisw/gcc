@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/ext/is_polymorphic.C

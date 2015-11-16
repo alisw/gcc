@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/cpp/maccom3.c

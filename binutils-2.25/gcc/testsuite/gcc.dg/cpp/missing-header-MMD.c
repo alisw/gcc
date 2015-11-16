@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/cpp/missing-header-MMD.c

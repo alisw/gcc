@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/c-c++-common/uninit-17.c

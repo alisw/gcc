@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/tm/pr47520.c

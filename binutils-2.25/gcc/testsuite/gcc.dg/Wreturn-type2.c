@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/Wreturn-type2.c

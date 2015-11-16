@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/declspec-15.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/Wextra-1.C

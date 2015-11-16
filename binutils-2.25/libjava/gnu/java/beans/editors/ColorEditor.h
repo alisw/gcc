@@ -1,0 +1,1 @@
+../../../../../../libjava/gnu/java/beans/editors/ColorEditor.h

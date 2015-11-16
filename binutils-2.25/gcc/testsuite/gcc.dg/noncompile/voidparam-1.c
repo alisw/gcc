@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/noncompile/voidparam-1.c

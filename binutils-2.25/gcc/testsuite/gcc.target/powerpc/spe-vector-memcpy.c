@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/spe-vector-memcpy.c

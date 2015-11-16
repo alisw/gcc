@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.dg/coarray/allocate_errgmsg.f90

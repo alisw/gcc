@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/execute/va-arg-trap-1.c

@@ -1,0 +1,1 @@
+../../../../gmp/tests/cxx/t-do-exceptions-work-at-all-with-this-compiler.cc

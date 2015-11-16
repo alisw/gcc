@@ -1,0 +1,1 @@
+../../../../gcc/config/mcore/constraints.md

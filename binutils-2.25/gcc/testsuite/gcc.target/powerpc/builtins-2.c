@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/builtins-2.c

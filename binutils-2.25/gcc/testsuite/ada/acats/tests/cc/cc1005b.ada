@@ -1,0 +1,1 @@
+../../../../../../../gcc/testsuite/ada/acats/tests/cc/cc1005b.ada

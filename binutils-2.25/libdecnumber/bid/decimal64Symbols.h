@@ -1,1 +1,1 @@
-#include "dpd/decimal64Symbols.h"
+../../../libdecnumber/bid/decimal64Symbols.h

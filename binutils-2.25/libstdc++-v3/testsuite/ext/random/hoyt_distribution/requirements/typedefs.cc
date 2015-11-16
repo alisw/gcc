@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/ext/random/hoyt_distribution/requirements/typedefs.cc

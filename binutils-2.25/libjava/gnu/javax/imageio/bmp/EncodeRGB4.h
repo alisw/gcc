@@ -1,0 +1,1 @@
+../../../../../../libjava/gnu/javax/imageio/bmp/EncodeRGB4.h

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/20030505.c

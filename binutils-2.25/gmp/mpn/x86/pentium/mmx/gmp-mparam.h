@@ -1,0 +1,1 @@
+../../../../../../gmp/mpn/x86/pentium/mmx/gmp-mparam.h

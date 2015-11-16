@@ -1,1 +1,1 @@
-#include "dpd/decimal32.h"
+../../../libdecnumber/bid/decimal32.h

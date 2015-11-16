@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/namelist_assumed_char.f90

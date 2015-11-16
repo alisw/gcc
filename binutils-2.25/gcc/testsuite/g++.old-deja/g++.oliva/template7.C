@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.oliva/template7.C

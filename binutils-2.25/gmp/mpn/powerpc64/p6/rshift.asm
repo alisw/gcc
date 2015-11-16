@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/powerpc64/p6/rshift.asm

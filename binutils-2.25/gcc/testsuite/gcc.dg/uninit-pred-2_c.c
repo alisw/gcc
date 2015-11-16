@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/uninit-pred-2_c.c

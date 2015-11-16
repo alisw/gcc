@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/g++.dg/uninit-pred-loop_1.cc

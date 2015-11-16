@@ -1,0 +1,1 @@
+../../../../../../libjava/classpath/javax/print/attribute/TextSyntax.java

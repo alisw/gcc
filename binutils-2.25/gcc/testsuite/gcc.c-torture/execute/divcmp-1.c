@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/execute/divcmp-1.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.ext/noweak1.C

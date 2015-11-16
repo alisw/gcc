@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arm/scd42-3.c

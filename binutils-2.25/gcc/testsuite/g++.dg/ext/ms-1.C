@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/ext/ms-1.C

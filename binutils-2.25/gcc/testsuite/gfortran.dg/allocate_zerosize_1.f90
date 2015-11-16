@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/allocate_zerosize_1.f90

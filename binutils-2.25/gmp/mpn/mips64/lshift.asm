@@ -1,0 +1,1 @@
+../../../../gmp/mpn/mips64/lshift.asm

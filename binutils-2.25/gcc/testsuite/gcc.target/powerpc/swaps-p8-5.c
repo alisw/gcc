@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/swaps-p8-5.c

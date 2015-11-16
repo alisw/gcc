@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/obj-c++.dg/lookup-2.mm

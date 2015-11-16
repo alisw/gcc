@@ -1,0 +1,1 @@
+../../../../gmp/mpn/pa32/rshift.asm

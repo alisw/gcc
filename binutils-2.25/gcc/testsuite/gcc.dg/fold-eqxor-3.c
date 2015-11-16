@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/fold-eqxor-3.c

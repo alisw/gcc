@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/pr12092-1.c

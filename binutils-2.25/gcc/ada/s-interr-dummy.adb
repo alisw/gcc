@@ -1,0 +1,1 @@
+../../../gcc/ada/s-interr-dummy.adb

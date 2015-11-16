@@ -1,0 +1,1 @@
+../../../../gcc/config/sh/divtab-sh4.c

@@ -1,0 +1,1 @@
+../../../../../../libjava/classpath/org/omg/Messaging/SYNC_WITH_TRANSPORT.java

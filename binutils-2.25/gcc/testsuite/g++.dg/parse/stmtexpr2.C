@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/parse/stmtexpr2.C

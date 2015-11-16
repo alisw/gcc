@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/empty_vector_length.adb

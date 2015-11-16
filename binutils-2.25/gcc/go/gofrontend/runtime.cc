@@ -1,0 +1,1 @@
+../../../../gcc/go/gofrontend/runtime.cc

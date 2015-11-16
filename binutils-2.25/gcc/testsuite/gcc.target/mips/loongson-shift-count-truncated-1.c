@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/loongson-shift-count-truncated-1.c

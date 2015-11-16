@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/auto_dealloc_1.f90

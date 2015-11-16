@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/compat/vector-1b_x.c

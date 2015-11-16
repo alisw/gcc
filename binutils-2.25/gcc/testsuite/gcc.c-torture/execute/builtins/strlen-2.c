@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/gcc.c-torture/execute/builtins/strlen-2.c

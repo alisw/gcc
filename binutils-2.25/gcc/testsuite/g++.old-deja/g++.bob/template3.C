@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.bob/template3.C

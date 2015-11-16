@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/objc.dg/attributes/parameter-attribute-1.m

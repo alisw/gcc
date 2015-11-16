@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/dfp/float-constant-double.c

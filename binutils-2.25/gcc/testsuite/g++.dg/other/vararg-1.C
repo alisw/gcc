@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/other/vararg-1.C

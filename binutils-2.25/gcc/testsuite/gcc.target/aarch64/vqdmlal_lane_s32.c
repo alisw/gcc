@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/aarch64/vqdmlal_lane_s32.c

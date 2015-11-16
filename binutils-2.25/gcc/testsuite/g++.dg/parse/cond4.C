@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/parse/cond4.C

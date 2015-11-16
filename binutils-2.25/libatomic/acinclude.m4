@@ -1,0 +1,1 @@
+../../libatomic/acinclude.m4

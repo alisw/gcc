@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/diagnostic/pr59838.C

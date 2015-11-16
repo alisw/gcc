@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/iftrap-2.c

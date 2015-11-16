@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.robertl/980310-1.C

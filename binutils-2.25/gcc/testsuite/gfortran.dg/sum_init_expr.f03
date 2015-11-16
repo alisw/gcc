@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/sum_init_expr.f03

@@ -1,3 +1,1 @@
-HDEFINES = -D_ALL_SOURCE -DLE370
-CC=c89
-
+../../../libiberty/config/mh-openedition

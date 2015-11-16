@@ -1,0 +1,1 @@
+../../../../libgcc/config/libbid/bid128_to_int16.c

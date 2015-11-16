@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/hyper_flat.adb

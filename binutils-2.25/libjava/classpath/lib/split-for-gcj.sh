@@ -1,0 +1,1 @@
+../../../../libjava/classpath/lib/split-for-gcj.sh

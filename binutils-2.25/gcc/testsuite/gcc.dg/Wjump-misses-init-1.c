@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/Wjump-misses-init-1.c

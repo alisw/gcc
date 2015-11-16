@@ -1,0 +1,1 @@
+../../../../libgo/go/unicode/script_test.go

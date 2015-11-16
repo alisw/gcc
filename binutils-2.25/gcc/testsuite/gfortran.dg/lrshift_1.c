@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/lrshift_1.c

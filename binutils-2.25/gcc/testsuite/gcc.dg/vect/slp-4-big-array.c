@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/vect/slp-4-big-array.c

@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/27_io/basic_istream/extractors_other/char/exceptions_badbit_throw.cc

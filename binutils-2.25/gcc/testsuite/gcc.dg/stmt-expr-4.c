@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/stmt-expr-4.c

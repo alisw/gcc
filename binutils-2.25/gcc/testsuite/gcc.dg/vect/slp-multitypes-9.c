@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/vect/slp-multitypes-9.c

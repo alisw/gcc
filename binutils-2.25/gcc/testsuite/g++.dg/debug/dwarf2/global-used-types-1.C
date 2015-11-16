@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/g++.dg/debug/dwarf2/global-used-types-1.C

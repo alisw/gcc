@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/offsetof2.C

@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/27_io/basic_istream/readsome/wchar_t/8258.cc

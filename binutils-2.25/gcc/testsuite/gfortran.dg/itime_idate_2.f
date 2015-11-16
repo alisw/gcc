@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/itime_idate_2.f

@@ -1,0 +1,1 @@
+../../../../../../../gcc/testsuite/gcc.target/x86_64/abi/avx512f/test_passing_m512.c

@@ -1,0 +1,1 @@
+../../../libgcc/soft-fp/trunctfxf2.c

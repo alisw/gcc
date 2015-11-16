@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/opt/eh2.C

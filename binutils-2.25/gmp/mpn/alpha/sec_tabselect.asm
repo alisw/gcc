@@ -1,0 +1,1 @@
+../../../../gmp/mpn/alpha/sec_tabselect.asm

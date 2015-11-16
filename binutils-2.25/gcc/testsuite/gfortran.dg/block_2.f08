@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/block_2.f08

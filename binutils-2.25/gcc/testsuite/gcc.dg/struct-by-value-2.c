@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/struct-by-value-2.c

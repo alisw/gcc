@@ -1,0 +1,1 @@
+../../../../../libgcc/config/arc/ieee-754/gtdf2.S

@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/pa32/hppa1_1/addmul_1.asm

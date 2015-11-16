@@ -1,0 +1,1 @@
+../../../../../../../gcc/testsuite/ada/acats/tests/cc/cc3230a.ada

@@ -1,0 +1,1 @@
+../../../../libgcc/config/libbid/_gt_sd.c

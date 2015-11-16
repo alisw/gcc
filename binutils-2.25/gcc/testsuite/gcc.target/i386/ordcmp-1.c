@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/ordcmp-1.c

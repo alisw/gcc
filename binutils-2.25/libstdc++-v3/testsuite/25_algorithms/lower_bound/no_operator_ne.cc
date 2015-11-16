@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/25_algorithms/lower_bound/no_operator_ne.cc

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/noreturn-4.c

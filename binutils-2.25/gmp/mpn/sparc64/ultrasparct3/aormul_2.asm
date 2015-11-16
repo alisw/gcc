@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/sparc64/ultrasparct3/aormul_2.asm

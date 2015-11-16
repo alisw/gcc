@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/aliasing2.ads

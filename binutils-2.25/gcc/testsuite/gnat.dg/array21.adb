@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/array21.adb

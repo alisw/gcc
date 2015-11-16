@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/graphite/block-3.c

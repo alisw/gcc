@@ -1,0 +1,1 @@
+../../../../../libgcc/config/nds32/isr-library/save_mac_regs.inc

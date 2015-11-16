@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/darwin-weakimport-2.c

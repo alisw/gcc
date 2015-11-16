@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/contains_empty_1.f03

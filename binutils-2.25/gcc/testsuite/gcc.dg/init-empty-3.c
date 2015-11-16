@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/init-empty-3.c

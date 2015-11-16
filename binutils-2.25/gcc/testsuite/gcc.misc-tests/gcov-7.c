@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.misc-tests/gcov-7.c

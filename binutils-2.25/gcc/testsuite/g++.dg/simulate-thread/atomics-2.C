@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/simulate-thread/atomics-2.C

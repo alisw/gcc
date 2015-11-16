@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/objc-fast-4.m

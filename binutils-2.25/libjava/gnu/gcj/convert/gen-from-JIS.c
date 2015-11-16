@@ -1,0 +1,1 @@
+../../../../../libjava/gnu/gcj/convert/gen-from-JIS.c

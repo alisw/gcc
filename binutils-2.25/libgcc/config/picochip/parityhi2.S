@@ -1,0 +1,1 @@
+../../../../libgcc/config/picochip/parityhi2.S

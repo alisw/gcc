@@ -1,0 +1,1 @@
+../../../../libjava/javax/accessibility/AccessibleAttributeSequence.h

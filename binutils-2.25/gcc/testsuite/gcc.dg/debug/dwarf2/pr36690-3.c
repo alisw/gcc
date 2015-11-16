@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/gcc.dg/debug/dwarf2/pr36690-3.c

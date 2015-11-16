@@ -1,0 +1,1 @@
+../../../../../libjava/gnu/gcj/convert/BytesToCharsetAdaptor.h

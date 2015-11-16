@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/call-1.c

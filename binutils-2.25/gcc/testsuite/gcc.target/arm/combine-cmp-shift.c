@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arm/combine-cmp-shift.c

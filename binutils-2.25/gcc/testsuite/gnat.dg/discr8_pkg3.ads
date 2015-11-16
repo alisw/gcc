@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/discr8_pkg3.ads

@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/c-c++-common/cilk-plus/CK/spawning_arg.c

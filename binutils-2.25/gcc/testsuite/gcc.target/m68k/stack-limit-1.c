@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/m68k/stack-limit-1.c

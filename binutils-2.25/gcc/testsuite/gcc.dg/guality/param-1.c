@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/guality/param-1.c

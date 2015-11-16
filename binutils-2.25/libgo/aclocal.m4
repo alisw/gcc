@@ -1,0 +1,1 @@
+../../libgo/aclocal.m4

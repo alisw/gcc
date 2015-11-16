@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/21_strings/c_strings/char/2.cc

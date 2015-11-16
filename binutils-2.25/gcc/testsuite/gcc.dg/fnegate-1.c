@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/fnegate-1.c

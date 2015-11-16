@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/no-r11-2.c

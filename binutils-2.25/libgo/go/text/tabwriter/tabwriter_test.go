@@ -1,0 +1,1 @@
+../../../../../libgo/go/text/tabwriter/tabwriter_test.go

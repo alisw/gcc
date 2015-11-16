@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/dependency_28.f90

@@ -1,0 +1,1 @@
+../../../../libjava/testsuite/libjava.lang/test_long.java

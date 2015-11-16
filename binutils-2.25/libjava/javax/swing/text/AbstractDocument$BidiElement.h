@@ -1,0 +1,1 @@
+../../../../../libjava/javax/swing/text/AbstractDocument$BidiElement.h

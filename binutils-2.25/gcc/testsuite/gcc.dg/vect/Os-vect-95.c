@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/vect/Os-vect-95.c

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.test-framework/dg-do-assemble-exp-P.c

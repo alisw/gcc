@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/local-decl-2.m

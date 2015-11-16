@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/graphite/scop-dsyr2k.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/init/brace6.C

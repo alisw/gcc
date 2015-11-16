@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/aarch64/volatile-bitfields-2.c

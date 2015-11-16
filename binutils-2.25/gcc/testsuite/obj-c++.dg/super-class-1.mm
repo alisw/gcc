@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/obj-c++.dg/super-class-1.mm

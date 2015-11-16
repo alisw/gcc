@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/c-c++-common/ubsan/pr56917.c

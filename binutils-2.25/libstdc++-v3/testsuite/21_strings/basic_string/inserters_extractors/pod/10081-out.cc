@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/21_strings/basic_string/inserters_extractors/pod/10081-out.cc

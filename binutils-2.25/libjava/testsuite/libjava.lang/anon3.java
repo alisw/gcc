@@ -1,0 +1,1 @@
+../../../../libjava/testsuite/libjava.lang/anon3.java

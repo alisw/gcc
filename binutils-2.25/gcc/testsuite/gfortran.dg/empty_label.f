@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/empty_label.f

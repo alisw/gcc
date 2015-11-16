@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/dependent-name6.C

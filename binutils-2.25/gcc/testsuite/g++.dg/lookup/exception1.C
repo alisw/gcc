@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/lookup/exception1.C

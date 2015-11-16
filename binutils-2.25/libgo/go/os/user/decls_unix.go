@@ -1,0 +1,1 @@
+../../../../../libgo/go/os/user/decls_unix.go

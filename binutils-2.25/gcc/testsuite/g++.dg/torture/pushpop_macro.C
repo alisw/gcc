@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/torture/pushpop_macro.C

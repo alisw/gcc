@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/other/enum3.C

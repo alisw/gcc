@@ -1,0 +1,1 @@
+../../../zlib/examples/enough.c

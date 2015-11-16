@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/cpp0x/std_fext-numeric-literals.C

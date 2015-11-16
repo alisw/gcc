@@ -1,0 +1,1 @@
+../../../../libatomic/config/arm/host-config.h

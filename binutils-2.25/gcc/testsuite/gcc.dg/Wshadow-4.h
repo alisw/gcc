@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/Wshadow-4.h

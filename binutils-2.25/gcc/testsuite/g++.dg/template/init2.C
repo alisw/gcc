@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/init2.C

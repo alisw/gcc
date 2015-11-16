@@ -1,0 +1,1 @@
+../../../gcc/java/resource.c

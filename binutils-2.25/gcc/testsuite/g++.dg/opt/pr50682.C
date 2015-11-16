@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/opt/pr50682.C

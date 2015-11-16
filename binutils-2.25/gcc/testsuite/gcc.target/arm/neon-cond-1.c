@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arm/neon-cond-1.c

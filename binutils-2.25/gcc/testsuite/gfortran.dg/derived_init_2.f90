@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/derived_init_2.f90

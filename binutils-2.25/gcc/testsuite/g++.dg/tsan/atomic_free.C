@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/tsan/atomic_free.C

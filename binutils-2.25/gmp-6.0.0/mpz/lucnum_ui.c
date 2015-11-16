@@ -1,0 +1,1 @@
+../../../gmp-6.0.0/mpz/lucnum_ui.c

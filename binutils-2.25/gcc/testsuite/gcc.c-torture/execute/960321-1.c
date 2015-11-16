@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/execute/960321-1.c

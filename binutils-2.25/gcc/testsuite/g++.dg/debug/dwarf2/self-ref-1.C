@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/g++.dg/debug/dwarf2/self-ref-1.C

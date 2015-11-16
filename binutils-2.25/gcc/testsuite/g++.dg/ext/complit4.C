@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/ext/complit4.C

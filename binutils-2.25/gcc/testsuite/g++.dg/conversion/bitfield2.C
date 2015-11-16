@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/conversion/bitfield2.C

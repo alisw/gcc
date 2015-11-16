@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/Wstrict-overflow-19.c

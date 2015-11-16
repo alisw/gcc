@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.dg/gomp/reduction3.f90

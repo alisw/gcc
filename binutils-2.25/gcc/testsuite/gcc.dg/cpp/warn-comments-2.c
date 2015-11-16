@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/cpp/warn-comments-2.c

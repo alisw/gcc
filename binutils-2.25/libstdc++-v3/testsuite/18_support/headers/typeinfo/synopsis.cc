@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/18_support/headers/typeinfo/synopsis.cc

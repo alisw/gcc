@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/go.test/test/fixedbugs/bug238.go

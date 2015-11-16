@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/sse-comiss-1.c

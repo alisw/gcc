@@ -1,0 +1,1 @@
+../../../../../libjava/gnu/awt/xlib/XGraphicsConfiguration$FontMetricsCache$PerDisplayCache.h

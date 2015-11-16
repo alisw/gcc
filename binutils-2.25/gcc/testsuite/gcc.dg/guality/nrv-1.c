@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/guality/nrv-1.c

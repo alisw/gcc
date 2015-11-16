@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/pointer_comp_init_1.f90

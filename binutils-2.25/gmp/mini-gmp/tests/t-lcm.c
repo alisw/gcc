@@ -1,0 +1,1 @@
+../../../../gmp/mini-gmp/tests/t-lcm.c

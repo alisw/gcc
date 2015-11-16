@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/h8300-div-delay-slot.c

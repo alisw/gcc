@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/pr46728-14.c

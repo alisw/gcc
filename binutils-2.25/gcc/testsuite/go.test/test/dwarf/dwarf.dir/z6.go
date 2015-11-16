@@ -1,0 +1,1 @@
+../../../../../../../gcc/testsuite/go.test/test/dwarf/dwarf.dir/z6.go

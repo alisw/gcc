@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/local3.C

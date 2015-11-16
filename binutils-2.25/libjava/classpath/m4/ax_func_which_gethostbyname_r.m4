@@ -1,0 +1,1 @@
+../../../../libjava/classpath/m4/ax_func_which_gethostbyname_r.m4

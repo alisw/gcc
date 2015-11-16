@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/sparc64/ultrasparct3/submul_1.asm

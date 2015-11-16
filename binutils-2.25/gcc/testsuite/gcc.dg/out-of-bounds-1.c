@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/out-of-bounds-1.c

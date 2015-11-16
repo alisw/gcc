@@ -1,0 +1,1 @@
+../../../../libgomp/testsuite/libgomp.c++/cancel-sections-1.C

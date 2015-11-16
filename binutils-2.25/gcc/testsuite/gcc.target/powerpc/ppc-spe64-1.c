@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/ppc-spe64-1.c

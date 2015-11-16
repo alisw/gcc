@@ -1,0 +1,1 @@
+../../../../../../../gcc/testsuite/ada/acats/tests/cb/cb2006a.ada

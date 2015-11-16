@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/init/pr25811-4.C

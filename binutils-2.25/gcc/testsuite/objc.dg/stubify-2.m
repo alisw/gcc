@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/stubify-2.m

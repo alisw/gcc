@@ -1,0 +1,1 @@
+../../../../../libgo/go/debug/dwarf/type.go

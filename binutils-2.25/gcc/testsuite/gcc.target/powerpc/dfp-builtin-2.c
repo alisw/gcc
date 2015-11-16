@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/dfp-builtin-2.c

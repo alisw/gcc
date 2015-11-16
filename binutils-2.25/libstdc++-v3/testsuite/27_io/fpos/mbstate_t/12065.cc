@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/27_io/fpos/mbstate_t/12065.cc

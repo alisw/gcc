@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/charset/asm4.c

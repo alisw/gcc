@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/execute/wchar_t-1.c

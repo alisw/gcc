@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/parse/qualified2.C

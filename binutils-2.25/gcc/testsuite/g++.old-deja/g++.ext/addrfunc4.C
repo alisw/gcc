@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.ext/addrfunc4.C

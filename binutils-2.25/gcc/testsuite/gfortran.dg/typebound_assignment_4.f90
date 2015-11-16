@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/typebound_assignment_4.f90

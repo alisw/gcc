@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/23_containers/deque/check_construct_destroy.cc

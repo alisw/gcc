@@ -1,0 +1,1 @@
+../../../../../../libjava/java/awt/im/spi/InputMethodDescriptor.h

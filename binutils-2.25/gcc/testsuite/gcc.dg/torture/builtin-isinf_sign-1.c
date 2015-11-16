@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/torture/builtin-isinf_sign-1.c

@@ -1,0 +1,1 @@
+../../../gcc/ada/text_io.ads

@@ -1,0 +1,1 @@
+../../../../gcc/config/fr30/predicates.md

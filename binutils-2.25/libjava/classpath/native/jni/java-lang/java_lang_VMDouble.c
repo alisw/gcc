@@ -1,0 +1,1 @@
+../../../../../../libjava/classpath/native/jni/java-lang/java_lang_VMDouble.c

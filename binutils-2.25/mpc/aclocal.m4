@@ -1,0 +1,1 @@
+../../mpc/aclocal.m4

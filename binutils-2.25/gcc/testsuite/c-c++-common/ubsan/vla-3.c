@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/c-c++-common/ubsan/vla-3.c

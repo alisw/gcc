@@ -1,0 +1,1 @@
+../../../gcc/ada/prj-conf.ads

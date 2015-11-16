@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/cpp0x/initlist63.C

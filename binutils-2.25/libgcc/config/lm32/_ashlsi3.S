@@ -1,0 +1,1 @@
+../../../../libgcc/config/lm32/_ashlsi3.S

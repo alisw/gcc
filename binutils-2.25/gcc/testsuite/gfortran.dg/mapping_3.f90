@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/mapping_3.f90

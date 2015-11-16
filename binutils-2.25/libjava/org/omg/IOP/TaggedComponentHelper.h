@@ -1,0 +1,1 @@
+../../../../../libjava/org/omg/IOP/TaggedComponentHelper.h

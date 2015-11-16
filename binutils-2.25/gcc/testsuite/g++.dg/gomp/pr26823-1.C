@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/gomp/pr26823-1.C

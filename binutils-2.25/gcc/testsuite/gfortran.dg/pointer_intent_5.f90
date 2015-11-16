@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/pointer_intent_5.f90

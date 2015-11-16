@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arm/thumb2-mul-space-3.c

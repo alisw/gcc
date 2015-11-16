@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/fold-addr-1.c

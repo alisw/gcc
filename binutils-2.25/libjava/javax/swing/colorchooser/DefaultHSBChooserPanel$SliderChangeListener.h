@@ -1,0 +1,1 @@
+../../../../../libjava/javax/swing/colorchooser/DefaultHSBChooserPanel$SliderChangeListener.h

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/c99-scope-1.c

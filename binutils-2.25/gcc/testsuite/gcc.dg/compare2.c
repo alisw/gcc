@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/compare2.c

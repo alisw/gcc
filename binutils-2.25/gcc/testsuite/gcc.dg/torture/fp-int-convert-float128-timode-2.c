@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/torture/fp-int-convert-float128-timode-2.c

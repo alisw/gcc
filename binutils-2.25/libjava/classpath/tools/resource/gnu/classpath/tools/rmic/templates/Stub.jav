@@ -1,0 +1,1 @@
+../../../../../../../../../../libjava/classpath/tools/resource/gnu/classpath/tools/rmic/templates/Stub.jav

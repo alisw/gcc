@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/secnds-1.f

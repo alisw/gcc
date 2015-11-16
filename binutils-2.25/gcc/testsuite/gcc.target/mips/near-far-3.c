@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/near-far-3.c

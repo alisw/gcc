@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/fsf-package-0.m

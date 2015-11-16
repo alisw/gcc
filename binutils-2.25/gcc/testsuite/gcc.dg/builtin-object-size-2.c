@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/builtin-object-size-2.c

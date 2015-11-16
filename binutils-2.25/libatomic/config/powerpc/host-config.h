@@ -1,0 +1,1 @@
+../../../../libatomic/config/powerpc/host-config.h

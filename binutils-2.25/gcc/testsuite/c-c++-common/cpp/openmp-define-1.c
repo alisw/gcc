@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/c-c++-common/cpp/openmp-define-1.c

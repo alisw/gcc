@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/try-catch-12.m

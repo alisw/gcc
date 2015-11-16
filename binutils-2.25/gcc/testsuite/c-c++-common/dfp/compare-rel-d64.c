@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/c-c++-common/dfp/compare-rel-d64.c

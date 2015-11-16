@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/execute/regstack-1.c

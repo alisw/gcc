@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/gcc.target/bfin/builtins/add_fr1x32-2.c

@@ -1,0 +1,1 @@
+../../../../../libgo/go/unicode/utf8/example_test.go

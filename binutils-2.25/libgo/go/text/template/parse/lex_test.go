@@ -1,0 +1,1 @@
+../../../../../../libgo/go/text/template/parse/lex_test.go

@@ -1,0 +1,1 @@
+../../../../../isl/test_inputs/codegen/omega/p6-1.c

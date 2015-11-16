@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/fixed-point/struct-layout-1.c

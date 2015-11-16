@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/ext/case-range3.C

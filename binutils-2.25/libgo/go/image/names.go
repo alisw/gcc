@@ -1,0 +1,1 @@
+../../../../libgo/go/image/names.go

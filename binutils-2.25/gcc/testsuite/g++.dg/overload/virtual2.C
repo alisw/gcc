@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/overload/virtual2.C

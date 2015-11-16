@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/fobjc-exceptions-2.m

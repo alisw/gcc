@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/ext/altivec-4.C

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/lookup/forscope2.C

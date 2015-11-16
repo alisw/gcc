@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/tree-prof/switch-case-1.c

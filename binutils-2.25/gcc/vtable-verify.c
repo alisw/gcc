@@ -1,0 +1,1 @@
+../../gcc/vtable-verify.c

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/warn-addr-cmp.c

@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/powerpc64/vmx/popcount.asm

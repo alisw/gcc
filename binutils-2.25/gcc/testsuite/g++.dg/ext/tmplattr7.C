@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/ext/tmplattr7.C

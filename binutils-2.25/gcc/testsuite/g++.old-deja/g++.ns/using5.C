@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.ns/using5.C

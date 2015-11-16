@@ -1,0 +1,1 @@
+../../../gcc/ada/lib-writ.adb

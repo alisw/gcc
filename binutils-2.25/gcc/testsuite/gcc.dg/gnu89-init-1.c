@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/gnu89-init-1.c

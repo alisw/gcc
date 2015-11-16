@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/gcc.dg/torture/tls/tls-reload-1.c

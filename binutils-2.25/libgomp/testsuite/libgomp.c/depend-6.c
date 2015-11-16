@@ -1,0 +1,1 @@
+../../../../libgomp/testsuite/libgomp.c/depend-6.c

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/noreturn2.ads

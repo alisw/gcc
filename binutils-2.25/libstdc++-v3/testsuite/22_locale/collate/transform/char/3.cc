@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/22_locale/collate/transform/char/3.cc

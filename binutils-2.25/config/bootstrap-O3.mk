@@ -1,1 +1,1 @@
-BOOT_CFLAGS := -O3 $(filter-out -O%, $(BOOT_CFLAGS))
+../../config/bootstrap-O3.mk

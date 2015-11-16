@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/sms-2.c

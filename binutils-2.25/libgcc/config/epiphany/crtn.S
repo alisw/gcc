@@ -1,0 +1,1 @@
+../../../../libgcc/config/epiphany/crtn.S

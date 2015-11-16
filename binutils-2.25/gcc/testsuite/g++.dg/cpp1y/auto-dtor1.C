@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/cpp1y/auto-dtor1.C

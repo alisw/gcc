@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/vla-init-3.c

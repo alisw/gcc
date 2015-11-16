@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/obj-c++.dg/protocol-qualifier-1.mm

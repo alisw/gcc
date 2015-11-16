@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arm/wmul-2.c

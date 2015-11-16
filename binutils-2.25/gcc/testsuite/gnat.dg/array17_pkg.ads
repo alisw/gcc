@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/array17_pkg.ads

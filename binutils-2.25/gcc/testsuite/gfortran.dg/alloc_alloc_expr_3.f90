@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/alloc_alloc_expr_3.f90

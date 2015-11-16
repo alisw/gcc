@@ -1,0 +1,1 @@
+../../../../libjava/java/awt/Window$WindowFlipBufferStrategy.h

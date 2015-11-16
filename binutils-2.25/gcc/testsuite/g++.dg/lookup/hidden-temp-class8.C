@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/lookup/hidden-temp-class8.C

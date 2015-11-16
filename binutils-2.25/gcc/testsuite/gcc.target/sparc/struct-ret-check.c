@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/sparc/struct-ret-check.c

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/cast-function-1.c

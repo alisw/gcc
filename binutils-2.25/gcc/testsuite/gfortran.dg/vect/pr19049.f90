@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.dg/vect/pr19049.f90

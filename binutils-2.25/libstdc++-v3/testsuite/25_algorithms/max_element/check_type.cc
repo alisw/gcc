@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/25_algorithms/max_element/check_type.cc

@@ -1,0 +1,1 @@
+../../../../libgo/go/syscall/socket_solaris.go

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/objc/execute/class-7.m

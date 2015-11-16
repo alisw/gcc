@@ -1,0 +1,1 @@
+../../../../libgomp/testsuite/libgomp.c/nqueens-1.c

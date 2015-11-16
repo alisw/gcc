@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/wvla-1.c

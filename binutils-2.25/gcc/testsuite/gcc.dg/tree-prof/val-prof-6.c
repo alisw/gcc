@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/tree-prof/val-prof-6.c

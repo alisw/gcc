@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/ipa/pr44372.C

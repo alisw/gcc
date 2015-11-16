@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/class_array_14.f90

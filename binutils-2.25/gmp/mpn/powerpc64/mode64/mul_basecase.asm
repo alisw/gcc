@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/powerpc64/mode64/mul_basecase.asm

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/demangle-1.m

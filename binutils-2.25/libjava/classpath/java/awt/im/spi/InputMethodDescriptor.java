@@ -1,0 +1,1 @@
+../../../../../../../libjava/classpath/java/awt/im/spi/InputMethodDescriptor.java

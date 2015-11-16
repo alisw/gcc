@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/size_dim.f90

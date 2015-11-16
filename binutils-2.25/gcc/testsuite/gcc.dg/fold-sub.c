@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/fold-sub.c

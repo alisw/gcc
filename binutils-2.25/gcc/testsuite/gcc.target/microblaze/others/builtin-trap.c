@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/gcc.target/microblaze/others/builtin-trap.c

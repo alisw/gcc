@@ -1,0 +1,1 @@
+../../../../gmp/mpn/alpha/invert_limb.asm

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/lto/ipareference2_1.c

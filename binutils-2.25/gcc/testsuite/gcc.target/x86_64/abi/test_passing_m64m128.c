@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/gcc.target/x86_64/abi/test_passing_m64m128.c

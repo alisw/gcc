@@ -1,0 +1,1 @@
+../../../../gmp/tests/mpn/t-matrix22.c

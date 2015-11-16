@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/umips-save-restore-1.c

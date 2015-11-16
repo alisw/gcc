@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/c-c++-common/dfp/convert-bfp-8.c

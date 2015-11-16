@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/expr/unary3.C

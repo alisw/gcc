@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/c_funloc_tests_6.f90

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/eh/forced3.C

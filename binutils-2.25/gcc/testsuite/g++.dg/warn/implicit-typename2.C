@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/implicit-typename2.C

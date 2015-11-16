@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/der_ptr_component_1.f90

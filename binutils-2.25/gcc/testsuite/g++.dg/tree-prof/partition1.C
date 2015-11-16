@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/tree-prof/partition1.C

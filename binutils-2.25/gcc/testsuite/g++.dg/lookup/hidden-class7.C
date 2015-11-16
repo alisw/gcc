@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/lookup/hidden-class7.C

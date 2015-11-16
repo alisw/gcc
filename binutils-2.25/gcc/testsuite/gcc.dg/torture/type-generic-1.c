@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/torture/type-generic-1.c

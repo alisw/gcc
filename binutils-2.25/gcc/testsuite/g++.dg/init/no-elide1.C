@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/init/no-elide1.C

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/format/attr-7.c

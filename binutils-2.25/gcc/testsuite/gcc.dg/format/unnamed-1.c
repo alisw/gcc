@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/format/unnamed-1.c

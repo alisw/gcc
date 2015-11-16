@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/other/classkey1.C

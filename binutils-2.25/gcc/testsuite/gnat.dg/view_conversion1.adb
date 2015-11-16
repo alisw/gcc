@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/view_conversion1.adb

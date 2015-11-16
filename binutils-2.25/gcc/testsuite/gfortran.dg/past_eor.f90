@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/past_eor.f90

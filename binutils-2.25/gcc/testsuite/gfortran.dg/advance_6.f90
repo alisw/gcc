@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/advance_6.f90

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/pch/save-temps-1.hs

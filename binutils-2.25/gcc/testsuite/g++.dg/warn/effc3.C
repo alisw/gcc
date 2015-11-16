@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/effc3.C

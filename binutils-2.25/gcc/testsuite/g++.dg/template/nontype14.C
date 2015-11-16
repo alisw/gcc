@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/nontype14.C

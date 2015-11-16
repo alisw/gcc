@@ -1,0 +1,1 @@
+../../../../libgomp/testsuite/libgomp.c++/task-6.C

@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/23_containers/list/requirements/partial_specialization/1.cc

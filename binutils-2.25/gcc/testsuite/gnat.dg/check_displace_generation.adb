@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/check_displace_generation.adb

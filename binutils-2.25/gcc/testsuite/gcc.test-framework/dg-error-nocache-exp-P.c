@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.test-framework/dg-error-nocache-exp-P.c

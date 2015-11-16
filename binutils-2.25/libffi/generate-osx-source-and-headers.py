@@ -1,0 +1,1 @@
+../../libffi/generate-osx-source-and-headers.py

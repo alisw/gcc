@@ -1,0 +1,1 @@
+../../gcc/genoutput.c

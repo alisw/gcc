@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/vect/fast-math-bb-slp-call-3.c

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/assumed_rank_4.f90

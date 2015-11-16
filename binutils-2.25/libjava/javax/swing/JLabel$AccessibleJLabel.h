@@ -1,0 +1,1 @@
+../../../../libjava/javax/swing/JLabel$AccessibleJLabel.h

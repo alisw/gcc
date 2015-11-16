@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/alpha/ev67/gcd_1.asm

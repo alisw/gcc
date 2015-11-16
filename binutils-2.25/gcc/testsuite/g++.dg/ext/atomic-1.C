@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/ext/atomic-1.C

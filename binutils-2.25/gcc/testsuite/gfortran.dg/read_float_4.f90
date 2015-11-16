@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/read_float_4.f90

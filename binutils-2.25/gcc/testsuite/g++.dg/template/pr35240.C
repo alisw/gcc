@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/pr35240.C

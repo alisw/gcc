@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/parse/enum1.C

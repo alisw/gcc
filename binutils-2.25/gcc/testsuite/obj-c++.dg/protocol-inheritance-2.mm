@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/obj-c++.dg/protocol-inheritance-2.mm

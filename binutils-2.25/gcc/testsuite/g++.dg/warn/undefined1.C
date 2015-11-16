@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/undefined1.C

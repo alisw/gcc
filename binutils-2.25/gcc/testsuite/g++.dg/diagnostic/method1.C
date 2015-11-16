@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/diagnostic/method1.C

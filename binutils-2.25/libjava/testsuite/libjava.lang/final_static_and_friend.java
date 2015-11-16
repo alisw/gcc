@@ -1,0 +1,1 @@
+../../../../libjava/testsuite/libjava.lang/final_static_and_friend.java

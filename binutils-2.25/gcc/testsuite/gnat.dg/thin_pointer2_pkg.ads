@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/thin_pointer2_pkg.ads

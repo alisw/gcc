@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/concat2.c

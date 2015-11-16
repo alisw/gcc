@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/discr12_pkg.ads

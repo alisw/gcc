@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/pr16155.c

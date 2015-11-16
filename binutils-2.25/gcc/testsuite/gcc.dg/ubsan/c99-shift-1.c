@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/ubsan/c99-shift-1.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/ipa/ipa-pta-6.c

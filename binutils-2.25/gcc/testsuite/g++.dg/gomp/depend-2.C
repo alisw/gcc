@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/gomp/depend-2.C

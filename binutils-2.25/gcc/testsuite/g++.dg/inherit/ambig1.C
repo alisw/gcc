@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/inherit/ambig1.C

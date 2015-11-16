@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/empty_derived_type.f90

@@ -1,0 +1,1 @@
+../../../../libgo/go/image/decode_test.go

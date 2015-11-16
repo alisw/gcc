@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/config/cpu/i386/atomicity.h

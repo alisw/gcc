@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/pointer_remapping_4.f03

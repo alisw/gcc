@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/27_io/manipulators/standard/wchar_t/dr2344.cc

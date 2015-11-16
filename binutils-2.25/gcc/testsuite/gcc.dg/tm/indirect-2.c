@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/tm/indirect-2.c

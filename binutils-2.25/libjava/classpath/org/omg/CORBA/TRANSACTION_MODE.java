@@ -1,0 +1,1 @@
+../../../../../../libjava/classpath/org/omg/CORBA/TRANSACTION_MODE.java

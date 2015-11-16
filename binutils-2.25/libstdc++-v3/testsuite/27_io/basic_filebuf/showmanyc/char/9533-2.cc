@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/27_io/basic_filebuf/showmanyc/char/9533-2.cc

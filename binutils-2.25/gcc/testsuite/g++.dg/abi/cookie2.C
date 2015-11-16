@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/abi/cookie2.C

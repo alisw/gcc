@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/cpp/pragma-diagnostic-1.c

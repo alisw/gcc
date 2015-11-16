@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/ada/acats/run_all.sh

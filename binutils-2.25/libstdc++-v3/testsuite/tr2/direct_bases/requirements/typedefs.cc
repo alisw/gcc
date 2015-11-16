@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/tr2/direct_bases/requirements/typedefs.cc

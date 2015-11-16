@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/shape_1.f90

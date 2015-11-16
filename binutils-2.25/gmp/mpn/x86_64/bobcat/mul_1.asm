@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/x86_64/bobcat/mul_1.asm

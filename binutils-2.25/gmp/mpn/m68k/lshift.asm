@@ -1,0 +1,1 @@
+../../../../gmp/mpn/m68k/lshift.asm

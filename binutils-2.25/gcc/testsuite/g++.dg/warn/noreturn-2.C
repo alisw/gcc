@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/noreturn-2.C

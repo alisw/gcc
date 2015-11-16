@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.dg/coarray/registering_1.f90

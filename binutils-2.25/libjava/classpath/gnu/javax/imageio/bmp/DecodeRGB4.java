@@ -1,0 +1,1 @@
+../../../../../../../libjava/classpath/gnu/javax/imageio/bmp/DecodeRGB4.java

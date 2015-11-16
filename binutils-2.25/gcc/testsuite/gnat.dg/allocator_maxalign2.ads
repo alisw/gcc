@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/allocator_maxalign2.ads

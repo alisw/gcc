@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/c-c++-common/tm/outer-1.c

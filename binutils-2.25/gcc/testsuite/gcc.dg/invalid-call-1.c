@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/invalid-call-1.c

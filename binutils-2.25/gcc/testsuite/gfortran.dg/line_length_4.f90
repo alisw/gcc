@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/line_length_4.f90

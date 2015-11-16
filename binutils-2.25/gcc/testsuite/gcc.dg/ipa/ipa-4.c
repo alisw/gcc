@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/ipa/ipa-4.c

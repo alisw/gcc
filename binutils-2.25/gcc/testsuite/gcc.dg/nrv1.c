@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/nrv1.c

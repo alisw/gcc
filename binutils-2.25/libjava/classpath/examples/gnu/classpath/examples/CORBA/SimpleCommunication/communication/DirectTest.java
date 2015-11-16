@@ -1,0 +1,1 @@
+../../../../../../../../../../libjava/classpath/examples/gnu/classpath/examples/CORBA/SimpleCommunication/communication/DirectTest.java

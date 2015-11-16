@@ -1,0 +1,1 @@
+../../../../gmp/mpn/ia64/sqr_diag_addlsh1.asm

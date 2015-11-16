@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/gomp/collapse-1.c

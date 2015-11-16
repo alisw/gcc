@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/ptrmem6.C

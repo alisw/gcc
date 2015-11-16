@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/cpp/pedantic-errors.C

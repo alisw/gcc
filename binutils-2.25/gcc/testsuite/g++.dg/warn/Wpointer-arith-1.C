@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/Wpointer-arith-1.C

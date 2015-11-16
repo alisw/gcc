@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/sh/prefetch.c

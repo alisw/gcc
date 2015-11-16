@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/nested3.C

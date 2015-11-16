@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/torture/builtin-math-2.c

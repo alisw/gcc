@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/arrayio_derived_2.f90

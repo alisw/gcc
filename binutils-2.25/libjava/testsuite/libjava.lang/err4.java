@@ -1,0 +1,1 @@
+../../../../libjava/testsuite/libjava.lang/err4.java

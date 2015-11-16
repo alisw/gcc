@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/register-parm-1.C

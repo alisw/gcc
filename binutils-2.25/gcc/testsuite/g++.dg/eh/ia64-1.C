@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/eh/ia64-1.C

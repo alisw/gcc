@@ -1,0 +1,1 @@
+../../gcc/opt-gather.awk

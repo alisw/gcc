@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/tree-prof/ic-misattribution-1.c

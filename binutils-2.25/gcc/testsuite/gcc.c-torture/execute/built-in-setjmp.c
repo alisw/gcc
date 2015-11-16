@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/execute/built-in-setjmp.c

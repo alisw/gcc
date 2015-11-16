@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/objc/compile/trivial.m

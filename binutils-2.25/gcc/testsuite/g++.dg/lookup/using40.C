@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/lookup/using40.C

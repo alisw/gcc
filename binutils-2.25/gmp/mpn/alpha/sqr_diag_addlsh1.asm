@@ -1,0 +1,1 @@
+../../../../gmp/mpn/alpha/sqr_diag_addlsh1.asm

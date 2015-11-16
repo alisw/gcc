@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/c-c++-common/cilk-plus/AN/fp_triplet_values.c

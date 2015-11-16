@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/sparc64/ultrasparct3/mode1o.asm

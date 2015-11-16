@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/string-opt-1.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/frv/fr405-builtins-3.c

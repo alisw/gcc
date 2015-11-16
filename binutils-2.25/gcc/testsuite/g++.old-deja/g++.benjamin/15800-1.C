@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.benjamin/15800-1.C

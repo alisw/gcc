@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/overload/rvalue2.C

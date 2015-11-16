@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/opt/anonunion1.C

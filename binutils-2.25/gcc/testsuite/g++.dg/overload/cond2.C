@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/overload/cond2.C

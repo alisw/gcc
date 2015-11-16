@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/assumed_charlen_function_3.f90

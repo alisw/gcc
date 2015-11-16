@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/wtr-switch-1.c

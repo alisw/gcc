@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/ext/attr-alias-3.C

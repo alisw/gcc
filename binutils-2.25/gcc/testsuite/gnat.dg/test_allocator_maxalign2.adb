@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/test_allocator_maxalign2.adb

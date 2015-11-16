@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/20_util/aligned_storage/requirements/explicit_instantiation.cc

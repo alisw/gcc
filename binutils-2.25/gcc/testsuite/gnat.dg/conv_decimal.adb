@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/conv_decimal.adb

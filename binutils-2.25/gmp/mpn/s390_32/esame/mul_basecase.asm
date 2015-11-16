@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/s390_32/esame/mul_basecase.asm

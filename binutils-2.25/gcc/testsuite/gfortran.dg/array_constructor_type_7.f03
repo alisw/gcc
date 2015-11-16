@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/array_constructor_type_7.f03

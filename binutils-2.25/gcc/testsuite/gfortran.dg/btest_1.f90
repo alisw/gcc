@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/btest_1.f90

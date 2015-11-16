@@ -1,0 +1,1 @@
+../../../cloog/test/singleton.good.c

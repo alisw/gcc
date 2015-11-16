@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.robertl/ice990323-2.C

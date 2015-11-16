@@ -1,0 +1,1 @@
+../../../libgo/config/ltoptions.m4

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/bmi-blsmsk-2a.c

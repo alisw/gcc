@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/fold-andxor-1.c

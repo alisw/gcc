@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/21_strings/basic_string/capacity/wchar_t/shrink_to_fit.cc

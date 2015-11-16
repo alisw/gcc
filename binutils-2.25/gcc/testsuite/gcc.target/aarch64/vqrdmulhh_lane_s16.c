@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/aarch64/vqrdmulhh_lane_s16.c

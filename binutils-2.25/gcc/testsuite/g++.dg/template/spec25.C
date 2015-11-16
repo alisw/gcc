@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/spec25.C

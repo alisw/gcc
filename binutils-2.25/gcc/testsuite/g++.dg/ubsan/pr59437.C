@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/ubsan/pr59437.C

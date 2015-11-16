@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/fold_nearest.f90

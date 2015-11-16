@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/aarch64/c-output-template-3.c

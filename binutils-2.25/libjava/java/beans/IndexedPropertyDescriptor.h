@@ -1,0 +1,1 @@
+../../../../libjava/java/beans/IndexedPropertyDescriptor.h

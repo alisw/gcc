@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/Wfloat-equal-1.C

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/parse/constant3.C

@@ -1,0 +1,1 @@
+../../gcc/optc-save-gen.awk

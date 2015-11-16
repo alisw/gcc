@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/aarch64/pr60580_1.c

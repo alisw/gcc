@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/objc/execute/np-1.m

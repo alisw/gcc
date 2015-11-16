@@ -1,0 +1,1 @@
+../../../../../../gmp/mpn/x86/atom/sse2/sqr_basecase.asm

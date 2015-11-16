@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/avx-set-v8sf-2.c

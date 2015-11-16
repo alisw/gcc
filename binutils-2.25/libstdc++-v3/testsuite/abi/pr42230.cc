@@ -1,0 +1,1 @@
+../../../../libstdc++-v3/testsuite/abi/pr42230.cc

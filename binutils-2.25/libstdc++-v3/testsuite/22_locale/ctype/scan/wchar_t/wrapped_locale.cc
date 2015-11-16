@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/22_locale/ctype/scan/wchar_t/wrapped_locale.cc

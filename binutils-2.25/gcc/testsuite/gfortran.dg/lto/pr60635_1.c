@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.dg/lto/pr60635_1.c

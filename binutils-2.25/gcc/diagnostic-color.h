@@ -1,0 +1,1 @@
+../../gcc/diagnostic-color.h

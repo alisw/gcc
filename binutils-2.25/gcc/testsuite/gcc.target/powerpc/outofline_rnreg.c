@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/outofline_rnreg.c

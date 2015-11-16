@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/proto-lossage-6.m

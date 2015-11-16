@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/builtin-ffs-1.c

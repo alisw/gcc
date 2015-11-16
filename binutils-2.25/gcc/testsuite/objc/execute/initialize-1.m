@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/objc/execute/initialize-1.m

@@ -1,0 +1,1 @@
+../../../../../libgo/go/testing/quick/quick.go

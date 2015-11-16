@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/23_containers/array/comparison_operators/greater_or_equal.cc

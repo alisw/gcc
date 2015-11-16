@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/execute/va-arg-2.c

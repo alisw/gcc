@@ -1,0 +1,1 @@
+../../../../../libjava/classpath/java/beans/IntrospectionException.java

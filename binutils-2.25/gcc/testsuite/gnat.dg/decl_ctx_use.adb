@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/decl_ctx_use.adb

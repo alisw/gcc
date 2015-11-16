@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/bounds_check_strlen_6.f90

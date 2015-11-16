@@ -1,0 +1,1 @@
+../../../../libgcc/config/libbid/_isinfd64.c

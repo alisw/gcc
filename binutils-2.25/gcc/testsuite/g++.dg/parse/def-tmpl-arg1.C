@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/parse/def-tmpl-arg1.C

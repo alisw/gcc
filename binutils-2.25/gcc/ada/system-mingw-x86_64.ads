@@ -1,0 +1,1 @@
+../../../gcc/ada/system-mingw-x86_64.ads

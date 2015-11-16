@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/objc.dg/gnu-encoding/struct-layout-encoding-1_generate.c

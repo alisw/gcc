@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/pr24393.m

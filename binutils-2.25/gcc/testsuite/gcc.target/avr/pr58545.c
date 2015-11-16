@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/avr/pr58545.c

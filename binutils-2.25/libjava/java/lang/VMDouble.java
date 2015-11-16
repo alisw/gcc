@@ -1,0 +1,1 @@
+../../../../libjava/java/lang/VMDouble.java

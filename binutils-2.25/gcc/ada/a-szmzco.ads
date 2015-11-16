@@ -1,0 +1,1 @@
+../../../gcc/ada/a-szmzco.ads

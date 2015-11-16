@@ -1,0 +1,1 @@
+../../../../../../libgo/go/debug/pe/testdata/hello.c

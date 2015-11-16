@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/ice_type.adb

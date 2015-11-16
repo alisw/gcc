@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/obj-c++.dg/encode-4.mm

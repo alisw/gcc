@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/cast-pretty-print-1.c

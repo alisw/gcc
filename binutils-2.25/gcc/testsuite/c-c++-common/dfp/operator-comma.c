@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/c-c++-common/dfp/operator-comma.c

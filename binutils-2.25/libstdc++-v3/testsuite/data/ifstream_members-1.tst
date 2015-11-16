@@ -1,0 +1,1 @@
+../../../../libstdc++-v3/testsuite/data/ifstream_members-1.tst

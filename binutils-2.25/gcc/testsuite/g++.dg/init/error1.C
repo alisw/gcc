@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/init/error1.C

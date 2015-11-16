@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/pr35602.C

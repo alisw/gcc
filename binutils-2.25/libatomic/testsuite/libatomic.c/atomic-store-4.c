@@ -1,0 +1,1 @@
+../../../../libatomic/testsuite/libatomic.c/atomic-store-4.c

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/nested_allocatables_1.f90

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/defarg17.C

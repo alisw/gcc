@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/vmx/cw-bug-1.c

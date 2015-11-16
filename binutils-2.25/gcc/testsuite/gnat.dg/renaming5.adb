@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/renaming5.adb

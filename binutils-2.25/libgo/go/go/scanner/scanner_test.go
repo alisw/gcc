@@ -1,0 +1,1 @@
+../../../../../libgo/go/go/scanner/scanner_test.go

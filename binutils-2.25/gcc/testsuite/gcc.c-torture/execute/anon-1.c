@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/execute/anon-1.c

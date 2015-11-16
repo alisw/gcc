@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/generic_15.f90

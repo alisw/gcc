@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/show_deques_priority.adb

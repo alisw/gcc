@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/fmt_cache_3.f90

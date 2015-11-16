@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/tr1/3_function_objects/headers/functional/using_namespace_std_tr1_placeholders.cc

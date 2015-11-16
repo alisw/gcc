@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/deferred_type_proc_pointer_2.f90

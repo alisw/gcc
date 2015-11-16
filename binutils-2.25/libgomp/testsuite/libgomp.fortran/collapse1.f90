@@ -1,0 +1,1 @@
+../../../../libgomp/testsuite/libgomp.fortran/collapse1.f90

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/vect/no-section-anchors-vect-outer-4h.c

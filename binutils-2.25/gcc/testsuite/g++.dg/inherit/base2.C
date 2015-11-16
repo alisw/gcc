@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/inherit/base2.C

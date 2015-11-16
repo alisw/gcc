@@ -1,0 +1,1 @@
+../../../../../../../../libjava/gnu/javax/print/ipp/attribute/supported/CompressionSupported.h

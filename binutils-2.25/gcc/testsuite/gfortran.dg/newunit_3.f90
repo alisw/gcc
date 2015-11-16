@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/newunit_3.f90

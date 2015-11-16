@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/lookup/new1.C

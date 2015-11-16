@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/x86/atom/cnd_sub_n.asm

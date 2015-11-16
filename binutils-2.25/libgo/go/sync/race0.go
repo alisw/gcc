@@ -1,0 +1,1 @@
+../../../../libgo/go/sync/race0.go

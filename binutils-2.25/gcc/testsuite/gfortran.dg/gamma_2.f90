@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/gamma_2.f90

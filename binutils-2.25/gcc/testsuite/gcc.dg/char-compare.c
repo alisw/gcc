@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/char-compare.c

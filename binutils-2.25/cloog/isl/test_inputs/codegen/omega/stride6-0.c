@@ -1,0 +1,1 @@
+../../../../../../cloog/isl/test_inputs/codegen/omega/stride6-0.c

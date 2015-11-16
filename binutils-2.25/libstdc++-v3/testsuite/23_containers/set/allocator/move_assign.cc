@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/23_containers/set/allocator/move_assign.cc

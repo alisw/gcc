@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/recip-test2.h

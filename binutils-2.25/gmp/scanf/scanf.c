@@ -1,0 +1,1 @@
+../../../gmp/scanf/scanf.c

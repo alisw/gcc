@@ -1,0 +1,1 @@
+../../../../zlib/contrib/minizip/make_vms.com

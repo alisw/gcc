@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/int_range_io_1.f90

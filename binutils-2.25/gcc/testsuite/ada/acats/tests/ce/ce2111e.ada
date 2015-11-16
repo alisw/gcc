@@ -1,0 +1,1 @@
+../../../../../../../gcc/testsuite/ada/acats/tests/ce/ce2111e.ada

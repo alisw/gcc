@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/cpp1y/fn-generic-member-ool.C

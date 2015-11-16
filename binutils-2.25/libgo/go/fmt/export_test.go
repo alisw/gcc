@@ -1,0 +1,1 @@
+../../../../libgo/go/fmt/export_test.go

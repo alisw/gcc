@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/Wcast-qual2.C

@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/g++.dg/ext/visibility/prop1.C

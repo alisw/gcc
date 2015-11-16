@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/expr/lval1.C

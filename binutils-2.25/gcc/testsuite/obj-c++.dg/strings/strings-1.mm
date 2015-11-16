@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/obj-c++.dg/strings/strings-1.mm

@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/c-c++-common/cilk-plus/PS/reduction-1.c

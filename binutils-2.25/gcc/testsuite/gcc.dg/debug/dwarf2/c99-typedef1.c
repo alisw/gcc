@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/gcc.dg/debug/dwarf2/c99-typedef1.c

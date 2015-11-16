@@ -1,0 +1,1 @@
+../../../gmp/tests/arm32check.c

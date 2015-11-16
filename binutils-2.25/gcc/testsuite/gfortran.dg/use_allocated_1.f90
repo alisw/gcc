@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/use_allocated_1.f90

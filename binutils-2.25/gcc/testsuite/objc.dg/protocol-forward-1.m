@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/protocol-forward-1.m

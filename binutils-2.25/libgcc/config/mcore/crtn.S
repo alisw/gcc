@@ -1,0 +1,1 @@
+../../../../libgcc/config/mcore/crtn.S

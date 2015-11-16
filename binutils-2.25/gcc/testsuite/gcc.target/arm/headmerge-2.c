@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arm/headmerge-2.c

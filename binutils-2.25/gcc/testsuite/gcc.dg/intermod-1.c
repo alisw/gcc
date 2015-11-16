@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/intermod-1.c

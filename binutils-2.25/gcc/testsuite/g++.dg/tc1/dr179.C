@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/tc1/dr179.C

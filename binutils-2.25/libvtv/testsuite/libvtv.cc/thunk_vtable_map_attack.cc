@@ -1,0 +1,1 @@
+../../../../libvtv/testsuite/libvtv.cc/thunk_vtable_map_attack.cc

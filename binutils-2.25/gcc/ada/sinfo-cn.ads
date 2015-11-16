@@ -1,0 +1,1 @@
+../../../gcc/ada/sinfo-cn.ads

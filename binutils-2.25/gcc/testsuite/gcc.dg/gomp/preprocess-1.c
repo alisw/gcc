@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/gomp/preprocess-1.c

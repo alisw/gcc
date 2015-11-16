@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/lto/resolutions_0.c

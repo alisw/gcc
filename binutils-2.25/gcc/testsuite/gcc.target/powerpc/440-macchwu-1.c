@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/440-macchwu-1.c

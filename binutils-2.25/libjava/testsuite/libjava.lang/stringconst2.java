@@ -1,0 +1,1 @@
+../../../../libjava/testsuite/libjava.lang/stringconst2.java

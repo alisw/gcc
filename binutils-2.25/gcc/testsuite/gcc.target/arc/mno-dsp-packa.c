@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arc/mno-dsp-packa.c

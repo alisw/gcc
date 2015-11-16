@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/vect/vect-strided-a-u8-i8-gap2-big-array.c

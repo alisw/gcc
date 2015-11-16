@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/20_util/raw_storage_iterator/requirements/typedefs.cc

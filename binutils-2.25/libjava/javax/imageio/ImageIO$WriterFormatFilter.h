@@ -1,0 +1,1 @@
+../../../../libjava/javax/imageio/ImageIO$WriterFormatFilter.h

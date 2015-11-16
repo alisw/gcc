@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/format/xopen-3.c

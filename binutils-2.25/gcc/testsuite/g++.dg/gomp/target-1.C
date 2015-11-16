@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/gomp/target-1.C

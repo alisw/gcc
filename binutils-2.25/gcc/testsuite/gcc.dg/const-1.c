@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/const-1.c

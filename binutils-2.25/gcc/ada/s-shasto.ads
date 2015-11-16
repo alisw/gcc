@@ -1,0 +1,1 @@
+../../../gcc/ada/s-shasto.ads

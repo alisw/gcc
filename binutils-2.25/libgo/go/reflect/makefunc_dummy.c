@@ -1,0 +1,1 @@
+../../../../libgo/go/reflect/makefunc_dummy.c

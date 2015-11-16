@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/vect5_pkg.ads

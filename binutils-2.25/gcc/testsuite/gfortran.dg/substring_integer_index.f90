@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/substring_integer_index.f90

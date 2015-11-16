@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.ext/label1.C

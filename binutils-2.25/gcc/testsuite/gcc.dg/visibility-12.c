@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/visibility-12.c

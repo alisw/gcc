@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/missing_acc_check.adb

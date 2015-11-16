@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/open_new.f90

@@ -1,0 +1,1 @@
+../../contrib/paranoia.cc

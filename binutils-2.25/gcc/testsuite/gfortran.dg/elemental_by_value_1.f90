@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/elemental_by_value_1.f90

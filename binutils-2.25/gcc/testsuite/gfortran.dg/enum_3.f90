@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/enum_3.f90

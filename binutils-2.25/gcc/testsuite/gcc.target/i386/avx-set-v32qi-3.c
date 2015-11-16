@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/avx-set-v32qi-3.c

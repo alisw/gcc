@@ -1,0 +1,1 @@
+../../../../gcc/config/i386/sol2-bi.h

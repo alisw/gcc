@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.dg/gomp/do-1.f90

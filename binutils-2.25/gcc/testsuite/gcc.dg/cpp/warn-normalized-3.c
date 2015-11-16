@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/cpp/warn-normalized-3.c

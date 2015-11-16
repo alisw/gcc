@@ -1,0 +1,1 @@
+../../../../../libjava/javax/xml/xpath/XPathVariableResolver.h

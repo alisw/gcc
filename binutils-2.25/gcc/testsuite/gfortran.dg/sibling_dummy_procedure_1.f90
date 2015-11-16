@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/sibling_dummy_procedure_1.f90

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/invalid-method-1.m

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/pointer_assign_10.f90

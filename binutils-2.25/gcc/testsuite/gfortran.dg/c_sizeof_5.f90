@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/c_sizeof_5.f90

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/c-c++-common/cpp/warning-directive-3.c

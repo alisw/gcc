@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/spu/muldivti3.c

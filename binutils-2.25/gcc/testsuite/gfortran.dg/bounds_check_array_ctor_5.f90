@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/bounds_check_array_ctor_5.f90

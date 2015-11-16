@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/torture/vector-shift2.c

@@ -1,0 +1,1 @@
+../../../../libjava/sysdep/pa/descriptor-pa32-hpux.h

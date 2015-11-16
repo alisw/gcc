@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/xsave64-1.c

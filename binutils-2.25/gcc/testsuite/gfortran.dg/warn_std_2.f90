@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/warn_std_2.f90

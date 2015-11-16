@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/vect/no-tree-pre-slp-29.c

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.test-framework/dg-output-exp-XF.c

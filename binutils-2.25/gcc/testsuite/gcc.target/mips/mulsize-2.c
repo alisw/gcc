@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/mulsize-2.c

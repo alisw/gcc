@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/label_4.f90

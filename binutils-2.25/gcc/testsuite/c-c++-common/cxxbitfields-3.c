@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/c-c++-common/cxxbitfields-3.c

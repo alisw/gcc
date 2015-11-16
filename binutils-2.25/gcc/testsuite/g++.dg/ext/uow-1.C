@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/ext/uow-1.C

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/generic_22.f03

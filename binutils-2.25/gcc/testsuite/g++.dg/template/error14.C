@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/error14.C

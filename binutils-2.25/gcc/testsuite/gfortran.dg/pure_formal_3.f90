@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/pure_formal_3.f90

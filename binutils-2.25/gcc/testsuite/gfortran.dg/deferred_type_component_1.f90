@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/deferred_type_component_1.f90

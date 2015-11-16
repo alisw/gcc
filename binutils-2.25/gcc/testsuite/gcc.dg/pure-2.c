@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/pure-2.c

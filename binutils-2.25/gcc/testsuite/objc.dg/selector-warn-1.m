@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/selector-warn-1.m

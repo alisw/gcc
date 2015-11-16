@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gnat.dg/specs/weak1.ads

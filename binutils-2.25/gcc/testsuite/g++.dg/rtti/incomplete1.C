@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/rtti/incomplete1.C

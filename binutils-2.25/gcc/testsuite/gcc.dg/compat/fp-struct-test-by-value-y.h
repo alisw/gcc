@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/compat/fp-struct-test-by-value-y.h

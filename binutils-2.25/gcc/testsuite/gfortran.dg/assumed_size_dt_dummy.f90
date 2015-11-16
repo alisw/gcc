@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/assumed_size_dt_dummy.f90

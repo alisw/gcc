@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/c-c++-common/vector-compare-1.c

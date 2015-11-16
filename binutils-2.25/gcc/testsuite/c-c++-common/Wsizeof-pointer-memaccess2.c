@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/c-c++-common/Wsizeof-pointer-memaccess2.c

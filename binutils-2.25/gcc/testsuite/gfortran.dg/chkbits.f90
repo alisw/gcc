@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/chkbits.f90

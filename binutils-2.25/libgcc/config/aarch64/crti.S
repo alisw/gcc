@@ -1,0 +1,1 @@
+../../../../libgcc/config/aarch64/crti.S

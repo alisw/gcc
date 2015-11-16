@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/objc.dg/gnu-encoding/generate-random_r.c

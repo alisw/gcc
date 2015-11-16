@@ -1,0 +1,1 @@
+../../../../gcc/config/mips/xlr.md

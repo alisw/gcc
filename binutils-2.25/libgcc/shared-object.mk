@@ -1,0 +1,1 @@
+../../libgcc/shared-object.mk

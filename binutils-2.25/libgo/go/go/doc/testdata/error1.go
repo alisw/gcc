@@ -1,0 +1,1 @@
+../../../../../../libgo/go/go/doc/testdata/error1.go

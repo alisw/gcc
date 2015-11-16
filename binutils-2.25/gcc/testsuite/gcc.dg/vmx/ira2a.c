@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/vmx/ira2a.c

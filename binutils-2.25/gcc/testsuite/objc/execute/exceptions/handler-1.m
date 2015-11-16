@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/objc/execute/exceptions/handler-1.m

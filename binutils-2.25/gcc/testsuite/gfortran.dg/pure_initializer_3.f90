@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/pure_initializer_3.f90

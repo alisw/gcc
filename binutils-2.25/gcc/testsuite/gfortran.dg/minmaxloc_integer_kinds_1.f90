@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/minmaxloc_integer_kinds_1.f90

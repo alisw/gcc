@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/execute/p18298.c

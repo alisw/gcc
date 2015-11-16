@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gnat.dg/specs/restricted_pkg.ads

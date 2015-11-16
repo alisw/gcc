@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/20_util/addressof/1.cc

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/new_line.f90

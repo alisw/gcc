@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/inherit/virtual1.C

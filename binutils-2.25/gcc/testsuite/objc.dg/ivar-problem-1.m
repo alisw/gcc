@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/ivar-problem-1.m

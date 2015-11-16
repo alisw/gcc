@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/tr1/2_general_utilities/headers/functional/synopsis.cc

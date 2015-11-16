@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/gomp/target-2.c

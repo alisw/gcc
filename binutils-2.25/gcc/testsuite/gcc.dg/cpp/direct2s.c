@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/cpp/direct2s.c

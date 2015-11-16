@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/30_threads/headers/thread/types_std_c++0x.cc

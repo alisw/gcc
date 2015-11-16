@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/longcall-1.c

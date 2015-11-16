@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/call7.C

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arc/mulsi3_highpart-1.c

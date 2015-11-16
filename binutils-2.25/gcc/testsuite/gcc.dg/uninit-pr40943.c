@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/uninit-pr40943.c

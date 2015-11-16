@@ -1,0 +1,1 @@
+../../../../../libjava/javax/swing/text/DefaultEditorKit$BeginWordAction.h

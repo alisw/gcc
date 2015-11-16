@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/wide_test.adb

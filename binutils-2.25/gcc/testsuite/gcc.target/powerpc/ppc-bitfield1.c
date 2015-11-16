@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/ppc-bitfield1.c

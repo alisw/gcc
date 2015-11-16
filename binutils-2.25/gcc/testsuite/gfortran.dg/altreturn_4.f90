@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/altreturn_4.f90

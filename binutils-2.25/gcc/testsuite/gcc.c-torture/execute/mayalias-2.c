@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/execute/mayalias-2.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/opt/static1.C

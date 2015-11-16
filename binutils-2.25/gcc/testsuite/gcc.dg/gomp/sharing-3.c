@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/gomp/sharing-3.c

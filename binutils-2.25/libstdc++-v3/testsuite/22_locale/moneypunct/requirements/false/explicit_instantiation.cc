@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/22_locale/moneypunct/requirements/false/explicit_instantiation.cc

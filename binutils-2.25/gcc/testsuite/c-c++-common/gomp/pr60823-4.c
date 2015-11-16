@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/c-c++-common/gomp/pr60823-4.c

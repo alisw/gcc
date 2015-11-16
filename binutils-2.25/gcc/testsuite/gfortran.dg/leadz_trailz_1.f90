@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/leadz_trailz_1.f90

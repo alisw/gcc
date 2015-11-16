@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/gcc.target/avr/torture/pr51374-1.c

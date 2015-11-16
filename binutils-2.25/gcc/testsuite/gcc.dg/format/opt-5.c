@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/format/opt-5.c

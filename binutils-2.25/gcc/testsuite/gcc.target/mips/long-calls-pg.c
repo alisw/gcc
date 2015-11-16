@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/long-calls-pg.c

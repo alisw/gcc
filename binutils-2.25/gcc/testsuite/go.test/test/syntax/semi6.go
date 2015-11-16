@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/go.test/test/syntax/semi6.go

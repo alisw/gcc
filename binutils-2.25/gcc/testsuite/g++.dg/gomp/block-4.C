@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/gomp/block-4.C

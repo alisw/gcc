@@ -1,0 +1,1 @@
+../../../gcc/ada/i-vxwork-x86.ads

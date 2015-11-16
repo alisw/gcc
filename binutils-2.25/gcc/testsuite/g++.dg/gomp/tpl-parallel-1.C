@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/gomp/tpl-parallel-1.C

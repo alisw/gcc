@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/va-arg-pack-2.c

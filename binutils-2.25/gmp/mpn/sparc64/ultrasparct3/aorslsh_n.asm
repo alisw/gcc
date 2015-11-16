@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/sparc64/ultrasparct3/aorslsh_n.asm

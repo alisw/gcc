@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/go.test/test/char_lit1.go

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/openmp-define-3.f90

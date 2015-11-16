@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/obj-c++.dg/template-6.mm

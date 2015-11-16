@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/vect/slp-pr50819.cc

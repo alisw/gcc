@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/spread_scalar_source.f90

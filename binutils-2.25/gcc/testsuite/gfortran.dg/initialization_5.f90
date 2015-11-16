@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/initialization_5.f90

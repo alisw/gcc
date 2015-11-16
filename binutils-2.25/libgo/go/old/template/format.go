@@ -1,0 +1,1 @@
+../../../../../libgo/go/old/template/format.go

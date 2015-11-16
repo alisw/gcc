@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/go.test/test/cmp6.go

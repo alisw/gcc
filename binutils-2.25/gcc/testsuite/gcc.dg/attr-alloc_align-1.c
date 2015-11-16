@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/attr-alloc_align-1.c

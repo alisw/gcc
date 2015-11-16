@@ -1,0 +1,1 @@
+../../../../../../../gcc/testsuite/ada/acats/tests/c6/c61010a.ada

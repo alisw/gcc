@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/mod_sign0_1.f90

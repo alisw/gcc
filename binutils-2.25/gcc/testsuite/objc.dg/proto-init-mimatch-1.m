@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/proto-init-mimatch-1.m

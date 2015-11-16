@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/23_containers/multiset/debug/self_move_assign_neg.cc

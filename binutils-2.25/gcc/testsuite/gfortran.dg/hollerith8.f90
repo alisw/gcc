@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/hollerith8.f90

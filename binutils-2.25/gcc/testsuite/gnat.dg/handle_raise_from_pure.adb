@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/handle_raise_from_pure.adb

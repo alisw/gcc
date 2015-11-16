@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/gcc.target/bfin/builtins/mulhisill_fr2x16-1.c

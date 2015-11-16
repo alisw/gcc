@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/compat/union-return-1_x.c

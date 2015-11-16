@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/other/infloop-1.C

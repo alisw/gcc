@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/test_only_clause.f90

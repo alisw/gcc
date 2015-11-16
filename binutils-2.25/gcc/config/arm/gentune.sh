@@ -1,0 +1,1 @@
+../../../../gcc/config/arm/gentune.sh

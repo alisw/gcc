@@ -1,0 +1,1 @@
+../../../../../../../../libstdc++-v3/testsuite/27_io/manipulators/extended/get_money/char/51288.cc

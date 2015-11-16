@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/lookup/hidden-class15.C

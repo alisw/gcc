@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/compile/sync-2.c

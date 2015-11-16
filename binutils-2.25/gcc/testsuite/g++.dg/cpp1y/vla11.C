@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/cpp1y/vla11.C

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/eh/weak1-a.cc

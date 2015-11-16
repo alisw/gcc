@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/24_iterators/move_iterator/greedy_ops.cc

@@ -1,0 +1,1 @@
+../../../libgfortran/io/write.c

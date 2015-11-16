@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/volatile1.C

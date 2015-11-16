@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/cpp/gnuc89.c

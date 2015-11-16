@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/contiguous_2.f90

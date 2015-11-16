@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/duplicate_labels.f90

@@ -1,0 +1,1 @@
+../../gcc/ipa-pure-const.c

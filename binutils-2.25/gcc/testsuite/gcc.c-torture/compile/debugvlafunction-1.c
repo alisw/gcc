@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/compile/debugvlafunction-1.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/umips-movep-2.c

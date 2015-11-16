@@ -1,0 +1,1 @@
+../../../../gmp/mpn/power/sdiv.asm

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/sse2-cvttps2dq-1.c

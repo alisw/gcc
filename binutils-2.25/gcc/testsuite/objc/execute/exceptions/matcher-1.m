@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/objc/execute/exceptions/matcher-1.m

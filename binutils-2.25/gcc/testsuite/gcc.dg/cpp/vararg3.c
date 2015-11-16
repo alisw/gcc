@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/cpp/vararg3.c

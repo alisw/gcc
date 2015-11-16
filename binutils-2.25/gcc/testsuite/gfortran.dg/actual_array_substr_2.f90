@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/actual_array_substr_2.f90

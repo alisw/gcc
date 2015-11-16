@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/overload/extern-C-2.C

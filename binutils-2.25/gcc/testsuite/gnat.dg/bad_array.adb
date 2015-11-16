@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/bad_array.adb

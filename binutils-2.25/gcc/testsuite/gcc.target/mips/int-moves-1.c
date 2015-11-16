@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/int-moves-1.c

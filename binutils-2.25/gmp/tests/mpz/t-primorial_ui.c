@@ -1,0 +1,1 @@
+../../../../gmp/tests/mpz/t-primorial_ui.c

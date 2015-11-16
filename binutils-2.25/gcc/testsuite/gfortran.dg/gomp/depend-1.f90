@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.dg/gomp/depend-1.f90

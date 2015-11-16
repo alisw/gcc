@@ -1,0 +1,1 @@
+../../../../libffi/testsuite/libffi.call/cls_24byte.c

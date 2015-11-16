@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/tiny_1.f90

@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/g++.dg/ext/visibility/anon1.C

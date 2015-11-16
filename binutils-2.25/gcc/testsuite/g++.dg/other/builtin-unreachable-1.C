@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/other/builtin-unreachable-1.C

@@ -1,0 +1,1 @@
+../../../../gmp/tests/mpn/t-sqrmod_bnm1.c

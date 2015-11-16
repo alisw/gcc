@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/abi/vague1.C

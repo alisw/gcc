@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/non-local-goto-2.c

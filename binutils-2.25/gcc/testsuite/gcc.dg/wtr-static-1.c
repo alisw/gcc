@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/wtr-static-1.c

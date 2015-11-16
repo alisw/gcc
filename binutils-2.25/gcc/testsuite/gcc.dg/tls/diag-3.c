@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/tls/diag-3.c

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/utf8_2.f03

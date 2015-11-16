@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/bool3-p7.c

@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/25_algorithms/copy/streambuf_iterators/char/2.cc

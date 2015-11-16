@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/Wimplicit-function-declaration-c89.c

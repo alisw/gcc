@@ -1,0 +1,1 @@
+../../../../../../libjava/classpath/org/omg/PortableInterceptor/LOCATION_FORWARD.java

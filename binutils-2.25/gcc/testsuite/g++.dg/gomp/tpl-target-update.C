@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/gomp/tpl-target-update.C

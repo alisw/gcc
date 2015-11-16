@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/set-not-used-1.m

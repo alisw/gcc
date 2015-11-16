@@ -1,0 +1,1 @@
+../../../../../libgo/go/go/build/deps_test.go

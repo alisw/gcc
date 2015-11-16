@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/vmx/ld-be-order.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/go.go-torture/execute/string-1.go

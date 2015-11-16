@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/fneg-2008.c

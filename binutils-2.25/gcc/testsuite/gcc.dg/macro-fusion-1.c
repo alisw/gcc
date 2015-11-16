@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/macro-fusion-1.c

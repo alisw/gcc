@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/missing-field-init-1.C

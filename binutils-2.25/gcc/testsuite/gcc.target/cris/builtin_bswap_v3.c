@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/cris/builtin_bswap_v3.c

@@ -1,0 +1,1 @@
+../../../../libatomic/config/arm/arm-config.h

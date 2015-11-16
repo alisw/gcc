@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/cpp/dir-only-4.c

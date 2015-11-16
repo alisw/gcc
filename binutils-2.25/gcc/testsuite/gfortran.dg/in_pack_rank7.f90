@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/in_pack_rank7.f90

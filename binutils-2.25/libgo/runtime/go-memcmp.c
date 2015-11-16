@@ -1,0 +1,1 @@
+../../../libgo/runtime/go-memcmp.c

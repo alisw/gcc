@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/lookup/name-clash8.C

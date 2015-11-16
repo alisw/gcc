@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/main-3.C

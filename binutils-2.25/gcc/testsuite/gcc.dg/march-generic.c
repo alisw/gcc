@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/march-generic.c

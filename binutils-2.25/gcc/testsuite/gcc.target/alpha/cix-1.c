@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/alpha/cix-1.c

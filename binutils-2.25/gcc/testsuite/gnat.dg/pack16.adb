@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/pack16.adb

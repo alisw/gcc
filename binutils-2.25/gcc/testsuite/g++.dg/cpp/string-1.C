@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/cpp/string-1.C

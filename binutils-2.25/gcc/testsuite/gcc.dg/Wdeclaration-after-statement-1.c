@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/Wdeclaration-after-statement-1.c

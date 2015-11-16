@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/range_check2.adb

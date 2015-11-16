@@ -1,0 +1,1 @@
+../../../libjava/scripts/unicode-blocks.pl

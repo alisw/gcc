@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/opt/switch3.C

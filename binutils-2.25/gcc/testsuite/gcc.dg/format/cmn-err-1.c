@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/format/cmn-err-1.c

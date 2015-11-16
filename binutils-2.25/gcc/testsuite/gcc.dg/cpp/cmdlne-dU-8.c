@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/cpp/cmdlne-dU-8.c

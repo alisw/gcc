@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/fold-convround-1.c

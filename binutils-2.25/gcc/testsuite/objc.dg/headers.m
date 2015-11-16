@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/headers.m

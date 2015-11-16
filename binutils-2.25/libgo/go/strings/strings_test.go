@@ -1,0 +1,1 @@
+../../../../libgo/go/strings/strings_test.go

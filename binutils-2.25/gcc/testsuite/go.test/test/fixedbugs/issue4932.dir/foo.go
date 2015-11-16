@@ -1,0 +1,1 @@
+../../../../../../../gcc/testsuite/go.test/test/fixedbugs/issue4932.dir/foo.go

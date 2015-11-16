@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/missing-proto-3.m

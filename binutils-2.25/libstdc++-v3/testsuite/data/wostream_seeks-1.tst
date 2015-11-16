@@ -1,0 +1,1 @@
+../../../../libstdc++-v3/testsuite/data/wostream_seeks-1.tst

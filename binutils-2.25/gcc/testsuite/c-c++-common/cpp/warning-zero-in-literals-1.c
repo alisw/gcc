@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/c-c++-common/cpp/warning-zero-in-literals-1.c

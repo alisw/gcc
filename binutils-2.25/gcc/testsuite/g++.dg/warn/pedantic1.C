@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/pedantic1.C

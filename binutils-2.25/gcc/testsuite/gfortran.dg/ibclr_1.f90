@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/ibclr_1.f90

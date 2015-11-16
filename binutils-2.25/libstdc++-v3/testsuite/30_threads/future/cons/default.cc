@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/30_threads/future/cons/default.cc

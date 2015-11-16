@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/c11-static-assert-1.c

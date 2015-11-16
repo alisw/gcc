@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/restricted_expression_2.f90

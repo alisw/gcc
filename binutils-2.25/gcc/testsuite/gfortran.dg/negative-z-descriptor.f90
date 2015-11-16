@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/negative-z-descriptor.f90

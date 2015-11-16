@@ -1,0 +1,1 @@
+../../../../gcc/config/c6x/c6x-mult.md

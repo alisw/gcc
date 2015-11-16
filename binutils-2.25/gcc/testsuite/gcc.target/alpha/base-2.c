@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/alpha/base-2.c

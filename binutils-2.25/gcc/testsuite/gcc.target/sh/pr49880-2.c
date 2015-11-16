@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/sh/pr49880-2.c

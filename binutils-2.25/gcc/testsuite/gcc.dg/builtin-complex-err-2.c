@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/builtin-complex-err-2.c

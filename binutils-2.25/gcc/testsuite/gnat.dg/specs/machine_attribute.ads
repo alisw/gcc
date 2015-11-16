@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gnat.dg/specs/machine_attribute.ads

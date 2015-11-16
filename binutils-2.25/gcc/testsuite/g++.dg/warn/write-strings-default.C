@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/write-strings-default.C

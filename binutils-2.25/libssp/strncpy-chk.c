@@ -1,0 +1,1 @@
+../../libssp/strncpy-chk.c

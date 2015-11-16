@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/x86_64/bobcat/sqr_basecase.asm

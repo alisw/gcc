@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/g++.dg/debug/dwarf2/template-params-5.C

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/tsan/cond_race.C

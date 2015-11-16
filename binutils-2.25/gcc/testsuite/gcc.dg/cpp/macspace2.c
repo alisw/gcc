@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/cpp/macspace2.c

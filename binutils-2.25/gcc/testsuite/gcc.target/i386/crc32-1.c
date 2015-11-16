@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/crc32-1.c

@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/sparc64/ultrasparc34/gmp-mparam.h

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.dg/g77/f90-intrinsic-bit.f

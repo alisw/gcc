@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/20_util/function_objects/comparisons_void.cc

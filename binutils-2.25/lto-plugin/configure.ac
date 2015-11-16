@@ -1,0 +1,1 @@
+../../lto-plugin/configure.ac

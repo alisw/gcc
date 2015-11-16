@@ -1,0 +1,1 @@
+../../../../../libgo/go/archive/zip/register.go

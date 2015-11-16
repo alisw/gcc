@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/interrupt_handler-3.c

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/used_interface_ref.f90

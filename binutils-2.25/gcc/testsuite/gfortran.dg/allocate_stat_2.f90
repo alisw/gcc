@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/allocate_stat_2.f90

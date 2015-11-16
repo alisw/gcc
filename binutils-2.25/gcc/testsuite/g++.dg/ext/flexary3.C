@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/ext/flexary3.C

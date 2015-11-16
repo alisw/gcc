@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/attr-hotcold-1.c

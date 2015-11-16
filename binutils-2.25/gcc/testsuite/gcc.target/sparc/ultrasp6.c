@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/sparc/ultrasp6.c

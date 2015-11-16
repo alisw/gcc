@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/vmx/ops-long-2.c

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/c-c++-common/Wvarargs-2.c

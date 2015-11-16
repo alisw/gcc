@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/noncompile/old-style-parm-1.c

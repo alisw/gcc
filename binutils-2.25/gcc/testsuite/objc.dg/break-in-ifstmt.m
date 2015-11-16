@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/break-in-ifstmt.m

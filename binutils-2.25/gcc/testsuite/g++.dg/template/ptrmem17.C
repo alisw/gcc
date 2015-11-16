@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/ptrmem17.C

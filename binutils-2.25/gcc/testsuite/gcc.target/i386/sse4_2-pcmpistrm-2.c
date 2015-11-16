@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/sse4_2-pcmpistrm-2.c

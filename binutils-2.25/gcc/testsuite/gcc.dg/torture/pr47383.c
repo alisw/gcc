@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/torture/pr47383.c

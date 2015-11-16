@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/cpp/isysroot-2.c

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/Werror-8.c

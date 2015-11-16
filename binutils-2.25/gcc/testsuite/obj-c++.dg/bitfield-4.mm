@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/obj-c++.dg/bitfield-4.mm

@@ -1,0 +1,1 @@
+../../../mpfr/tests/tcmp2.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/init/byval1.C

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/go.go-torture/execute/switch-1.go

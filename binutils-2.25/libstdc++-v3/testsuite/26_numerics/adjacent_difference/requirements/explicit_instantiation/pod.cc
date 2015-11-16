@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/26_numerics/adjacent_difference/requirements/explicit_instantiation/pod.cc

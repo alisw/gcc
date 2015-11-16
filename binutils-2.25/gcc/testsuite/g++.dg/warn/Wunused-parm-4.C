@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/Wunused-parm-4.C

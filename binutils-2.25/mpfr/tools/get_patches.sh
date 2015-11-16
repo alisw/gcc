@@ -1,0 +1,1 @@
+../../../mpfr/tools/get_patches.sh

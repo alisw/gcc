@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/pch/inline-4.c

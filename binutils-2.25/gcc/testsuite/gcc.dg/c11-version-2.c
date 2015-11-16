@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/c11-version-2.c

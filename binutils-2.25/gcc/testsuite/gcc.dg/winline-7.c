@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/winline-7.c

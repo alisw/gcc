@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/cpp/mi8b.h

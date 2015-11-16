@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/lto/pr53214_0.c

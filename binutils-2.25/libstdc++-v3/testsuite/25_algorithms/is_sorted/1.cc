@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/25_algorithms/is_sorted/1.cc

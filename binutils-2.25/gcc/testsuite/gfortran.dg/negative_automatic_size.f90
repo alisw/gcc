@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/negative_automatic_size.f90

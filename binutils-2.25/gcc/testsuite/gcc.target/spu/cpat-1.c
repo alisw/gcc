@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/spu/cpat-1.c

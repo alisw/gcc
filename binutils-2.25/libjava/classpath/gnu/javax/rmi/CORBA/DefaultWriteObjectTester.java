@@ -1,0 +1,1 @@
+../../../../../../../libjava/classpath/gnu/javax/rmi/CORBA/DefaultWriteObjectTester.java

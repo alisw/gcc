@@ -1,0 +1,1 @@
+../../../../libffi/testsuite/libffi.call/struct5.c

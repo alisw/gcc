@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arm/builtin-bswap-1.c

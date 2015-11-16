@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/execute/enum-2.c

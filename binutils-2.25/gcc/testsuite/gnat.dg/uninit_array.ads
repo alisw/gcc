@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/uninit_array.ads

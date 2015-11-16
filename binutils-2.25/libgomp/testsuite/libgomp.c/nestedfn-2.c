@@ -1,0 +1,1 @@
+../../../../libgomp/testsuite/libgomp.c/nestedfn-2.c

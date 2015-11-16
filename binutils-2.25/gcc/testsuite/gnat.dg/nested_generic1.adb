@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/nested_generic1.adb

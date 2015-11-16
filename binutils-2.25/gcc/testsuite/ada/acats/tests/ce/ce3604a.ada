@@ -1,0 +1,1 @@
+../../../../../../../gcc/testsuite/ada/acats/tests/ce/ce3604a.ada

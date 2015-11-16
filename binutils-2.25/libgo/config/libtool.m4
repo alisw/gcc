@@ -1,0 +1,1 @@
+../../../libgo/config/libtool.m4

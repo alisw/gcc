@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/lookup/scope-operator1.C

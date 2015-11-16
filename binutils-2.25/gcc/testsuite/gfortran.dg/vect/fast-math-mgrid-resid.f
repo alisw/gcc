@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.dg/vect/fast-math-mgrid-resid.f

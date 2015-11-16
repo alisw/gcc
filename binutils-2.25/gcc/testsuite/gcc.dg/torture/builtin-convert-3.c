@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/torture/builtin-convert-3.c

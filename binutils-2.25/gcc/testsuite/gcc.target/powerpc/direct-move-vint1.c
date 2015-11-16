@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/direct-move-vint1.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/fixed-point/func-struct.c

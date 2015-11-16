@@ -1,0 +1,1 @@
+../../../../gmp/mpn/s390_32/lshiftc.asm

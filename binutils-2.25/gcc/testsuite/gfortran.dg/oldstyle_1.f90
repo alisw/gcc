@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/oldstyle_1.f90

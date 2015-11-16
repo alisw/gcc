@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/d_lines_1.f

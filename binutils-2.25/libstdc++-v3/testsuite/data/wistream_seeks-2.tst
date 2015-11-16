@@ -1,0 +1,1 @@
+../../../../libstdc++-v3/testsuite/data/wistream_seeks-2.tst

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/atomic_load_store-p8.c

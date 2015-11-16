@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/parse/non-dependent3.C

@@ -1,0 +1,1 @@
+../../../../../../../libjava/gnu/java/awt/font/autofit/LatinMetrics.h

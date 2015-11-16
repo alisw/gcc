@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/namelist_40.f90

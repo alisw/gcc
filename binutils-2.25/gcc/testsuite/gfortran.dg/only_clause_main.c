@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/only_clause_main.c

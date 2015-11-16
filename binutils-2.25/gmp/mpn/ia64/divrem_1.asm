@@ -1,0 +1,1 @@
+../../../../gmp/mpn/ia64/divrem_1.asm

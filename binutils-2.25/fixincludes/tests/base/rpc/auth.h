@@ -1,0 +1,1 @@
+../../../../../fixincludes/tests/base/rpc/auth.h

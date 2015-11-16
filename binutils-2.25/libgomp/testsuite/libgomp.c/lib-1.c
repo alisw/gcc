@@ -1,0 +1,1 @@
+../../../../libgomp/testsuite/libgomp.c/lib-1.c

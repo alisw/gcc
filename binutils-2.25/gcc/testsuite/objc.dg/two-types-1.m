@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/two-types-1.m

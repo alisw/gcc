@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.dg/debug/pr35154-stabs.f

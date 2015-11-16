@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.niklas/t132.C

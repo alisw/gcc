@@ -1,0 +1,1 @@
+../../../../boehm-gc/testsuite/boehm-gc.lib/staticrootslib.c

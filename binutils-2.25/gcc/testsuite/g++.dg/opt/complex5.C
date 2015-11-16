@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/opt/complex5.C

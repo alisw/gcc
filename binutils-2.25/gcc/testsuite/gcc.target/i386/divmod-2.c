@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/divmod-2.c

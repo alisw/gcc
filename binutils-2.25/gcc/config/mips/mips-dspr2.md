@@ -1,0 +1,1 @@
+../../../../gcc/config/mips/mips-dspr2.md

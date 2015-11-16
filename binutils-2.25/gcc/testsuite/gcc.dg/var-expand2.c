@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/var-expand2.c

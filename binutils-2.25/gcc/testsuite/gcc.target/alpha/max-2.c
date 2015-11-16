@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/alpha/max-2.c

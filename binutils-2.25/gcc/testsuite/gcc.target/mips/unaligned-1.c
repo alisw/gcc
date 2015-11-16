@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/unaligned-1.c

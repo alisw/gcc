@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/value_6.f03

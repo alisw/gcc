@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/select_8.f90

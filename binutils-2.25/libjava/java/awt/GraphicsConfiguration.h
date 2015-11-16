@@ -1,0 +1,1 @@
+../../../../libjava/java/awt/GraphicsConfiguration.h

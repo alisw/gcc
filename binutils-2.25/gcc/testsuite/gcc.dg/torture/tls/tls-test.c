@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/gcc.dg/torture/tls/tls-test.c

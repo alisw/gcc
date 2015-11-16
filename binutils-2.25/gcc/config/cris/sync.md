@@ -1,0 +1,1 @@
+../../../../gcc/config/cris/sync.md

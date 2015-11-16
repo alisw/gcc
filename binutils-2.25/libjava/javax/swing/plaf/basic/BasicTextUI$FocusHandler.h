@@ -1,0 +1,1 @@
+../../../../../../libjava/javax/swing/plaf/basic/BasicTextUI$FocusHandler.h

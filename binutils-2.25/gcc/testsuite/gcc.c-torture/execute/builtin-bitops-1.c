@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/execute/builtin-bitops-1.c

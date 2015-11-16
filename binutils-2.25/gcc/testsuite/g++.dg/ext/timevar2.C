@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/ext/timevar2.C

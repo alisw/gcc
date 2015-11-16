@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/lookup/delete1.C

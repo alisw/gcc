@@ -1,0 +1,1 @@
+../../../../libstdc++-v3/testsuite/17_intro/static.cc

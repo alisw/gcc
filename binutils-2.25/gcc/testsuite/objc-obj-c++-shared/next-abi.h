@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc-obj-c++-shared/next-abi.h

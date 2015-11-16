@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gnat.dg/specs/root-level_2.ads

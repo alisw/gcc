@@ -1,0 +1,1 @@
+../../../../libgo/go/bytes/example_test.go

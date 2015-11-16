@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/epiphany/interrupt-2.c

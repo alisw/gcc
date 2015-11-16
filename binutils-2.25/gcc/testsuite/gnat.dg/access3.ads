@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/access3.ads

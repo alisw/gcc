@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/lto15.adb

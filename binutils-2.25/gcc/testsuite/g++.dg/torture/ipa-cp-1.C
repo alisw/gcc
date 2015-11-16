@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/torture/ipa-cp-1.C

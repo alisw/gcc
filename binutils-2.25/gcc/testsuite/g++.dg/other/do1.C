@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/other/do1.C

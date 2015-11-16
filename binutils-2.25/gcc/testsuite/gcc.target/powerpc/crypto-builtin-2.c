@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/crypto-builtin-2.c

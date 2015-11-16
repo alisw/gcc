@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/arg3.C

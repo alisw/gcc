@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/objc/execute/static-1.m

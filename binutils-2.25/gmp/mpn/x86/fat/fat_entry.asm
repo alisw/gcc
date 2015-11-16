@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/x86/fat/fat_entry.asm

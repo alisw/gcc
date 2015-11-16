@@ -1,0 +1,1 @@
+../../../../libvtv/testsuite/other-tests/replace-fail.cc

@@ -1,0 +1,1 @@
+../../../../libgcc/config/sh/linux-atomic.c

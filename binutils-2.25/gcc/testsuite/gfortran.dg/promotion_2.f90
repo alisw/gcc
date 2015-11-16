@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/promotion_2.f90

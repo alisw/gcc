@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/atomic-exchange-3.c

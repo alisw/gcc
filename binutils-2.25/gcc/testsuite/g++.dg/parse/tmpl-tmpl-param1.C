@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/parse/tmpl-tmpl-param1.C

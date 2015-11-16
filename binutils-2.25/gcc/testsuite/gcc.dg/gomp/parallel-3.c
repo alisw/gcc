@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/gomp/parallel-3.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/ubsan/cxx1y-vla.C

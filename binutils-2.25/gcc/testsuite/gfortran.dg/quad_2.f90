@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/quad_2.f90

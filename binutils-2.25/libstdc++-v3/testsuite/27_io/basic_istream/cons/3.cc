@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/27_io/basic_istream/cons/3.cc

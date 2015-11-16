@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/c-c++-common/gomp/pr59917-2.c

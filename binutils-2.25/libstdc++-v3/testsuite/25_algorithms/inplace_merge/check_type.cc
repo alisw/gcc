@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/25_algorithms/inplace_merge/check_type.cc

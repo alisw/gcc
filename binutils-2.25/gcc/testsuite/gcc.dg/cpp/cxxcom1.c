@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/cpp/cxxcom1.c

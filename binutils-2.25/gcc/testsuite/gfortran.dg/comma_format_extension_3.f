@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/comma_format_extension_3.f

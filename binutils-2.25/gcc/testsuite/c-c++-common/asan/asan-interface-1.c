@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/c-c++-common/asan/asan-interface-1.c

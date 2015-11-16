@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/write_check4.f90

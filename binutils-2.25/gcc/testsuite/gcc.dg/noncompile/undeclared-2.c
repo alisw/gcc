@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/noncompile/undeclared-2.c

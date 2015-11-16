@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/vmx/bug-2.c

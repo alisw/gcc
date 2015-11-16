@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/parm-incomplete-1.c

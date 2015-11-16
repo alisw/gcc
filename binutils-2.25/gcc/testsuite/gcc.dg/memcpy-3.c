@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/memcpy-3.c

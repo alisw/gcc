@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arm/pr56732-1.c

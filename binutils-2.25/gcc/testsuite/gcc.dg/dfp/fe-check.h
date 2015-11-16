@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/dfp/fe-check.h

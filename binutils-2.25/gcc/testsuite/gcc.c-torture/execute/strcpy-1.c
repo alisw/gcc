@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/execute/strcpy-1.c

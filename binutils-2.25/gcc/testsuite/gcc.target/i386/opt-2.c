@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/opt-2.c

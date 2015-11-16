@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/powerpc64/mode32/sub_n.asm

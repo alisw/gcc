@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/gcc.target/spu/ea/cast2.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/format/sec-1.c

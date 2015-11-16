@@ -1,0 +1,1 @@
+../../../../../libjava/java/awt/geom/QuadCurve2D$1.h

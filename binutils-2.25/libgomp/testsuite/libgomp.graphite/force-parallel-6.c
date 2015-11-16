@@ -1,0 +1,1 @@
+../../../../libgomp/testsuite/libgomp.graphite/force-parallel-6.c

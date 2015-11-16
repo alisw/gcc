@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/parse-error-3.c

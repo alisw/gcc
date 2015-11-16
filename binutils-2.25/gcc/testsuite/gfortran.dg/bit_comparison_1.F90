@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/bit_comparison_1.F90

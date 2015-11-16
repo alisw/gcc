@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/addr1.C

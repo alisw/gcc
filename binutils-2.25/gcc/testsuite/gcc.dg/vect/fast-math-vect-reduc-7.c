@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/vect/fast-math-vect-reduc-7.c

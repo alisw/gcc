@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/atomic2.adb

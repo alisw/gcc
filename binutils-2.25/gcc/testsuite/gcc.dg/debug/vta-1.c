@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/debug/vta-1.c

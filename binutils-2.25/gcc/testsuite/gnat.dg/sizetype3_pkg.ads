@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/sizetype3_pkg.ads

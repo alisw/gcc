@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/init-excess-1.c

@@ -1,0 +1,1 @@
+../../../../../../../libjava/classpath/javax/swing/plaf/metal/MetalLabelUI.java

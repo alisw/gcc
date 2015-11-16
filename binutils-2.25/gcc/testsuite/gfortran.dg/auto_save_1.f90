@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/auto_save_1.f90

@@ -1,0 +1,1 @@
+../../../../../../gmp/mpn/x86/atom/sse2/divrem_1.asm

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/eh/pr29166.C

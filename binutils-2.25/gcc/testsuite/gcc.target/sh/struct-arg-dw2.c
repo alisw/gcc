@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/sh/struct-arg-dw2.c

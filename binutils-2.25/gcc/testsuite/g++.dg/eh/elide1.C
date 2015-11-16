@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/eh/elide1.C

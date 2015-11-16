@@ -1,0 +1,1 @@
+../../../../libgo/go/math/all_test.go

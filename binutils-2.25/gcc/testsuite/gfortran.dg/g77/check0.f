@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.dg/g77/check0.f

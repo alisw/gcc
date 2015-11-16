@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/execute/struct-ini-3.c

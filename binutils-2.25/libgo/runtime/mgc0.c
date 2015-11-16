@@ -1,0 +1,1 @@
+../../../libgo/runtime/mgc0.c

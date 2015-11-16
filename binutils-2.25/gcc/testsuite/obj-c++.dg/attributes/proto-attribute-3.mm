@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/obj-c++.dg/attributes/proto-attribute-3.mm

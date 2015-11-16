@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/g++.dg/debug/dwarf2/anonname1.C

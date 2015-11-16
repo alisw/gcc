@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/builtin-assume-aligned-1.c

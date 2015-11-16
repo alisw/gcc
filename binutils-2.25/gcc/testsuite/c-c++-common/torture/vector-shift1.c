@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/c-c++-common/torture/vector-shift1.c

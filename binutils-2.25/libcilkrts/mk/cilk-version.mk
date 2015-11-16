@@ -1,0 +1,1 @@
+../../../libcilkrts/mk/cilk-version.mk

@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/x86/atom/mode1o.asm

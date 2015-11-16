@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/attr-alwaysinline.c

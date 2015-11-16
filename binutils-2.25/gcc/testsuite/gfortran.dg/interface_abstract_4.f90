@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/interface_abstract_4.f90

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arm/smlaltb-1.c

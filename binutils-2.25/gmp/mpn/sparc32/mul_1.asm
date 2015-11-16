@@ -1,0 +1,1 @@
+../../../../gmp/mpn/sparc32/mul_1.asm

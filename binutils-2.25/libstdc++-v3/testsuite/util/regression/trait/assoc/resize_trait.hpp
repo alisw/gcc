@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/util/regression/trait/assoc/resize_trait.hpp

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/equiv_5.f90

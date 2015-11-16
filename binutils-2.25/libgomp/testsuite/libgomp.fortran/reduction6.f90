@@ -1,0 +1,1 @@
+../../../../libgomp/testsuite/libgomp.fortran/reduction6.f90

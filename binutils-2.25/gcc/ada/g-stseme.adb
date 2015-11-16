@@ -1,0 +1,1 @@
+../../../gcc/ada/g-stseme.adb

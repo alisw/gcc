@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/obj-c++.dg/attributes/unused-parameter-1.mm

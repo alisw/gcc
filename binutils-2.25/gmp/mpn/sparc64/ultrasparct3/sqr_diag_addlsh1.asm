@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/sparc64/ultrasparct3/sqr_diag_addlsh1.asm

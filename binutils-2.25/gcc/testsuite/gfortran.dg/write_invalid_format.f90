@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/write_invalid_format.f90

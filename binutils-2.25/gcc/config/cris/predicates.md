@@ -1,0 +1,1 @@
+../../../../gcc/config/cris/predicates.md

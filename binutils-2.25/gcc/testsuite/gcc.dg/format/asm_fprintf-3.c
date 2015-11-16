@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/format/asm_fprintf-3.c

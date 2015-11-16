@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/atomic-p7.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/vsx-mass-1.c

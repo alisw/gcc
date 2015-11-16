@@ -1,0 +1,1 @@
+../../../../libjava/testsuite/libjava.jvmti/getallthreads.java

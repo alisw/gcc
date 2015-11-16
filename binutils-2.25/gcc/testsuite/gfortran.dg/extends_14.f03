@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/extends_14.f03

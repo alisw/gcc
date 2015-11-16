@@ -1,0 +1,1 @@
+../../../../libgo/go/bufio/scan_test.go

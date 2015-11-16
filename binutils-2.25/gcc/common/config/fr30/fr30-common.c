@@ -1,0 +1,1 @@
+../../../../../gcc/common/config/fr30/fr30-common.c

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/common_19.f90

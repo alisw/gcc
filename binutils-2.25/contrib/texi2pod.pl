@@ -1,0 +1,1 @@
+../../contrib/texi2pod.pl

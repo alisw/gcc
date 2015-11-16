@@ -1,0 +1,1 @@
+../../../../../libjava/org/omg/CORBA/NO_RESOURCES.h

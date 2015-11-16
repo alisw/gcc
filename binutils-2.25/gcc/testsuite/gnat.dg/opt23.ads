@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/opt23.ads

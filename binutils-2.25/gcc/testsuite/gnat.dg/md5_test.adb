@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/md5_test.adb

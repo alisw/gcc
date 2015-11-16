@@ -1,0 +1,1 @@
+../../../../../../libjava/classpath/org/omg/CORBA/OBJ_ADAPTER.java

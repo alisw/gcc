@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/obj-c++.dg/keywords-1.mm

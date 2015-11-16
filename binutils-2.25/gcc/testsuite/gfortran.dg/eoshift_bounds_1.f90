@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/eoshift_bounds_1.f90

@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/22_locale/global_templates/1.cc

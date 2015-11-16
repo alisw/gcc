@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/sse4_1-set-v16qi-3.c

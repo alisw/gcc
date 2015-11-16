@@ -1,0 +1,1 @@
+../../../../cloog/test/reservoir/fusion1.good.c

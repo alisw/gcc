@@ -1,0 +1,1 @@
+../../../../libjava/testsuite/libjava.lang/private_direct_write.java

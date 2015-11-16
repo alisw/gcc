@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.martin/lookup1.C

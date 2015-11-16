@@ -1,0 +1,1 @@
+../../libatomic/load_n.c

@@ -1,0 +1,1 @@
+../../../../../libgo/go/go/build/build_test.go

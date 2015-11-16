@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/align_check.adb

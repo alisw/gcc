@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/noadv_size.f90

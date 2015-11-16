@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/tls/pr45870.c

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/transfer_resolve_3.f90

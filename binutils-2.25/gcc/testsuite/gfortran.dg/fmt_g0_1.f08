@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/fmt_g0_1.f08

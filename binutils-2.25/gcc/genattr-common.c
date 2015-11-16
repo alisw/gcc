@@ -1,0 +1,1 @@
+../../gcc/genattr-common.c

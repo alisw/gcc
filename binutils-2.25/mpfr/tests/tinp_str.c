@@ -1,0 +1,1 @@
+../../../mpfr/tests/tinp_str.c

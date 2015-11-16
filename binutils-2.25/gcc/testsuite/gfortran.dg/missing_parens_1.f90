@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/missing_parens_1.f90

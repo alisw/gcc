@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/expr/bound-mem-fun.C

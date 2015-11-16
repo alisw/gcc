@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/lzcnt-2.c

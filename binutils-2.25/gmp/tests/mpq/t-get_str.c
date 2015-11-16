@@ -1,0 +1,1 @@
+../../../../gmp/tests/mpq/t-get_str.c

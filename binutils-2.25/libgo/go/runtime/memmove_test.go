@@ -1,0 +1,1 @@
+../../../../libgo/go/runtime/memmove_test.go

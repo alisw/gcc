@@ -1,0 +1,1 @@
+../../../../../../libgo/go/net/rpc/jsonrpc/all_test.go

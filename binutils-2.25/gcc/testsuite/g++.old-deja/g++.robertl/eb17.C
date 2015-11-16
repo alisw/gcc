@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.robertl/eb17.C

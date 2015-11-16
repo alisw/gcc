@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/aarch64/vqdmull_laneq_s32.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/aarch64/fcvt_double_int.c

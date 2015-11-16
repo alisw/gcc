@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/compile/zero-strct-2.c

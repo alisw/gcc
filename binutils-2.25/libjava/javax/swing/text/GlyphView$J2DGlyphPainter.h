@@ -1,0 +1,1 @@
+../../../../../libjava/javax/swing/text/GlyphView$J2DGlyphPainter.h

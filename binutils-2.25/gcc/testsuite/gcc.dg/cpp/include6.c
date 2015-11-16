@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/cpp/include6.c

@@ -1,0 +1,1 @@
+../../../../libgomp/testsuite/libgomp.fortran/target6.f90

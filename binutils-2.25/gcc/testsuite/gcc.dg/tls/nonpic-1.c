@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/tls/nonpic-1.c

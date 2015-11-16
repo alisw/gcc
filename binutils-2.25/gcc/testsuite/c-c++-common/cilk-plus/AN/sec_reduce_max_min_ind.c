@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/c-c++-common/cilk-plus/AN/sec_reduce_max_min_ind.c

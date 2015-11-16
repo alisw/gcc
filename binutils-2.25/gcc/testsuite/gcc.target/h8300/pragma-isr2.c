@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/h8300/pragma-isr2.c

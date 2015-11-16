@@ -1,0 +1,1 @@
+../../../../gmp/tests/mpq/Makefile.am

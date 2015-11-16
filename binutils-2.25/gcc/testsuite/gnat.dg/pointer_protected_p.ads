@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/pointer_protected_p.ads

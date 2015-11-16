@@ -1,0 +1,1 @@
+../../../../gcc/config/sparc/leon.md

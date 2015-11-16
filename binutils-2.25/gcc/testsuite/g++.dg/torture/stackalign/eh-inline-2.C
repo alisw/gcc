@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/g++.dg/torture/stackalign/eh-inline-2.C

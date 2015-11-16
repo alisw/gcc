@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/c-c++-common/pr36282-2.c

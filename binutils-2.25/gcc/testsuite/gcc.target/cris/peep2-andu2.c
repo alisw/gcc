@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/cris/peep2-andu2.c

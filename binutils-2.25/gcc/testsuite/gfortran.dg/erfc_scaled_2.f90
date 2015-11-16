@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/erfc_scaled_2.f90

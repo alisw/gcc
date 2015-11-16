@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/pa32/hppa1_1/submul_1.asm

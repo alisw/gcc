@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/mult-6.c

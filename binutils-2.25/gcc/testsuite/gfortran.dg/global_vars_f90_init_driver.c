@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/global_vars_f90_init_driver.c

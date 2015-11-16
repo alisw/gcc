@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/c-c++-common/raw-string-18.c

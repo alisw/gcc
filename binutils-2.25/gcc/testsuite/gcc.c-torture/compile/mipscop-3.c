@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/compile/mipscop-3.c

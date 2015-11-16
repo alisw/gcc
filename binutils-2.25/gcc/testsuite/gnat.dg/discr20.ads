@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/discr20.ads

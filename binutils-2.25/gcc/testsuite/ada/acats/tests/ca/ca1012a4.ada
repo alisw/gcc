@@ -1,0 +1,1 @@
+../../../../../../../gcc/testsuite/ada/acats/tests/ca/ca1012a4.ada

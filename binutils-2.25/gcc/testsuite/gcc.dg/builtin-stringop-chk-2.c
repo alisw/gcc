@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/builtin-stringop-chk-2.c

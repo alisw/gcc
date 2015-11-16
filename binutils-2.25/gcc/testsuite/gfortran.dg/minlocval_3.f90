@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/minlocval_3.f90

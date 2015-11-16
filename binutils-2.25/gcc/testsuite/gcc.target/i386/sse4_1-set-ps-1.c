@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/sse4_1-set-ps-1.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/c-c++-common/torture/vector-subscript-1.c

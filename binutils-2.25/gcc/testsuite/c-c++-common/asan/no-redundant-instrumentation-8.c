@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/c-c++-common/asan/no-redundant-instrumentation-8.c

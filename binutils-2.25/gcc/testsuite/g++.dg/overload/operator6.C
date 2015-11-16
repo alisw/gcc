@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/overload/operator6.C

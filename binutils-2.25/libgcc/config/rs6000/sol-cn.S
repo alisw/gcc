@@ -1,0 +1,1 @@
+../../../../libgcc/config/rs6000/sol-cn.S

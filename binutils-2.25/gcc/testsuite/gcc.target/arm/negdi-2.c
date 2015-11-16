@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arm/negdi-2.c

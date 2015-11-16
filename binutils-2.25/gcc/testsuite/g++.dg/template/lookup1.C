@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/lookup1.C

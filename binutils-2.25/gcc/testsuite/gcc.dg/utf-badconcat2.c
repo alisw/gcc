@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/utf-badconcat2.c

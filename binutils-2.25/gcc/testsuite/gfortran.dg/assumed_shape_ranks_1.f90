@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/assumed_shape_ranks_1.f90

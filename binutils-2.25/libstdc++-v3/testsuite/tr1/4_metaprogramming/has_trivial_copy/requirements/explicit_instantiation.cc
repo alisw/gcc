@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/tr1/4_metaprogramming/has_trivial_copy/requirements/explicit_instantiation.cc

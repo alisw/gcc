@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/bt-mask-2.c

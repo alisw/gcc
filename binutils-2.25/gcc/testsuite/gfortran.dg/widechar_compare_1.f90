@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/widechar_compare_1.f90

@@ -1,0 +1,1 @@
+../../../../../../libjava/classpath/org/omg/PortableServer/ID_ASSIGNMENT_POLICY_ID.java

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/fma_run_double_5.c

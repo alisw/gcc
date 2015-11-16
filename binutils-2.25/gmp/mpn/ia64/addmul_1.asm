@@ -1,0 +1,1 @@
+../../../../gmp/mpn/ia64/addmul_1.asm

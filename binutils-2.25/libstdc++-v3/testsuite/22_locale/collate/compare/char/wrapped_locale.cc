@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/22_locale/collate/compare/char/wrapped_locale.cc

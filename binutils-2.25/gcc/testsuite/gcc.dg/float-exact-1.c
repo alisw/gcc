@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/float-exact-1.c

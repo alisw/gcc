@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/other/opaque-3.C

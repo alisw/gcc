@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/ext/vlm2.C

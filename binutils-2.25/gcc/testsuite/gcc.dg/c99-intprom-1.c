@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/c99-intprom-1.c

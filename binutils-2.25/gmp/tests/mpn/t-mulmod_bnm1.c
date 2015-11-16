@@ -1,0 +1,1 @@
+../../../../gmp/tests/mpn/t-mulmod_bnm1.c

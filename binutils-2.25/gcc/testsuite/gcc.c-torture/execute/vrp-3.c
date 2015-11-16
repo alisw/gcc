@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/execute/vrp-3.c

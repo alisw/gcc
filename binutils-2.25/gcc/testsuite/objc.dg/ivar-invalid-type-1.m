@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/ivar-invalid-type-1.m

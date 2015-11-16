@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arm/iordi3-opt.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/pch/valid-1b.c

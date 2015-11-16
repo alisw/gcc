@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/powerpc64/mode64/dive_1.asm

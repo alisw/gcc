@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/free-2.c

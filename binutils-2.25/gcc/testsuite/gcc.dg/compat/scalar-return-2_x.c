@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/compat/scalar-return-2_x.c

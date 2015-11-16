@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/open_access_append_1.f90

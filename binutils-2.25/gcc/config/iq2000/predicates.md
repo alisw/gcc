@@ -1,0 +1,1 @@
+../../../../gcc/config/iq2000/predicates.md

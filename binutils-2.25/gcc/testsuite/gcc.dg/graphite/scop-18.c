@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/graphite/scop-18.c

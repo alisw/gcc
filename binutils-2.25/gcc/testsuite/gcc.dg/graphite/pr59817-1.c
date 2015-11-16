@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/graphite/pr59817-1.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/lookup/conv-4.C

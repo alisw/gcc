@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/execute/nest-stdar-1.c

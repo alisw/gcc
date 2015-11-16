@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/bfin/longcall-1.c

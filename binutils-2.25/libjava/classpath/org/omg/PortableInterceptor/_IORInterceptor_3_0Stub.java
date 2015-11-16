@@ -1,0 +1,1 @@
+../../../../../../libjava/classpath/org/omg/PortableInterceptor/_IORInterceptor_3_0Stub.java

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arc/mcpu-arc600.c

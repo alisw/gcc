@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/gcc.c-torture/execute/ieee/unsafe-fp-assoc-1.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/torture/builtin-explog-1.c

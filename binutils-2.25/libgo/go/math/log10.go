@@ -1,0 +1,1 @@
+../../../../libgo/go/math/log10.go

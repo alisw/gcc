@@ -1,0 +1,1 @@
+../../../../gmp/mpn/ia64/dive_1.asm

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/funcdef-var-1.c

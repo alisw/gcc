@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/torture/mips-div-1.c

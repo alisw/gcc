@@ -1,0 +1,1 @@
+../../../gcc/doc/optinfo.texi

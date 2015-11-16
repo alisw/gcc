@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/ext/anon-struct2.C

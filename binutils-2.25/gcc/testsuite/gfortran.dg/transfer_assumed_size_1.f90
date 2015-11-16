@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/transfer_assumed_size_1.f90

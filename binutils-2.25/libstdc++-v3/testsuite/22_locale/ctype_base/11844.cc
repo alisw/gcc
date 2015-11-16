@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/22_locale/ctype_base/11844.cc

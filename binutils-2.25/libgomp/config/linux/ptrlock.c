@@ -1,0 +1,1 @@
+../../../../libgomp/config/linux/ptrlock.c

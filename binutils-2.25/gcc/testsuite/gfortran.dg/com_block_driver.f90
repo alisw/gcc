@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/com_block_driver.f90

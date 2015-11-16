@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.dg/vect/pr51058-2.f90

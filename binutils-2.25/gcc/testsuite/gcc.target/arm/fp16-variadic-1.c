@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arm/fp16-variadic-1.c

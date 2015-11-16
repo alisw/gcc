@@ -1,0 +1,1 @@
+../../../libffi/man/Makefile.am

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/init/aggr7.C

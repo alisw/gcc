@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/ext/vstring/cons/noexcept_move_construct.cc

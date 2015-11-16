@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/c90-vla-1.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/expr/cast2.C

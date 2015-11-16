@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/bfin/mcpu-bf537.c

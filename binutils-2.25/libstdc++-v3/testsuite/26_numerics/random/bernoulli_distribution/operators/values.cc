@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/26_numerics/random/bernoulli_distribution/operators/values.cc

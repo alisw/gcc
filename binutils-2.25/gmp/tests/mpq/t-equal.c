@@ -1,0 +1,1 @@
+../../../../gmp/tests/mpq/t-equal.c

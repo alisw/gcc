@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/23_containers/array/requirements/non_default_constructible.cc

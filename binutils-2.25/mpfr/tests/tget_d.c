@@ -1,0 +1,1 @@
+../../../mpfr/tests/tget_d.c

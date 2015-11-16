@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/iostat_4.f90

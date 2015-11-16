@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/avx-set-v4di-3.c

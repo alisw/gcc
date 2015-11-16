@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/c-c++-common/dfp/convert-dfp-fold-2.c

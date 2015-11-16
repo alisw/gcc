@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/argument_checking_4.f90

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/stfunc_5.f90

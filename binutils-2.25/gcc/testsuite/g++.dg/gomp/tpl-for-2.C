@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/gomp/tpl-for-2.C

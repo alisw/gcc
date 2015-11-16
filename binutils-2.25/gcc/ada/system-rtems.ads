@@ -1,0 +1,1 @@
+../../../gcc/ada/system-rtems.ads

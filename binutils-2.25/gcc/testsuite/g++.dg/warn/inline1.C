@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/inline1.C

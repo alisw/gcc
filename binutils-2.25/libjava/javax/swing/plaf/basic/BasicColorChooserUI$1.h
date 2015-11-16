@@ -1,0 +1,1 @@
+../../../../../../libjava/javax/swing/plaf/basic/BasicColorChooserUI$1.h

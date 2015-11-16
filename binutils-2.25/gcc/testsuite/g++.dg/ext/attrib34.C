@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/ext/attrib34.C

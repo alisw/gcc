@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/overload/template2.C

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/class_array_11.f03

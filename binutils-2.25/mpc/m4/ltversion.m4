@@ -1,0 +1,1 @@
+../../../mpc/m4/ltversion.m4

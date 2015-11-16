@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/deallocate_alloc_opt_3.f90

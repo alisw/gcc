@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/pragma-1.m

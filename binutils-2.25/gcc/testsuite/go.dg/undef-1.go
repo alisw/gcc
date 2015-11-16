@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/go.dg/undef-1.go

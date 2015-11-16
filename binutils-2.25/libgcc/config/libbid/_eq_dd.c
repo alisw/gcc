@@ -1,0 +1,1 @@
+../../../../libgcc/config/libbid/_eq_dd.c

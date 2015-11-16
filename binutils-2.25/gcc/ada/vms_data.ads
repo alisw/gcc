@@ -1,0 +1,1 @@
+../../../gcc/ada/vms_data.ads

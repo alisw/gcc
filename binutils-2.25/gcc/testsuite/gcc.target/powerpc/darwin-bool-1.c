@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/darwin-bool-1.c

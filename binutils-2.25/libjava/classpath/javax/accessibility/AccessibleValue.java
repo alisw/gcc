@@ -1,0 +1,1 @@
+../../../../../libjava/classpath/javax/accessibility/AccessibleValue.java

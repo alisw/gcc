@@ -1,0 +1,1 @@
+../../../../gcc/ada/gcc-interface/decl.c

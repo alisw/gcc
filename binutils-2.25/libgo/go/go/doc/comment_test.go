@@ -1,0 +1,1 @@
+../../../../../libgo/go/go/doc/comment_test.go

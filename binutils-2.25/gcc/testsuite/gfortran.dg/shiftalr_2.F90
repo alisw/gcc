@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/shiftalr_2.F90

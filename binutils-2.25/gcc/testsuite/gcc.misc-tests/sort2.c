@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.misc-tests/sort2.c

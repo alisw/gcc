@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gnat.dg/specs/aggr4_pkg.ads

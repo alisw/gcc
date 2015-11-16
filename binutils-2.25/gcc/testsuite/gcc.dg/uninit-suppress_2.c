@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/uninit-suppress_2.c

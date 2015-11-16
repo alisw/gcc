@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/vsx-vectorize-7.c

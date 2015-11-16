@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/c_loc_test_21.f90

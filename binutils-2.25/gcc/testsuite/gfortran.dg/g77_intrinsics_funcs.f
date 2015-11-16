@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/g77_intrinsics_funcs.f

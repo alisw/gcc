@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/mutable1.adb

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/charset/builtin2.c

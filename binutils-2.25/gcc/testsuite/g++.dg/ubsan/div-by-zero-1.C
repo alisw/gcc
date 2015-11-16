@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/ubsan/div-by-zero-1.C

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.dg/gomp/target3.f90

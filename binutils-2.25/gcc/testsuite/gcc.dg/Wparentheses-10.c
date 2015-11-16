@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/Wparentheses-10.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gnat.dg/specs/renaming1.ads

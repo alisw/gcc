@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/abi/demangle/regression/7986-10.cc

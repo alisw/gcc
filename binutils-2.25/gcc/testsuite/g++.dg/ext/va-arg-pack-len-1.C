@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/ext/va-arg-pack-len-1.C

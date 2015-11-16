@@ -1,0 +1,1 @@
+../../../../../libgomp/testsuite/libgomp.c/appendix-a/a.19.1.c

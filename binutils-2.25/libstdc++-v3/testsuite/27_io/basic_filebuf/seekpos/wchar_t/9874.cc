@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/27_io/basic_filebuf/seekpos/wchar_t/9874.cc

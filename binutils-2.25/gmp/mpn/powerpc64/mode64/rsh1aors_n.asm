@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/powerpc64/mode64/rsh1aors_n.asm

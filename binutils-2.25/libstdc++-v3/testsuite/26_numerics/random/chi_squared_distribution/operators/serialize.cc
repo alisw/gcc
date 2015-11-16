@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/26_numerics/random/chi_squared_distribution/operators/serialize.cc

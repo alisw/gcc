@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/c-c++-common/restrict-2.c

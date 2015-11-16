@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/ifcvt-onecmpl-abs-1.c

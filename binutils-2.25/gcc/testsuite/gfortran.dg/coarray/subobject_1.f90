@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.dg/coarray/subobject_1.f90

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.abi/layout1.C

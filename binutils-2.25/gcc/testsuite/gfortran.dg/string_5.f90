@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/string_5.f90

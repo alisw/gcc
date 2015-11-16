@@ -1,0 +1,1 @@
+../../../../libgo/go/os/export_test.go

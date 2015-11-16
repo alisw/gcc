@@ -1,0 +1,1 @@
+../../../gcc/cp/typeck2.c

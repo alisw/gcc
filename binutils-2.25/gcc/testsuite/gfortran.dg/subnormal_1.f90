@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/subnormal_1.f90

@@ -1,0 +1,1 @@
+../../../../../libjava/javax/swing/colorchooser/DefaultSwatchChooserPanel$SwatchPanel.h

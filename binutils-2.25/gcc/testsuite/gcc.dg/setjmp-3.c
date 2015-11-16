@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/setjmp-3.c

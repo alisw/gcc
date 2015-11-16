@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/pack_mask_1.f90

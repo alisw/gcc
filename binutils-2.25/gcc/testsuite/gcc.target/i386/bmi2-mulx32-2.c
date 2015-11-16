@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/bmi2-mulx32-2.c

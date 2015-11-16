@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/lhs-2.c

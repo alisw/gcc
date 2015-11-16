@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/vect-abs-s16.c

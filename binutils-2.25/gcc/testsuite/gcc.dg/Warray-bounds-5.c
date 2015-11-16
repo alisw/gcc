@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/Warray-bounds-5.c

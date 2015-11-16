@@ -1,0 +1,1 @@
+../../../../libgcc/config/arc/crti.S

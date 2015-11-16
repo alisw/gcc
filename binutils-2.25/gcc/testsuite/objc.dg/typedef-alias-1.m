@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/typedef-alias-1.m

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/c-c++-common/asan/null-deref-1.c

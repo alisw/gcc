@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/type_decl_3.f90

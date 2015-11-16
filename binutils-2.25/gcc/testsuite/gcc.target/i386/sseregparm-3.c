@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/sseregparm-3.c

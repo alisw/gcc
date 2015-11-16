@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/module_variable_1.f90

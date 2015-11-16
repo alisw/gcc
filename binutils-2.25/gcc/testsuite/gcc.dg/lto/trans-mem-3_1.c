@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/lto/trans-mem-3_1.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/lookup/using4.C

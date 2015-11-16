@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/gcov/gcov-3.h

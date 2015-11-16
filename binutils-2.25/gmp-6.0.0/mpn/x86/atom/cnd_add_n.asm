@@ -1,0 +1,1 @@
+../../../../../gmp-6.0.0/mpn/x86/atom/cnd_add_n.asm

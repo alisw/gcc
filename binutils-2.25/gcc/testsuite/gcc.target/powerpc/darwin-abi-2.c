@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/darwin-abi-2.c

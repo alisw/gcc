@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/cpp/arith-3.c

@@ -1,0 +1,1 @@
+../../../../libgomp/testsuite/libgomp.fortran/declare-simd-2.f90

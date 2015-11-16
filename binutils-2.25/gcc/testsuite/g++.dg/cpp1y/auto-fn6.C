@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/cpp1y/auto-fn6.C

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/vsx-float0.c

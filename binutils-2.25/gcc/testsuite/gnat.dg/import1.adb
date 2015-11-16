@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/import1.adb

@@ -1,0 +1,1 @@
+../../../../libjava/classpath/include/java_lang_VMDouble.h

@@ -1,0 +1,1 @@
+../../gcc/opt-functions.awk

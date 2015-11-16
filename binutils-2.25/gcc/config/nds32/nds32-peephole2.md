@@ -1,0 +1,1 @@
+../../../../gcc/config/nds32/nds32-peephole2.md

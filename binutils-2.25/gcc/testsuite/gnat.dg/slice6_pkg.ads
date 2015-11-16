@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/slice6_pkg.ads

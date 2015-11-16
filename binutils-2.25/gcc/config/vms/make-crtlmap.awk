@@ -1,0 +1,1 @@
+../../../../gcc/config/vms/make-crtlmap.awk

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/module_widestring_1.f90

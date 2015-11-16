@@ -1,0 +1,1 @@
+../../../../libgcc/config/ia64/crti.S

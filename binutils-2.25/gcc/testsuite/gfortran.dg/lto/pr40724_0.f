@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.dg/lto/pr40724_0.f

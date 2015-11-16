@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/error-1.m

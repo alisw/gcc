@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/mem-partial1.C

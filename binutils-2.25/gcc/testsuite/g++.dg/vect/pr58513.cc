@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/vect/pr58513.cc

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arm/fp16-unprototyped-1.c

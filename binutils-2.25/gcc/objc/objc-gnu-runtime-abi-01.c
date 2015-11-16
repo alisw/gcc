@@ -1,0 +1,1 @@
+../../../gcc/objc/objc-gnu-runtime-abi-01.c

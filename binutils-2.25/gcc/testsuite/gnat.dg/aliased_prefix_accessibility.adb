@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/aliased_prefix_accessibility.adb

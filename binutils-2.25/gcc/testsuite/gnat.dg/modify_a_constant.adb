@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/modify_a_constant.adb

@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/24_iterators/istream_iterator/2.cc

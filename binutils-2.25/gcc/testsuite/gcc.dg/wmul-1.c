@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/wmul-1.c

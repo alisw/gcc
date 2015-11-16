@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/sdata-3.c

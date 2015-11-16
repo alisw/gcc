@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/lto13_pkg.adb

@@ -1,0 +1,1 @@
+../../../../libgomp/testsuite/libgomp.fortran/pointer2.f90

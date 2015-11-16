@@ -1,0 +1,1 @@
+../../libssp/strncat-chk.c

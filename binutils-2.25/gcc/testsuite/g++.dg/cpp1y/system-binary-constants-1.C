@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/cpp1y/system-binary-constants-1.C

@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/23_containers/vector/requirements/dr438/assign_neg.cc

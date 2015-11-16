@@ -1,0 +1,1 @@
+../../../../../libgo/go/io/ioutil/blackhole.go

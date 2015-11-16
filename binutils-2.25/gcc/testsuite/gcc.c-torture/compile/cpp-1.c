@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/compile/cpp-1.c

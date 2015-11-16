@@ -1,0 +1,1 @@
+../../../../../libjava/gnu/gcj/convert/natInput_SJIS.cc

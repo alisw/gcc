@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/cpp/macro-exp-tracking-3.c

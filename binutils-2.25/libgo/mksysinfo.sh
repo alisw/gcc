@@ -1,0 +1,1 @@
+../../libgo/mksysinfo.sh

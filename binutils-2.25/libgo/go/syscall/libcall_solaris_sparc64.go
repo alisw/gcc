@@ -1,0 +1,1 @@
+../../../../libgo/go/syscall/libcall_solaris_sparc64.go

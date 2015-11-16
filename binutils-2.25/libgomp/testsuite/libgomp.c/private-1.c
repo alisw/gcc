@@ -1,0 +1,1 @@
+../../../../libgomp/testsuite/libgomp.c/private-1.c

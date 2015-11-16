@@ -1,0 +1,1 @@
+../../../../libstdc++-v3/include/bits/c++0x_warning.h

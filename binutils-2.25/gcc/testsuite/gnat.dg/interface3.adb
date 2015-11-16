@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/interface3.adb

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arm/neon-vtst_p64.c

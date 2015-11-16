@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/memtmpl1.C

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/torture/reassoc-1.c

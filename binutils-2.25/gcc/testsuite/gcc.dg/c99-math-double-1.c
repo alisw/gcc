@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/c99-math-double-1.c

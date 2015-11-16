@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.dg/coarray/sync_1.f90

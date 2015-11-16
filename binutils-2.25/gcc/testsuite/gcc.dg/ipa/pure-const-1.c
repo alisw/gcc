@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/ipa/pure-const-1.c

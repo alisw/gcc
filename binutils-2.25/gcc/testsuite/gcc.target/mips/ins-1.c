@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/ins-1.c

@@ -1,0 +1,1 @@
+../../../contrib/regression/mkindex.pl

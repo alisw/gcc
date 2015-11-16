@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/compat/fp2-struct-check.h

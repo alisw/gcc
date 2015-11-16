@@ -1,0 +1,1 @@
+../../../libgo/runtime/go-can-convert-interface.c

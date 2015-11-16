@@ -1,0 +1,1 @@
+../../../../../libjava/gnu/CORBA/NamingService/NamingServiceTransient$1.h

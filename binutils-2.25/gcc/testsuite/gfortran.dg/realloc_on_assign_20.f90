@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/realloc_on_assign_20.f90

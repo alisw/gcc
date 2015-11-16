@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/c99-anon-struct-1.c

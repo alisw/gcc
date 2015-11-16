@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/pch/static-1.hs

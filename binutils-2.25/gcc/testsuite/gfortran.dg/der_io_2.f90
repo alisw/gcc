@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/der_io_2.f90

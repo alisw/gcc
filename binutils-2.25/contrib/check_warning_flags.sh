@@ -1,0 +1,1 @@
+../../contrib/check_warning_flags.sh

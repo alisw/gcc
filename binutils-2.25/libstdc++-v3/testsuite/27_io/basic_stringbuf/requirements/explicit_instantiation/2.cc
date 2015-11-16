@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/27_io/basic_stringbuf/requirements/explicit_instantiation/2.cc

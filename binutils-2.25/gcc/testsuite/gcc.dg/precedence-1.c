@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/precedence-1.c

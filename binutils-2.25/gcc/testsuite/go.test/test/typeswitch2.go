@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/go.test/test/typeswitch2.go

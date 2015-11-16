@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/empty_type.f90

@@ -1,0 +1,1 @@
+../../../libgfortran/intrinsics/extends_type_of.c

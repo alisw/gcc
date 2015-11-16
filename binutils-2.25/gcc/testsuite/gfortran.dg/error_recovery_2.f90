@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/error_recovery_2.f90

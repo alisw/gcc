@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/function_types_1.f90

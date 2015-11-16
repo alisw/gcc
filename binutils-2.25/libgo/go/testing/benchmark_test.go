@@ -1,0 +1,1 @@
+../../../../libgo/go/testing/benchmark_test.go

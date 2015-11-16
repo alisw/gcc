@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/graphite/interchange-0.c

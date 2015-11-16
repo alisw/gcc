@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/fatp_sra.adb

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/torture/vector-shuffle1.c

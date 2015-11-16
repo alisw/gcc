@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/vect/no-scevccp-noreassoc-outer-2.c

@@ -1,0 +1,1 @@
+../../../../../gmp-6.0.0/mpn/sparc32/v9/sqr_diagonal.asm

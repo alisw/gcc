@@ -1,0 +1,1 @@
+../../../../libgo/go/path/match_test.go

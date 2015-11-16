@@ -1,0 +1,1 @@
+../../../../../libjava/gnu/awt/j2d/IntegerGraphicsState.java

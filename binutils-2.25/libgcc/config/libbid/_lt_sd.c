@@ -1,0 +1,1 @@
+../../../../libgcc/config/libbid/_lt_sd.c

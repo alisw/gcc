@@ -1,0 +1,1 @@
+../../../../../libjava/classpath/javax/management/MBeanFeatureInfo.java

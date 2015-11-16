@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/super-dealloc-1.m

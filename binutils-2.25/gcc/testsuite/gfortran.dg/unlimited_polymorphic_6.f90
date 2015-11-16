@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/unlimited_polymorphic_6.f90

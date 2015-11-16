@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/tic6x/rotdi16.c

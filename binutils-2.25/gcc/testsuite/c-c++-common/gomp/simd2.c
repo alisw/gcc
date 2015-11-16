@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/c-c++-common/gomp/simd2.c

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/io_real_boz_5.f90

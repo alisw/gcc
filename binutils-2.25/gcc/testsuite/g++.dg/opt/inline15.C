@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/opt/inline15.C

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/postincr-1.c

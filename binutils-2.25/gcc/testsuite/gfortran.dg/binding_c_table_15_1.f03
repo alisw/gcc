@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/binding_c_table_15_1.f03

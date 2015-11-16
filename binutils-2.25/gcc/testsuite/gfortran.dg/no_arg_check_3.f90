@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/no_arg_check_3.f90

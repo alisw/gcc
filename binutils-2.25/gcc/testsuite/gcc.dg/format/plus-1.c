@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/format/plus-1.c

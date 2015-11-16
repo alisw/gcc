@@ -1,0 +1,1 @@
+../../../mpfr/tests/cmp_str.c

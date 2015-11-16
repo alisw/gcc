@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/format/diag-2.c

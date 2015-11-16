@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/Wchar-subscripts-1.c

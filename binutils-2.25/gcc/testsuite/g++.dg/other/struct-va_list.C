@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/other/struct-va_list.C

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/cshift_nan_1.f90

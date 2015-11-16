@@ -1,0 +1,1 @@
+../../../../libgcc/config/pa/lib2funcs.S

@@ -1,1 +1,1 @@
-CXXFLAGS_FOR_TARGET = $(CXXFLAGS) -D_GNU_SOURCE
+../../config/mt-gnu

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arm/crypto-vaesmcq_u8.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/sparc/setcc-2.c

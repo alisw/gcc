@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/20061026.c

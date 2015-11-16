@@ -1,0 +1,1 @@
+../../../../../gcc/common/config/mcore/mcore-common.c

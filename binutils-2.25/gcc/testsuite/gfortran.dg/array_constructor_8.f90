@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/array_constructor_8.f90

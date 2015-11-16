@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/h8300-bss-align-1.c

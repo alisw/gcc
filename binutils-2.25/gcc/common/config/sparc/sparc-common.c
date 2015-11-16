@@ -1,0 +1,1 @@
+../../../../../gcc/common/config/sparc/sparc-common.c

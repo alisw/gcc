@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/expr/bool2.C

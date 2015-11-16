@@ -1,0 +1,1 @@
+../../../../../libjava/javax/swing/event/InternalFrameAdapter.h

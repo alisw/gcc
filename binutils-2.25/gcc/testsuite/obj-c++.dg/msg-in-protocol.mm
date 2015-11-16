@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/obj-c++.dg/msg-in-protocol.mm

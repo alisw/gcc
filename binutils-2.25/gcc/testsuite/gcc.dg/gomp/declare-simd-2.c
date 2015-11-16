@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/gomp/declare-simd-2.c

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/allocate_char_star_scalar_1.f90

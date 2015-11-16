@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/format/sys_format.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/format/ms-format1.c

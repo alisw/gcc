@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/objc/execute/enumeration-1.m

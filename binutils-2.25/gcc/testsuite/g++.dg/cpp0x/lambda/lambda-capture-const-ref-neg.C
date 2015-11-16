@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/g++.dg/cpp0x/lambda/lambda-capture-const-ref-neg.C

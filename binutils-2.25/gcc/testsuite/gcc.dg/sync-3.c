@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/sync-3.c

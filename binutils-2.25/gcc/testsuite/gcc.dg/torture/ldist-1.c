@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/torture/ldist-1.c

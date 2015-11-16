@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/c-c++-common/simulate-thread/bitfields-4.c

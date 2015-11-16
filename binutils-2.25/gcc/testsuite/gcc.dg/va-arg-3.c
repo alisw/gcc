@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/va-arg-3.c

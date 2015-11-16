@@ -1,0 +1,1 @@
+../../../../gcc/config/mips/mips-protos.h

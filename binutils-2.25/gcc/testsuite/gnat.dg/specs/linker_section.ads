@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gnat.dg/specs/linker_section.ads

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/goto_6.f

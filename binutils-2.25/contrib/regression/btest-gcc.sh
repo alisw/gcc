@@ -1,0 +1,1 @@
+../../../contrib/regression/btest-gcc.sh

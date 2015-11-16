@@ -1,0 +1,1 @@
+../../../../../gcc/common/config/mmix/mmix-common.c

@@ -1,0 +1,1 @@
+../../../../libjava/classpath/scripts/generate-locale-list.sh

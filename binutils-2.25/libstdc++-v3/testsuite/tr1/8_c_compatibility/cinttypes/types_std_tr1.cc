@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/tr1/8_c_compatibility/cinttypes/types_std_tr1.cc

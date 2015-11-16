@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/tagged_type_pkg.adb

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/diagnostic/aka1.C

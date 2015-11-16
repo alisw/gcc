@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/gcc.c-torture/execute/builtins/strncpy-chk-lib.c

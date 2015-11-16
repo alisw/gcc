@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/io_invalid_1.f90

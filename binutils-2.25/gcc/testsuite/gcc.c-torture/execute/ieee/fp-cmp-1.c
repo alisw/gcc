@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/gcc.c-torture/execute/ieee/fp-cmp-1.c

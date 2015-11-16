@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/remote_type.ads

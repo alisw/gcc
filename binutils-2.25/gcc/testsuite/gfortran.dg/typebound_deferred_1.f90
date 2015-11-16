@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/typebound_deferred_1.f90

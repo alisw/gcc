@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/26_numerics/random/linear_congruential_engine/cons/seed2.cc

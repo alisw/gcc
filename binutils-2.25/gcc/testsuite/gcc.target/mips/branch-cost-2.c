@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/branch-cost-2.c

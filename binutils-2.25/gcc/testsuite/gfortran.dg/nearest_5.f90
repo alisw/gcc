@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/nearest_5.f90

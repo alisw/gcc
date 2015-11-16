@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/22_locale/time_get/get_weekday/wchar_t/6.cc

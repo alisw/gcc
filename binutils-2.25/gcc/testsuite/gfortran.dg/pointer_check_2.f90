@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/pointer_check_2.f90

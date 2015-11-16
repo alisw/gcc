@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/label-compound-stmt-1.c

@@ -1,0 +1,1 @@
+../../../../../../gmp/mpn/alpha/ev6/nails/mul_1.asm

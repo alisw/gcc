@@ -1,0 +1,1 @@
+../../../../libjava/javax/management/MBeanPermission.h

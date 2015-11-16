@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/execute/restrict-1.c

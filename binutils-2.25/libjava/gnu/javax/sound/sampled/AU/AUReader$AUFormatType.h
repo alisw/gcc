@@ -1,0 +1,1 @@
+../../../../../../../libjava/gnu/javax/sound/sampled/AU/AUReader$AUFormatType.h

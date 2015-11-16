@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/set-fcsr-2.c

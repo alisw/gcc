@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/debug3.adb

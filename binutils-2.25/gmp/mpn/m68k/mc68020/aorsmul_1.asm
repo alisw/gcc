@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/m68k/mc68020/aorsmul_1.asm

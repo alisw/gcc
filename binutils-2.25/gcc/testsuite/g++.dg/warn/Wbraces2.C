@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/Wbraces2.C

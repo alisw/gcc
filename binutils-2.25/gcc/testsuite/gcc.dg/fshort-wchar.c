@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/fshort-wchar.c

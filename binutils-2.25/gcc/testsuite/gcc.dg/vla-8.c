@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/vla-8.c

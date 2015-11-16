@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/format/ms_nonlit-3.c

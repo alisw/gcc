@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/keywords-3.m

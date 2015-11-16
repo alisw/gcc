@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/objc.dg/special/load-category-1.h

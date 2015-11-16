@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/21_strings/basic_string/element_access/char/1.cc

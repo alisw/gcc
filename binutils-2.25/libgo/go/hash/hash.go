@@ -1,0 +1,1 @@
+../../../../libgo/go/hash/hash.go

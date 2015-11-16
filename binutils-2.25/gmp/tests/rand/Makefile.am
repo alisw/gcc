@@ -1,0 +1,1 @@
+../../../../gmp/tests/rand/Makefile.am

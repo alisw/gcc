@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/plugin/decl-plugin-test.C

@@ -1,0 +1,1 @@
+../../libstdc++-v3/crossconfig.m4

@@ -1,0 +1,1 @@
+../../../../libffi/testsuite/libffi.call/closure_fn3.c

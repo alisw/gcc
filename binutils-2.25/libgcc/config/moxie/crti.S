@@ -1,0 +1,1 @@
+../../../../libgcc/config/moxie/crti.S

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.dg/gomp/pr41344.f

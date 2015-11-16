@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/objc.dg/special/unclaimed-category-1.m

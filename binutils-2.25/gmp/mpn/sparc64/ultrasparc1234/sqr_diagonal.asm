@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/sparc64/ultrasparc1234/sqr_diagonal.asm

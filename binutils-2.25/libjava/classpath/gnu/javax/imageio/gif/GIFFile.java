@@ -1,0 +1,1 @@
+../../../../../../../libjava/classpath/gnu/javax/imageio/gif/GIFFile.java

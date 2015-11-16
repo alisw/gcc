@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/allocate_with_typespec_5.f90

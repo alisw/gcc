@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/transparent-union-3.c

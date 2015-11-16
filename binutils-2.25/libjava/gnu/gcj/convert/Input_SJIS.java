@@ -1,0 +1,1 @@
+../../../../../libjava/gnu/gcj/convert/Input_SJIS.java

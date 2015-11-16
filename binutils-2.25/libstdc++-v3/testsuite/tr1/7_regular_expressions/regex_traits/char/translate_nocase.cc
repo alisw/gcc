@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/tr1/7_regular_expressions/regex_traits/char/translate_nocase.cc

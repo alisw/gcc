@@ -1,0 +1,1 @@
+../../../../../libjava/gnu/CORBA/CDR/AligningInput.h

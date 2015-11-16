@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/volatile7.f90

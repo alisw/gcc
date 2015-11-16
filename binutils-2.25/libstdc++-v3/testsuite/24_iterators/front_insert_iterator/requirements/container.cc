@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/24_iterators/front_insert_iterator/requirements/container.cc

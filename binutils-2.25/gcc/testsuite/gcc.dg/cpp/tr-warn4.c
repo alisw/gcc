@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/cpp/tr-warn4.c

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/scalar_return_1.f90

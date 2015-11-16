@@ -1,0 +1,1 @@
+../../../../libgcc/config/h8300/crti.S

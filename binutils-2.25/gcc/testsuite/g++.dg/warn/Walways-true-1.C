@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/Walways-true-1.C

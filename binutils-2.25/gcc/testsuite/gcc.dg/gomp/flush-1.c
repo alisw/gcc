@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/gomp/flush-1.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/abi/packed1.C

@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/27_io/objects/wchar_t/41037.cc

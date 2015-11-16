@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/aliasing_dummy_2.f90

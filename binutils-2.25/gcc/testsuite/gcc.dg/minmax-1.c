@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/minmax-1.c

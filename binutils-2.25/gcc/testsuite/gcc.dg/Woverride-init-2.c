@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/Woverride-init-2.c

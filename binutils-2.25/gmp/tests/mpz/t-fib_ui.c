@@ -1,0 +1,1 @@
+../../../../gmp/tests/mpz/t-fib_ui.c

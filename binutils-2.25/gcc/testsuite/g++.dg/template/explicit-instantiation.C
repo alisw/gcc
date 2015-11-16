@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/explicit-instantiation.C

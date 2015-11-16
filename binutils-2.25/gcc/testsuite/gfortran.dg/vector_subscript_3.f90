@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/vector_subscript_3.f90

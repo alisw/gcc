@@ -1,0 +1,1 @@
+../../../../libgomp/testsuite/libgomp.c/shared-3.c

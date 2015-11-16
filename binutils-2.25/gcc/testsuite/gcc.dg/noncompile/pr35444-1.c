@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/noncompile/pr35444-1.c

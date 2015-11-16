@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/lto/pr60150_1.C

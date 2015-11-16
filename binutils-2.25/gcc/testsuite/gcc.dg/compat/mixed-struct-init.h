@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/compat/mixed-struct-init.h

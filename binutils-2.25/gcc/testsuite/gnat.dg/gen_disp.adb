@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/gen_disp.adb

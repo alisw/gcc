@@ -1,0 +1,1 @@
+../../../../../libgcc/config/nds32/isr-library/adj_intr_lvl.inc

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/maxloc_bounds_6.f90

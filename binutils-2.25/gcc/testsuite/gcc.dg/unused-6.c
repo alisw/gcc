@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/unused-6.c

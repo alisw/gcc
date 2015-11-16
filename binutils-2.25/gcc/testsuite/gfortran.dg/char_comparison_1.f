@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/char_comparison_1.f

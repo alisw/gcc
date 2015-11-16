@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/27_io/basic_ostream/inserters_other/wchar_t/9318-out.cc

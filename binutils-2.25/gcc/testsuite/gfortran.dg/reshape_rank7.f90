@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/reshape_rank7.f90

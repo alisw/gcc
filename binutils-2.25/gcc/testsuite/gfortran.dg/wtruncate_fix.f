@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/wtruncate_fix.f

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/pr44592.f90

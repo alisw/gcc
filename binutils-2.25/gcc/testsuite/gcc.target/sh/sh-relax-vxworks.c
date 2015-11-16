@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/sh/sh-relax-vxworks.c

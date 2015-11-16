@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/deref3.adb

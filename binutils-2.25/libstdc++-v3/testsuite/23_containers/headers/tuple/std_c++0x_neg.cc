@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/23_containers/headers/tuple/std_c++0x_neg.cc

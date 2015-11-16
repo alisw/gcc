@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/vect/vec-scal-opt1.c

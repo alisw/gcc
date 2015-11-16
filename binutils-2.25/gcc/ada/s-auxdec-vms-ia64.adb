@@ -1,0 +1,1 @@
+../../../gcc/ada/s-auxdec-vms-ia64.adb

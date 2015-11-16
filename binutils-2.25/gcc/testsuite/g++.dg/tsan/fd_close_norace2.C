@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/tsan/fd_close_norace2.C

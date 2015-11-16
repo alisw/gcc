@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/initialization_2.f90

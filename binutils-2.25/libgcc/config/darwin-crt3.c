@@ -1,0 +1,1 @@
+../../../libgcc/config/darwin-crt3.c

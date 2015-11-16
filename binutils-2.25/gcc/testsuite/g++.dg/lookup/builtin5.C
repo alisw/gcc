@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/lookup/builtin5.C

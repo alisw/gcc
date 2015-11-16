@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/transfer_simplify_5.f90

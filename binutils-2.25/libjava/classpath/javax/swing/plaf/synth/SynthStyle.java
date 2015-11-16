@@ -1,0 +1,1 @@
+../../../../../../../libjava/classpath/javax/swing/plaf/synth/SynthStyle.java

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.dg/gomp/workshare1.f90

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/torture/matrix-2.c

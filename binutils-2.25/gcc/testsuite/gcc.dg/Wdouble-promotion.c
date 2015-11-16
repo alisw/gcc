@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/Wdouble-promotion.c

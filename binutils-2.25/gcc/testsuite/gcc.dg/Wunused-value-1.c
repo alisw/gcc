@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/Wunused-value-1.c

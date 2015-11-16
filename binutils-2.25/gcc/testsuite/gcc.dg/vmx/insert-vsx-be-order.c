@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/vmx/insert-vsx-be-order.c

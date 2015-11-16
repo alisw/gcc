@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/other/abstract2.C

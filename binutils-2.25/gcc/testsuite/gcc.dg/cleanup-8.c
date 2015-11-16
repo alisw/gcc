@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/cleanup-8.c

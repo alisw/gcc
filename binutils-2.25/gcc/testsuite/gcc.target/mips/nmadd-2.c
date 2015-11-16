@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/nmadd-2.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gnat.dg/specs/elab3.ads

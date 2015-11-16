@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.martin/pure1.C

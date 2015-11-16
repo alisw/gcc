@@ -1,0 +1,1 @@
+../../../../gmp/mpn/vax/addmul_1.asm

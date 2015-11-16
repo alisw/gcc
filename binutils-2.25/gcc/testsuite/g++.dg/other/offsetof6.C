@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/other/offsetof6.C

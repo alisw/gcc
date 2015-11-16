@@ -1,0 +1,1 @@
+../../../../libgo/go/syscall/wait.c

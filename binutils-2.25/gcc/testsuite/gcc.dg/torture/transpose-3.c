@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/torture/transpose-3.c

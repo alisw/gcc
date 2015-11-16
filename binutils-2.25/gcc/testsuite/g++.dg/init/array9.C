@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/init/array9.C

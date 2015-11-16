@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/declspec-6.c

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/fold-eqandshift-3.c

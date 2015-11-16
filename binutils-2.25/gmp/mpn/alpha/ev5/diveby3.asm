@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/alpha/ev5/diveby3.asm

@@ -1,0 +1,1 @@
+../../../../../../../../libjava/gnu/javax/sound/sampled/gstreamer/lines/GstPipeline$State.h

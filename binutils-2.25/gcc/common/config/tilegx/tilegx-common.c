@@ -1,0 +1,1 @@
+../../../../../gcc/common/config/tilegx/tilegx-common.c

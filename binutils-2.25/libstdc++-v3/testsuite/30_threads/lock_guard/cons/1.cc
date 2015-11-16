@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/30_threads/lock_guard/cons/1.cc

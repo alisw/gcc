@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/g++.dg/prof-robust-1.C

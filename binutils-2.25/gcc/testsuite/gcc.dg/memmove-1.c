@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/memmove-1.c

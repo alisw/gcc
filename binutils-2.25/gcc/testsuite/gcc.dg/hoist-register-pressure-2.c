@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/hoist-register-pressure-2.c

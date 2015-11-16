@@ -1,0 +1,1 @@
+../../../../libjava/testsuite/libjava.jni/findclass2.h

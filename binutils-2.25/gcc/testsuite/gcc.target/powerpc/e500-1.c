@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/e500-1.c

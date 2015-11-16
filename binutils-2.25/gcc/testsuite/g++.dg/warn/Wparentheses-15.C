@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/Wparentheses-15.C

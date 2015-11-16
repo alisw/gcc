@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/di-longlong64-sync-1.c

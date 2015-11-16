@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/const-anchor-2.c

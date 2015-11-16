@@ -1,0 +1,1 @@
+../../../../../../../libjava/classpath/gnu/javax/imageio/jpeg/HuffmanTable.java

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/sh/pragma-isr-trap-exit.c

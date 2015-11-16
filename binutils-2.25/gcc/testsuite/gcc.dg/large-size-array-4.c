@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/large-size-array-4.c

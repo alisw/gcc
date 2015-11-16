@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/sparc/sibcall-dslot.c

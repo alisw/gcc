@@ -1,0 +1,1 @@
+../../../../../../libjava/gnu/javax/imageio/bmp/EncodeRGB24.h

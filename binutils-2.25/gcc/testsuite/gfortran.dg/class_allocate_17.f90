@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/class_allocate_17.f90

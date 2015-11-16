@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/c-c++-common/ubsan/typedef-1.c

@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/gcc.target/aarch64/aapcs64/test_10.c

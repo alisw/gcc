@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/wtr-aggr-init-1.c

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/arithmetic_if.f90

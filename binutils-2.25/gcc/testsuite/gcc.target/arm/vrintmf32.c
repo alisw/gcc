@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arm/vrintmf32.c

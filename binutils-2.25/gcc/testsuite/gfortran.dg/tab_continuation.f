@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/tab_continuation.f

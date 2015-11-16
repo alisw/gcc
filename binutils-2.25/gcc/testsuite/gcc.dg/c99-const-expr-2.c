@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/c99-const-expr-2.c

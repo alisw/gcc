@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/Wmissing-parameter-type-no.c

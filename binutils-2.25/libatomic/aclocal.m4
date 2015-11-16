@@ -1,0 +1,1 @@
+../../libatomic/aclocal.m4

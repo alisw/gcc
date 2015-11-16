@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/dimode_off.c

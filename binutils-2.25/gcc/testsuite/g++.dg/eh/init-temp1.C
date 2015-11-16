@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/eh/init-temp1.C

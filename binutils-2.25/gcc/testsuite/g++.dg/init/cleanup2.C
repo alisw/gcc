@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/init/cleanup2.C

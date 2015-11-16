@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/performance/27_io/ofstream_insert_float.cc

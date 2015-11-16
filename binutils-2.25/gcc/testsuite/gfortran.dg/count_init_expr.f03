@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/count_init_expr.f03

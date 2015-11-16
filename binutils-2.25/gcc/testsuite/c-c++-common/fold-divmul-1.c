@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/c-c++-common/fold-divmul-1.c

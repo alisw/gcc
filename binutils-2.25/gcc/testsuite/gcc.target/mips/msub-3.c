@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/msub-3.c

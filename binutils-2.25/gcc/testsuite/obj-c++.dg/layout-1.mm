@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/obj-c++.dg/layout-1.mm

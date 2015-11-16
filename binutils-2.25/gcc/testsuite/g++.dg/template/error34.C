@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/error34.C

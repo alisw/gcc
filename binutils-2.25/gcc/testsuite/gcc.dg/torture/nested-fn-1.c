@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/torture/nested-fn-1.c

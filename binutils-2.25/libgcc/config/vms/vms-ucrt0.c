@@ -1,0 +1,1 @@
+../../../../libgcc/config/vms/vms-ucrt0.c

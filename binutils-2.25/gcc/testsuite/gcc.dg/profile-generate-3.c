@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/profile-generate-3.c

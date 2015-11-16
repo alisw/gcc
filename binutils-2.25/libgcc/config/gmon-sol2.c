@@ -1,0 +1,1 @@
+../../../libgcc/config/gmon-sol2.c

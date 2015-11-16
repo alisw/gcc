@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/cond-constqual-1.c

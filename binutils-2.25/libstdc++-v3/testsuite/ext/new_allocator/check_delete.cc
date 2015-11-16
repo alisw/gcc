@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/ext/new_allocator/check_delete.cc

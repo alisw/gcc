@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/ext/vector10.C

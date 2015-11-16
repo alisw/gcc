@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/parse/cast2.C

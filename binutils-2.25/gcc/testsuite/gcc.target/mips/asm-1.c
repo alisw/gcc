@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/asm-1.c

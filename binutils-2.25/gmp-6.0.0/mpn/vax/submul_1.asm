@@ -1,0 +1,1 @@
+../../../../gmp-6.0.0/mpn/vax/submul_1.asm

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/pointer_function_actual_2.f90

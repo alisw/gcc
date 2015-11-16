@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gnat.dg/specs/array_no_def_init.ads

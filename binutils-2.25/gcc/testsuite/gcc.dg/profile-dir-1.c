@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/profile-dir-1.c

@@ -1,0 +1,1 @@
+../../../../libstdc++-v3/testsuite/abi/30586.cc

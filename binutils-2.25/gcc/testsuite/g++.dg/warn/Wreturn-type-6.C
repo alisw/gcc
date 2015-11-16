@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/Wreturn-type-6.C

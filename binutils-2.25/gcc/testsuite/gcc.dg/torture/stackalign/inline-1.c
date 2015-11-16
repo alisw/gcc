@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/gcc.dg/torture/stackalign/inline-1.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/xop-pr57233.c

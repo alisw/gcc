@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/vect/no-scevccp-noreassoc-slp-reduc-7.c

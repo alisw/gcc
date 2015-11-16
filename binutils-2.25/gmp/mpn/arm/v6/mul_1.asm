@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/arm/v6/mul_1.asm

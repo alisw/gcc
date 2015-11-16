@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/execute/simd-4.x

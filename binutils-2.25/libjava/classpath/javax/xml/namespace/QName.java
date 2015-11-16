@@ -1,0 +1,1 @@
+../../../../../../libjava/classpath/javax/xml/namespace/QName.java

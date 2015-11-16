@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/binding_label_tests_22.f90

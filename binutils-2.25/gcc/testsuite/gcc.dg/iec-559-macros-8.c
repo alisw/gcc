@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/iec-559-macros-8.c

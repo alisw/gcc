@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/vect/O3-slp-reduc-10.c

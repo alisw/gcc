@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/cilk-plus/for2.c

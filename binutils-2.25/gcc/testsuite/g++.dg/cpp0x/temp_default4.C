@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/cpp0x/temp_default4.C

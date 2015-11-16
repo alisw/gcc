@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/init-undef-1.c

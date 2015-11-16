@@ -1,0 +1,1 @@
+../../../../libgcc/config/epiphany/crtm1reg-r43.S

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/PR19872.f

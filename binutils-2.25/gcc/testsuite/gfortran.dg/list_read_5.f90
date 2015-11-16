@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/list_read_5.f90

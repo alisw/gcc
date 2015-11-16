@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/dfp/pr41049.c

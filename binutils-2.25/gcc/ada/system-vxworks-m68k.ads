@@ -1,0 +1,1 @@
+../../../gcc/ada/system-vxworks-m68k.ads

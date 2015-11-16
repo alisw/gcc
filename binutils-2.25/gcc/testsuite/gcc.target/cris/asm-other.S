@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/cris/asm-other.S

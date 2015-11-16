@@ -1,0 +1,1 @@
+../../../mpfr/tests/tset_str.c

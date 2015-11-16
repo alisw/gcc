@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/c-c++-common/Wunused-var-1.c

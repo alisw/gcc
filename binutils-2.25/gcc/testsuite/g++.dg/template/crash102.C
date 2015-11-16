@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/crash102.C

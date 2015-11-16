@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/gcc.target/spu/ea/pr41857.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/nds32/builtin-setgie-en.c

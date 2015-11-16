@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/obj-c++.dg/attributes/method-attribute-2.mm

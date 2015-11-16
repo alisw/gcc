@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/array_section_1.f90

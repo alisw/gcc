@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/Woverflow-4.C

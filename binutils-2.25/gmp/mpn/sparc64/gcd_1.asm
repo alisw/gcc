@@ -1,0 +1,1 @@
+../../../../gmp/mpn/sparc64/gcd_1.asm

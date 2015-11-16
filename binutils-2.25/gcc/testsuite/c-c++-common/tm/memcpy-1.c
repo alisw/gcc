@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/c-c++-common/tm/memcpy-1.c

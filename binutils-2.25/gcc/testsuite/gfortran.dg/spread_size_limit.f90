@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/spread_size_limit.f90

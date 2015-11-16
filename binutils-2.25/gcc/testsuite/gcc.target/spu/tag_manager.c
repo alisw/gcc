@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/spu/tag_manager.c

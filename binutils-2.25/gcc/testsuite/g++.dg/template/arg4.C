@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/arg4.C

@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/22_locale/numpunct/members/pod/2.cc

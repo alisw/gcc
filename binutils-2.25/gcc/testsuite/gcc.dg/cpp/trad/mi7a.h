@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/gcc.dg/cpp/trad/mi7a.h

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/c-c++-common/ubsan/null-1.c

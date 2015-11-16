@@ -1,0 +1,1 @@
+../../../gcc/ada/s-parame.ads

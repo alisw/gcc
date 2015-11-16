@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/objc/execute/cascading-1.m

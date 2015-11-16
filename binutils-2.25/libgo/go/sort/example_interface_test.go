@@ -1,0 +1,1 @@
+../../../../libgo/go/sort/example_interface_test.go

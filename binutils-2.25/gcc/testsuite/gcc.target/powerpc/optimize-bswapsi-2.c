@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/optimize-bswapsi-2.c

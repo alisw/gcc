@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/18_support/type_info/52562.cc

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/protocol-optional-1.m

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/implied_shape_1.f08

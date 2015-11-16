@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/opt21_pkg.adb

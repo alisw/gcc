@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/Wlarger-than2.c

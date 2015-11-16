@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/lto/save-temps_0.c

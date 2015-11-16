@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/execute/compndlit-1.c

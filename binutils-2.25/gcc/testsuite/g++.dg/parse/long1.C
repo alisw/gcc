@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/parse/long1.C

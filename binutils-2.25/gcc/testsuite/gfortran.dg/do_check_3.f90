@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/do_check_3.f90

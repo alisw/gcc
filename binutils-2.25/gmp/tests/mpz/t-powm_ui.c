@@ -1,0 +1,1 @@
+../../../../gmp/tests/mpz/t-powm_ui.c

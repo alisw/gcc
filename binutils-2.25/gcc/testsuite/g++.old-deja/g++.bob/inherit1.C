@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.bob/inherit1.C

@@ -1,0 +1,1 @@
+../../../../libgcc/config/m68k/linux-atomic.c

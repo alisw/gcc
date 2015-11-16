@@ -1,0 +1,1 @@
+../../../../libstdc++-v3/testsuite/decimal/compound-assignment.cc

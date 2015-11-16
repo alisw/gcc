@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/lto/pr51832.h

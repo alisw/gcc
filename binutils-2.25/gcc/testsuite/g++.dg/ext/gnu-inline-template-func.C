@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/ext/gnu-inline-template-func.C

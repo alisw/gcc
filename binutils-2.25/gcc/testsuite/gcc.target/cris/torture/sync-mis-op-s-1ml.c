@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/gcc.target/cris/torture/sync-mis-op-s-1ml.c

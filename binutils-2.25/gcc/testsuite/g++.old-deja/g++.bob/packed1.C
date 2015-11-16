@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.bob/packed1.C

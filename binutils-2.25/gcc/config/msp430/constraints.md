@@ -1,0 +1,1 @@
+../../../../gcc/config/msp430/constraints.md

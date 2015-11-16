@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/m68k/tls-le.c

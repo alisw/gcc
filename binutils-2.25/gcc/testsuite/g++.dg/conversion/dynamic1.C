@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/conversion/dynamic1.C

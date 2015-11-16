@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/qual-return-2.c

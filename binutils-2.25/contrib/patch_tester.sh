@@ -1,0 +1,1 @@
+../../contrib/patch_tester.sh

@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/gcc.target/i386/stackalign/asm-1.c

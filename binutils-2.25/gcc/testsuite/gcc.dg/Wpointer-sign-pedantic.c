@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/Wpointer-sign-pedantic.c

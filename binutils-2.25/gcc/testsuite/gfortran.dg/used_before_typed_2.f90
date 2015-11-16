@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/used_before_typed_2.f90

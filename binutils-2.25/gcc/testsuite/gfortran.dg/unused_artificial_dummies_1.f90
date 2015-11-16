@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/unused_artificial_dummies_1.f90

@@ -1,0 +1,1 @@
+../../../../gmp/mpn/ia64/logops_n.asm

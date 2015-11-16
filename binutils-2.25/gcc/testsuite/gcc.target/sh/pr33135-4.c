@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/sh/pr33135-4.c

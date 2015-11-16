@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/stfunc_2.f90

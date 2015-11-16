@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/module_double_reuse.f90

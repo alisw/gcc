@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/pointer_discr1_pkg3.ads

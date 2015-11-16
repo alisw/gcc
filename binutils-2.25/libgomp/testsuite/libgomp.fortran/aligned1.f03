@@ -1,0 +1,1 @@
+../../../../libgomp/testsuite/libgomp.fortran/aligned1.f03

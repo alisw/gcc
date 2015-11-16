@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/ira-shrinkwrap-prep-1.c

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/multiword-1.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/using29.C

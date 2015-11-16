@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/conv6.C

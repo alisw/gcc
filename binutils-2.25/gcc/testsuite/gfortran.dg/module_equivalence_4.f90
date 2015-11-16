@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/module_equivalence_4.f90

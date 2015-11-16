@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/other/const3.C

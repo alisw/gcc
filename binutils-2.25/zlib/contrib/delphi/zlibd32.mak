@@ -1,0 +1,1 @@
+../../../../zlib/contrib/delphi/zlibd32.mak

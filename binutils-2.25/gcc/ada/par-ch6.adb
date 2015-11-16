@@ -1,0 +1,1 @@
+../../../gcc/ada/par-ch6.adb

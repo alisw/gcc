@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/abi-2.c

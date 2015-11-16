@@ -1,0 +1,1 @@
+../../../../gmp-6.0.0/tests/mpq/t-md_2exp.c

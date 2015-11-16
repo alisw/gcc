@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/objc.dg/attributes/invalid-attribute-1.m

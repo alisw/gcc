@@ -1,0 +1,1 @@
+../../../../libgomp/testsuite/libgomp.c++/parallel-1.C

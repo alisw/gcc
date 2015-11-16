@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/Wstrict-aliasing-bogus-const-ptr-nonconst-ptr.c

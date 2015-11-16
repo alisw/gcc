@@ -1,0 +1,1 @@
+../../../../../libgo/go/image/gif/writer_test.go

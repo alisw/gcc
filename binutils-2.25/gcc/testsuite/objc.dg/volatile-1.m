@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/volatile-1.m

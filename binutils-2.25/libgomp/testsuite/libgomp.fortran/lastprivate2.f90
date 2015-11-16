@@ -1,0 +1,1 @@
+../../../../libgomp/testsuite/libgomp.fortran/lastprivate2.f90

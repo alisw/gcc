@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/config/os/bsd/netbsd/ctype_configure_char.cc

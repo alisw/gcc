@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/init/new3.C

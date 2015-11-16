@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/achar_3.f90

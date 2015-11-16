@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/other/array6.C

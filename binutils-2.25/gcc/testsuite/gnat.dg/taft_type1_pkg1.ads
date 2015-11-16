@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/taft_type1_pkg1.ads

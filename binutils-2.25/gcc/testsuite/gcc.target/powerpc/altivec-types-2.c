@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/altivec-types-2.c

@@ -1,0 +1,1 @@
+../../../../libstdc++-v3/testsuite/17_intro/using_namespace_std_tr1_neg.cc

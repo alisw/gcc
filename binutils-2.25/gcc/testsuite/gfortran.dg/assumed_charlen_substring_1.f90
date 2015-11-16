@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/assumed_charlen_substring_1.f90

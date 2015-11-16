@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/abi/abi-tag1.C

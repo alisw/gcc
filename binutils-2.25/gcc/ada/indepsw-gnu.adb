@@ -1,0 +1,1 @@
+../../../gcc/ada/indepsw-gnu.adb

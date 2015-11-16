@@ -1,0 +1,1 @@
+../../../../gmp/mpn/sparc64/mode1o.c

@@ -1,0 +1,1 @@
+../../../gcc/ada/sinput-p.ads

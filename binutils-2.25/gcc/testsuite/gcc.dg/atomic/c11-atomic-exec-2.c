@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/atomic/c11-atomic-exec-2.c

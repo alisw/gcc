@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.dg/graphite/pr39516.f

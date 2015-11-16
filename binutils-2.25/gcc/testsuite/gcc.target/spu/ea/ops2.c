@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/gcc.target/spu/ea/ops2.c

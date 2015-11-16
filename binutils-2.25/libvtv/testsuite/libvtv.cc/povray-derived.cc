@@ -1,0 +1,1 @@
+../../../../libvtv/testsuite/libvtv.cc/povray-derived.cc

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arm/neon-vlshr-imm-1.c

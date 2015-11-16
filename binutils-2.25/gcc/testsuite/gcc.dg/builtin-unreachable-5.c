@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/builtin-unreachable-5.c

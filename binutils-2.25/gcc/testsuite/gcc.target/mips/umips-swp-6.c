@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/umips-swp-6.c

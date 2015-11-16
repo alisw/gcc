@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/21_strings/debug/shrink_to_fit.cc

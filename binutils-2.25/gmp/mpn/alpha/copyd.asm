@@ -1,0 +1,1 @@
+../../../../gmp/mpn/alpha/copyd.asm

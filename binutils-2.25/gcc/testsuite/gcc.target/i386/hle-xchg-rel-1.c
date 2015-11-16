@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/hle-xchg-rel-1.c

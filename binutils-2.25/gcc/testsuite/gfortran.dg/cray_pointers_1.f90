@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/cray_pointers_1.f90

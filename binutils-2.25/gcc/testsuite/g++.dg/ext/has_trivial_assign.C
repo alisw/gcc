@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/ext/has_trivial_assign.C

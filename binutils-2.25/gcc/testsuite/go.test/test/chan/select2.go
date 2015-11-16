@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/go.test/test/chan/select2.go

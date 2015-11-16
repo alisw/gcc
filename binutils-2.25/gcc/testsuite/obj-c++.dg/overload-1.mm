@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/obj-c++.dg/overload-1.mm

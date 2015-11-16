@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/sparc/ultrasp8.c

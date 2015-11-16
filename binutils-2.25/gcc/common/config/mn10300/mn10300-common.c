@@ -1,0 +1,1 @@
+../../../../../gcc/common/config/mn10300/mn10300-common.c

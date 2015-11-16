@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/ext/vstring/inserters_extractors/char/28277.cc

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/matmul_argument_types.f90

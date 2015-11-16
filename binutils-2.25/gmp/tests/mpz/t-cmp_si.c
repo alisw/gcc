@@ -1,0 +1,1 @@
+../../../../gmp/tests/mpz/t-cmp_si.c

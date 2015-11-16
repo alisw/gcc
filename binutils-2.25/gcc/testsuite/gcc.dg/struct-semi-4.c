@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/struct-semi-4.c

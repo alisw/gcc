@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/oconst4.ads

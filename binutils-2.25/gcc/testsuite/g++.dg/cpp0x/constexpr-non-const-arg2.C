@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/cpp0x/constexpr-non-const-arg2.C

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/octeon-seq-2.c

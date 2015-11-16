@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/config/cpu/cris/atomic_word.h

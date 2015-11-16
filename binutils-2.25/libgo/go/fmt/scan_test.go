@@ -1,0 +1,1 @@
+../../../../libgo/go/fmt/scan_test.go

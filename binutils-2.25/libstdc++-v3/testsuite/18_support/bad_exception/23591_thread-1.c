@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/18_support/bad_exception/23591_thread-1.c

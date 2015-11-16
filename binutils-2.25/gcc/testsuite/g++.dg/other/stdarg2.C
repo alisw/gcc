@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/other/stdarg2.C

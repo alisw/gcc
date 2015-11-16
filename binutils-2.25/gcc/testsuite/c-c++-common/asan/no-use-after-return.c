@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/c-c++-common/asan/no-use-after-return.c

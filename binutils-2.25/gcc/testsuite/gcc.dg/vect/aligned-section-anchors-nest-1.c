@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/vect/aligned-section-anchors-nest-1.c

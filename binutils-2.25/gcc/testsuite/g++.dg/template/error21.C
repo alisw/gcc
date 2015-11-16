@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/error21.C

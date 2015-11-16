@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/conversion/const2.C

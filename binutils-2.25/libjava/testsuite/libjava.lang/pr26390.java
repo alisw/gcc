@@ -1,0 +1,1 @@
+../../../../libjava/testsuite/libjava.lang/pr26390.java

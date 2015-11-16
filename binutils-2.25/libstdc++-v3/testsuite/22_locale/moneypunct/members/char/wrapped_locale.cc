@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/22_locale/moneypunct/members/char/wrapped_locale.cc

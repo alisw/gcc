@@ -1,0 +1,1 @@
+../../../gcc/objcp/lang-specs.h

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/wrgsbase-2.c

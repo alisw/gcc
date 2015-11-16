@@ -1,0 +1,1 @@
+../../../gcc/config/netbsd-elf.h

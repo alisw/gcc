@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/go.test/test/interface/embed1.go

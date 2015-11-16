@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/gomp/for-3.C

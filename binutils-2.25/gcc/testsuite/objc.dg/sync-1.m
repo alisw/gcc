@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/sync-1.m

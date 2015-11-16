@@ -1,0 +1,1 @@
+../../../../../libjava/classpath/java/lang/ExceptionInInitializerError.java

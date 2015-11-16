@@ -1,0 +1,1 @@
+../../../cloog-0.18.1/test/min-1-1.good.c

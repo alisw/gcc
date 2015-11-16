@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/tm/ipa-1.c

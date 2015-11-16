@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/const-float128-ped.c

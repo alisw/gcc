@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/dos_eol.f

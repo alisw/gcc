@@ -1,0 +1,1 @@
+../../../libgo/runtime/netpoll_stub.c

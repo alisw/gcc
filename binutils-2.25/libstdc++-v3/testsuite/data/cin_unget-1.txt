@@ -1,0 +1,1 @@
+../../../../libstdc++-v3/testsuite/data/cin_unget-1.txt

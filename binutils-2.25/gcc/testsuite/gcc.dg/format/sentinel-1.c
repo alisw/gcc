@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/format/sentinel-1.c

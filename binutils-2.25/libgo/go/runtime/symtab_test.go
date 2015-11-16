@@ -1,0 +1,1 @@
+../../../../libgo/go/runtime/symtab_test.go

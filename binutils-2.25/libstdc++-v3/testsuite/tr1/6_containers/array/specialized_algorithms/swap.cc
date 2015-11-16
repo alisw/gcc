@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/tr1/6_containers/array/specialized_algorithms/swap.cc

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/init/ctor11.C

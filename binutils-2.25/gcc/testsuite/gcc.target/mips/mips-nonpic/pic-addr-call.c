@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/gcc.target/mips/mips-nonpic/pic-addr-call.c

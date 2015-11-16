@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arc/no-dpfp-lrsr.c

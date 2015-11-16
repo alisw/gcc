@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/norm_4.f90

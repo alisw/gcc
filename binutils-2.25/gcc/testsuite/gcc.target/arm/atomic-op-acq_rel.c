@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arm/atomic-op-acq_rel.c

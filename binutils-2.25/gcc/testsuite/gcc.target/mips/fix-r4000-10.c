@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/fix-r4000-10.c

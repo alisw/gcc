@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/simulate-thread/atomic-load-int.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/gomp/teams-1.C

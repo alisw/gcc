@@ -1,0 +1,1 @@
+../../../../libgo/go/flag/example_test.go

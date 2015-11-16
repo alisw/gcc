@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/attr-warn-unused-result.c

@@ -1,0 +1,1 @@
+../../../../gcc/config/alpha/ev6.md

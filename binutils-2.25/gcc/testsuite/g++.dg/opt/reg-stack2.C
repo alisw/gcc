@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/opt/reg-stack2.C

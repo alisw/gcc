@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/22_locale/num_get/cons/3.cc

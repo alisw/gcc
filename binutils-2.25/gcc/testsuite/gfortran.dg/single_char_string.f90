@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/single_char_string.f90

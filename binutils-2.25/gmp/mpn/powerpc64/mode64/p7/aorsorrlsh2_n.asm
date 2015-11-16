@@ -1,0 +1,1 @@
+../../../../../../gmp/mpn/powerpc64/mode64/p7/aorsorrlsh2_n.asm

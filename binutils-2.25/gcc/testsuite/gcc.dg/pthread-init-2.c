@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/pthread-init-2.c

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/darwin-ld-1.c

@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/23_containers/vector/capacity/shrink_to_fit2.cc

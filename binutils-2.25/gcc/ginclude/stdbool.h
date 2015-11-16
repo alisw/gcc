@@ -1,0 +1,1 @@
+../../../gcc/ginclude/stdbool.h

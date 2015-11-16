@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/compile/asmgoto-1.c

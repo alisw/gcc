@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/fixuns-trunc-1.c

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/bom_error.f90

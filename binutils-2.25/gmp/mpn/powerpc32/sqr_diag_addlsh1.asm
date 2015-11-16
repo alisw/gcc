@@ -1,0 +1,1 @@
+../../../../gmp/mpn/powerpc32/sqr_diag_addlsh1.asm

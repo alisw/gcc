@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/warn_unused_function.f90

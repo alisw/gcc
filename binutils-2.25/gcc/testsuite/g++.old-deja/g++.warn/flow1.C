@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.warn/flow1.C

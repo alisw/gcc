@@ -1,0 +1,1 @@
+../../../../../../../../../../libjava/classpath/tools/generated/gnu/classpath/tools/gjdoc/expr/JavaTokenTypes.txt

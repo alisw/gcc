@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/incoming-7.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/format/c90-strftime-2.c

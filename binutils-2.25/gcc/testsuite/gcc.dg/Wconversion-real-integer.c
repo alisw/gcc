@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/Wconversion-real-integer.c

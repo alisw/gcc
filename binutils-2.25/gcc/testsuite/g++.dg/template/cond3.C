@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/cond3.C

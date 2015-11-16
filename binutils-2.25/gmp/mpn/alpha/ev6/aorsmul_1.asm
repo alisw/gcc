@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/alpha/ev6/aorsmul_1.asm

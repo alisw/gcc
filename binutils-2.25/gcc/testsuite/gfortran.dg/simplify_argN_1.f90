@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/simplify_argN_1.f90

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/dummy_procedure_4.f90

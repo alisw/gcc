@@ -1,0 +1,1 @@
+../../../gcc/objcp/objcp-lang.c

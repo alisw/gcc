@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gnat.dg/specs/null_aggr_bug.ads

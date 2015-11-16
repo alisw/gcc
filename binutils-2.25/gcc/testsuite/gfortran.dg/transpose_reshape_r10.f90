@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/transpose_reshape_r10.f90

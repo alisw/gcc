@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/ipa/devirt-d-1.C

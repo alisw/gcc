@@ -1,0 +1,1 @@
+../../../../libgo/go/os/error_plan9.go

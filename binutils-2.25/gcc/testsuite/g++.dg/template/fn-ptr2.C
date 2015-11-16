@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/fn-ptr2.C

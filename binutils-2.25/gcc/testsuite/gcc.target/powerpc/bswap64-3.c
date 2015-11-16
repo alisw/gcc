@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/bswap64-3.c

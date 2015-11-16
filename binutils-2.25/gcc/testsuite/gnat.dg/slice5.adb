@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/slice5.adb

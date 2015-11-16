@@ -1,0 +1,1 @@
+../../../gcc/ada/a-chlat1.ads

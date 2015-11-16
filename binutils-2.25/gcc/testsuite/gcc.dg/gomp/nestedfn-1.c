@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/gomp/nestedfn-1.c

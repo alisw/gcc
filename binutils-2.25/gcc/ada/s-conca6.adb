@@ -1,0 +1,1 @@
+../../../gcc/ada/s-conca6.adb

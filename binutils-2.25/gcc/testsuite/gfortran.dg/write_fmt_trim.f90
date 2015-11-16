@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/write_fmt_trim.f90

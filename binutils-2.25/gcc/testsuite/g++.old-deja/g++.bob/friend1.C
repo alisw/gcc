@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.bob/friend1.C

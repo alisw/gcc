@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/init/const6.C

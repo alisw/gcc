@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/format/no-exargs-1.c

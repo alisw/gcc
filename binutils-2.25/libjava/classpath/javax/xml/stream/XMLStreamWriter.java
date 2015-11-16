@@ -1,0 +1,1 @@
+../../../../../../libjava/classpath/javax/xml/stream/XMLStreamWriter.java

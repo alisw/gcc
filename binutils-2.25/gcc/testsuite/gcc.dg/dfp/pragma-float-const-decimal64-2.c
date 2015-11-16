@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/dfp/pragma-float-const-decimal64-2.c

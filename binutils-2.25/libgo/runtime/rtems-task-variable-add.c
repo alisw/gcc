@@ -1,0 +1,1 @@
+../../../libgo/runtime/rtems-task-variable-add.c

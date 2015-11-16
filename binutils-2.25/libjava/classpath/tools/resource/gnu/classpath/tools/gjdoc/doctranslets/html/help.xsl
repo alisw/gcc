@@ -1,0 +1,1 @@
+../../../../../../../../../../../libjava/classpath/tools/resource/gnu/classpath/tools/gjdoc/doctranslets/html/help.xsl

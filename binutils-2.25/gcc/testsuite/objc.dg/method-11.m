@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/method-11.m

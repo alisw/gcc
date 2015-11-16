@@ -1,0 +1,1 @@
+../../../../../../libjava/gnu/javax/imageio/gif/GIFImageReaderSpi.h

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/equiv_constraint_2.f90

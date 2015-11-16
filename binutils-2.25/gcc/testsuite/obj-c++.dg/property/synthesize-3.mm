@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/obj-c++.dg/property/synthesize-3.mm

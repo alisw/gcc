@@ -1,0 +1,1 @@
+../../../../gmp/tests/mpq/t-cmp_ui.c

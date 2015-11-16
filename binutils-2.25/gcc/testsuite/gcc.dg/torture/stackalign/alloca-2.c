@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/gcc.dg/torture/stackalign/alloca-2.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/dfp/decfloat-constants.c

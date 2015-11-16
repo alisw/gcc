@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/avx-floor-sfix-2-vec.c

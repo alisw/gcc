@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/obj-c++.dg/property/dotsyntax-6.mm

@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/20_util/auto_ptr/3.cc

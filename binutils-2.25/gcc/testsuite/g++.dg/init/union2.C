@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/init/union2.C

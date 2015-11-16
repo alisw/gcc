@@ -1,0 +1,1 @@
+../../../../libstdc++-v3/testsuite/abi/cxx_runtime_only_linkage.cc

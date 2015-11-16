@@ -1,0 +1,1 @@
+../../../gcc/config/openbsd-oldgas.h

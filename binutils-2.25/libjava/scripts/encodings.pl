@@ -1,0 +1,1 @@
+../../../libjava/scripts/encodings.pl

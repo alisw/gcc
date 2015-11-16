@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/execute/zero-struct-1.c

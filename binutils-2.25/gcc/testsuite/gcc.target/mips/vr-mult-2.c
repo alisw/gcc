@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/vr-mult-2.c

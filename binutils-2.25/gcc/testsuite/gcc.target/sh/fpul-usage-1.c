@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/sh/fpul-usage-1.c

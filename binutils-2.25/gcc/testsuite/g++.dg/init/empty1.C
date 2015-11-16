@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/init/empty1.C

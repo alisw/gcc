@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/format/strfmon-1.c

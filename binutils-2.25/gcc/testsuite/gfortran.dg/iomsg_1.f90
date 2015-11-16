@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/iomsg_1.f90

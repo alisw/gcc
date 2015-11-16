@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.dg/vect/no-vfa-pr32457.f90

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/asan/symbolize-callback-1.C

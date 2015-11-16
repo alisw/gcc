@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gnat.dg/specs/sync_iface_test.ads

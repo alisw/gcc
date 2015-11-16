@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/cmpxchg16b-1.c

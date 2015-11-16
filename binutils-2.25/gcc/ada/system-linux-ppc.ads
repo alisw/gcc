@@ -1,0 +1,1 @@
+../../../gcc/ada/system-linux-ppc.ads

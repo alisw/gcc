@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/ext/throw_value/cons.cc

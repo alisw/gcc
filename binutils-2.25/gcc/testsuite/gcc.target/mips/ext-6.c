@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/ext-6.c

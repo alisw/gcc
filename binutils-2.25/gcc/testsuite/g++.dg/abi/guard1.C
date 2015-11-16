@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/abi/guard1.C

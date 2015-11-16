@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.dg/vect/vect-do-concurrent-1.f90

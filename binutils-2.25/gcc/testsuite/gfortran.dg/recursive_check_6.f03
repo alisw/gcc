@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/recursive_check_6.f03

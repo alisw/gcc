@@ -1,0 +1,1 @@
+../../../../../libjava/javax/swing/colorchooser/DefaultHSBChooserPanel$2.h

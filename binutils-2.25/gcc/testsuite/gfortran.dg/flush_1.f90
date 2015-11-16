@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/flush_1.f90

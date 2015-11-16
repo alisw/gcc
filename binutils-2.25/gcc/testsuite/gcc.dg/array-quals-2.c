@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/array-quals-2.c

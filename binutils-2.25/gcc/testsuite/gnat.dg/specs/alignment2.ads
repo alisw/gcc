@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gnat.dg/specs/alignment2.ads

@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/27_io/headers/cinttypes/types_std_c++0x.cc

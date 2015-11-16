@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/execute/func-ptr-1.c

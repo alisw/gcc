@@ -1,0 +1,1 @@
+../../gcc/lto-section-out.c

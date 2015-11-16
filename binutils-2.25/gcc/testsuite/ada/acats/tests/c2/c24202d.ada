@@ -1,0 +1,1 @@
+../../../../../../../gcc/testsuite/ada/acats/tests/c2/c24202d.ada

@@ -1,0 +1,1 @@
+../../../../../../gmp/mpn/x86/k6/k62mmx/rshift.asm

@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/25_algorithms/binary_search/1.cc

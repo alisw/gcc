@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/allocatable_function_1.f90

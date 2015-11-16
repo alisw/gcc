@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/ipa/pr64041.c

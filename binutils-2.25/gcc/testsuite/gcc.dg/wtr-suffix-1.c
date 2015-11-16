@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/wtr-suffix-1.c

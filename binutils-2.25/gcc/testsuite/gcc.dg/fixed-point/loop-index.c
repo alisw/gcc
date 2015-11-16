@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/fixed-point/loop-index.c

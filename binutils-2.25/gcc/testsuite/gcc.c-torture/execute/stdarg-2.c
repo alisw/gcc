@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/execute/stdarg-2.c

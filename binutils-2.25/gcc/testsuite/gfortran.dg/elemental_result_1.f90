@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/elemental_result_1.f90

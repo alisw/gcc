@@ -1,0 +1,1 @@
+../../../../gcc/config/aarch64/atomics.md

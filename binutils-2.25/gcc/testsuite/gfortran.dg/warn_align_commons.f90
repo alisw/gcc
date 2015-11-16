@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/warn_align_commons.f90

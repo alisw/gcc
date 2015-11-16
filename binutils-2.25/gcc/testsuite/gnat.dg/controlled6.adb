@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/controlled6.adb

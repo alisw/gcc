@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/lookup/java1.C

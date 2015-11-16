@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/lto/materialize-1_1.c

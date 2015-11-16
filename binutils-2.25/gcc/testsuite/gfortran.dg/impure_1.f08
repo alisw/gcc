@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/impure_1.f08

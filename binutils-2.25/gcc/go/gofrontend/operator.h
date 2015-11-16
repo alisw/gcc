@@ -1,0 +1,1 @@
+../../../../gcc/go/gofrontend/operator.h

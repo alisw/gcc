@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/long-long-compare-1.c

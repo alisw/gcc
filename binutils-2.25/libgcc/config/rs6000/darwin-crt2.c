@@ -1,0 +1,1 @@
+../../../../libgcc/config/rs6000/darwin-crt2.c

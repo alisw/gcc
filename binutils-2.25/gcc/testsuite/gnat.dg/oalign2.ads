@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/oalign2.ads

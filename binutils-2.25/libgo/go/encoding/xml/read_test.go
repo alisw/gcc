@@ -1,0 +1,1 @@
+../../../../../libgo/go/encoding/xml/read_test.go

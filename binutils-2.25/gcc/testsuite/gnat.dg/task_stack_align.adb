@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/task_stack_align.adb

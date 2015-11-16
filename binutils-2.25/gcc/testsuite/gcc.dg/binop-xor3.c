@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/binop-xor3.c

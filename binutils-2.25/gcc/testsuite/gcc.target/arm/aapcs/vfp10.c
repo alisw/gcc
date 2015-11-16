@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/gcc.target/arm/aapcs/vfp10.c

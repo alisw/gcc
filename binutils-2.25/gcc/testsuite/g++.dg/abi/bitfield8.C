@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/abi/bitfield8.C

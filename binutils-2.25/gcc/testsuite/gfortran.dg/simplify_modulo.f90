@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/simplify_modulo.f90

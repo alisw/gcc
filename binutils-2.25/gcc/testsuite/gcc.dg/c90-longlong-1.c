@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/c90-longlong-1.c

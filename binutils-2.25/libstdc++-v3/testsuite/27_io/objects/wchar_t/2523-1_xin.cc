@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/27_io/objects/wchar_t/2523-1_xin.cc

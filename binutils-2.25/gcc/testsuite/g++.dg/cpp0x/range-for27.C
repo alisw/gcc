@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/cpp0x/range-for27.C

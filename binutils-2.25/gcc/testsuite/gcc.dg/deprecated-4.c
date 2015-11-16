@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/deprecated-4.c

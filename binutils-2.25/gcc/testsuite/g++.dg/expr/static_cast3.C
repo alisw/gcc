@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/expr/static_cast3.C

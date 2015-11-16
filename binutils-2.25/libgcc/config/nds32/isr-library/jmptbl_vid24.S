@@ -1,0 +1,1 @@
+../../../../../libgcc/config/nds32/isr-library/jmptbl_vid24.S

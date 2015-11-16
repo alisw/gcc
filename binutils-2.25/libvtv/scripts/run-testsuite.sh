@@ -1,0 +1,1 @@
+../../../libvtv/scripts/run-testsuite.sh

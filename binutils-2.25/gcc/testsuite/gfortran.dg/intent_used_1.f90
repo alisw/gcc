@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/intent_used_1.f90

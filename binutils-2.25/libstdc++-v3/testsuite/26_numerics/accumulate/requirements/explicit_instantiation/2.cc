@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/26_numerics/accumulate/requirements/explicit_instantiation/2.cc

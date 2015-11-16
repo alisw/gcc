@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/objc/compile/pr18406.m

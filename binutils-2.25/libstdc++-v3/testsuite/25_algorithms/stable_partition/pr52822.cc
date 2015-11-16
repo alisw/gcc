@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/25_algorithms/stable_partition/pr52822.cc

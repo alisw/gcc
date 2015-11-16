@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/22_locale/numpunct/members/char/2.cc

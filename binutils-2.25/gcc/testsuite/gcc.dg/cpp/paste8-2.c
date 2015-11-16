@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/cpp/paste8-2.c

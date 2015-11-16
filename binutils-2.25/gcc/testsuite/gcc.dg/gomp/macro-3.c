@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/gomp/macro-3.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/avx-setzero-si256-1.c

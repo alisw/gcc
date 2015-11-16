@@ -1,0 +1,1 @@
+../../../../../../../../libstdc++-v3/testsuite/ext/random/rice_distribution/requirements/explicit_instantiation/1.cc

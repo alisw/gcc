@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.warn/virt1.C

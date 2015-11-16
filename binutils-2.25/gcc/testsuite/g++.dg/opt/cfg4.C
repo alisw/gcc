@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/opt/cfg4.C

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/tls/struct-1.c

@@ -1,0 +1,1 @@
+../../../../gmp/mpn/powerpc32/darwin.m4

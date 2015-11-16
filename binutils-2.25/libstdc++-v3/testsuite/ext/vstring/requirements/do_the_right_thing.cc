@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/ext/vstring/requirements/do_the_right_thing.cc

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/prefix1.adb

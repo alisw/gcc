@@ -1,0 +1,1 @@
+../../libgcc/siditi-object.mk

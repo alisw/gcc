@@ -1,0 +1,1 @@
+../../../../libgomp/testsuite/libgomp.c/sections-2.c

@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/x86/k7/sublsh1_n.asm

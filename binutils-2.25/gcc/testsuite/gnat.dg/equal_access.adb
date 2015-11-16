@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/equal_access.adb

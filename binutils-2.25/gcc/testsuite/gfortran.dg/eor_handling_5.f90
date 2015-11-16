@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/eor_handling_5.f90

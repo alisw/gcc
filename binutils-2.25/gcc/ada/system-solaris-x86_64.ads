@@ -1,0 +1,1 @@
+../../../gcc/ada/system-solaris-x86_64.ads

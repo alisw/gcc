@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/method-lookup-1.m

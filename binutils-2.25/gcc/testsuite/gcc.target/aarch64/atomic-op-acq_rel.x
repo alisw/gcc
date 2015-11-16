@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/aarch64/atomic-op-acq_rel.x

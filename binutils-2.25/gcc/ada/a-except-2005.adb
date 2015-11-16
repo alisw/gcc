@@ -1,0 +1,1 @@
+../../../gcc/ada/a-except-2005.adb

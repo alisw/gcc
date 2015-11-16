@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/torture/pta-escape-1.c

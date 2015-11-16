@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/nonreturning_statements.f90

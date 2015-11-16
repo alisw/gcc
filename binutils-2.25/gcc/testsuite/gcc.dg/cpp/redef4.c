@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/cpp/redef4.c

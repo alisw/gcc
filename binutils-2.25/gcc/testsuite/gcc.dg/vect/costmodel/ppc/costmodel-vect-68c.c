@@ -1,0 +1,1 @@
+../../../../../../../gcc/testsuite/gcc.dg/vect/costmodel/ppc/costmodel-vect-68c.c

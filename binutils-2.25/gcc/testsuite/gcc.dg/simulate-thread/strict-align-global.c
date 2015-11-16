@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/simulate-thread/strict-align-global.c

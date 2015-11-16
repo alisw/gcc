@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/avx-cond-1.c

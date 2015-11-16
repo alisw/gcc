@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/debug/namespace1.C

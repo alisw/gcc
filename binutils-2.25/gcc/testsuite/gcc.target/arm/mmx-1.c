@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arm/mmx-1.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/abi/mangle19-1.C

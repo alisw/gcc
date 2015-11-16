@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/pch/cpp-2.hs

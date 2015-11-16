@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/c-c++-common/ubsan/div-by-zero-4.c

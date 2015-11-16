@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/noncompile/pr23576.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/c-c++-common/dfp/pr33466.c

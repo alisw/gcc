@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/ext/sync-3.C

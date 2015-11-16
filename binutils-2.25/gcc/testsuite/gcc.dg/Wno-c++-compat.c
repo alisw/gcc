@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/Wno-c++-compat.c

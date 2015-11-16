@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/attr-weak-hidden-1.c

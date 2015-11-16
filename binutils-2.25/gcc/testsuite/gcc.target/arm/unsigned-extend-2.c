@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arm/unsigned-extend-2.c

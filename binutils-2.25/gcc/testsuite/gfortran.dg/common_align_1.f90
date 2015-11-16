@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/common_align_1.f90

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/ttp27.C

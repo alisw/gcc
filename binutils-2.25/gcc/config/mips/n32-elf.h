@@ -1,0 +1,1 @@
+../../../../gcc/config/mips/n32-elf.h

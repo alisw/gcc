@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/dispatch2_p.adb

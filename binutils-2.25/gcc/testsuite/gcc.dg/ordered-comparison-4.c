@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/ordered-comparison-4.c

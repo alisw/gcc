@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/dremf-type-compat-3.c

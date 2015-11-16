@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/23_containers/deque/capacity/shrink_to_fit.cc

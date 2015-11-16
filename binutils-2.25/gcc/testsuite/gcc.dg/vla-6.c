@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/vla-6.c

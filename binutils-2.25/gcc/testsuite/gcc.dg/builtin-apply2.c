@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/builtin-apply2.c

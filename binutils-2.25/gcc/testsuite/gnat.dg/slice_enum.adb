@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/slice_enum.adb

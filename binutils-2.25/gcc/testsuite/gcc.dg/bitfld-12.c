@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/bitfld-12.c

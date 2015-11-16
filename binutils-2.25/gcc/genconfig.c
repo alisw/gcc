@@ -1,0 +1,1 @@
+../../gcc/genconfig.c

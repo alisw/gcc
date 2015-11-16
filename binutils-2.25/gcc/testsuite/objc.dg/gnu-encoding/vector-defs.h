@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/objc.dg/gnu-encoding/vector-defs.h

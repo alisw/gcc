@@ -1,0 +1,1 @@
+../../../../../../../../libjava/classpath/tools/gnu/classpath/tools/native2ascii/Messages.java

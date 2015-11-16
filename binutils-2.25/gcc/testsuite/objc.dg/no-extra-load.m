@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/no-extra-load.m

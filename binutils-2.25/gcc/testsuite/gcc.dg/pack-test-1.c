@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/pack-test-1.c

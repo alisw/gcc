@@ -1,0 +1,1 @@
+../../../libsanitizer/sanitizer_common/sanitizer_thread_registry.h

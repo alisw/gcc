@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/expr/ptrmem1.C

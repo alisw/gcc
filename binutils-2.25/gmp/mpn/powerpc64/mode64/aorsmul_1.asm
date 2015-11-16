@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/powerpc64/mode64/aorsmul_1.asm

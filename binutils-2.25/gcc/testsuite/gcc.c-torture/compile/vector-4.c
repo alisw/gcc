@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/compile/vector-4.c

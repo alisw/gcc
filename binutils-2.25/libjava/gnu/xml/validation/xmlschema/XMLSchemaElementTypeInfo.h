@@ -1,0 +1,1 @@
+../../../../../../libjava/gnu/xml/validation/xmlschema/XMLSchemaElementTypeInfo.h

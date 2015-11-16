@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/compat/pr38736_x.c

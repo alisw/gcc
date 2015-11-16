@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/hle-or-acq-1.c

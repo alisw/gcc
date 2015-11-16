@@ -1,0 +1,1 @@
+../../../../libgomp/testsuite/libgomp.fortran/pr28390.f

@@ -1,0 +1,1 @@
+../../../../libgcc/config/arc/initfini.c

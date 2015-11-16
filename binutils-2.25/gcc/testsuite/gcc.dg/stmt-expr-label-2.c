@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/stmt-expr-label-2.c

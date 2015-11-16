@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/format/miss-4.c

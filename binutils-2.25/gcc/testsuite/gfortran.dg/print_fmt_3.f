@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/print_fmt_3.f

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/alpha/pr66140.c

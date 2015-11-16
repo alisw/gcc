@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/eh/terminate1.C

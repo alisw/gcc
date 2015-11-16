@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/gomp/atomic-14.C

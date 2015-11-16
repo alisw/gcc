@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/inline-11.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/execute/floatunsisf-1.c

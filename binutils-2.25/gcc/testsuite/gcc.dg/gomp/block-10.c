@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/gomp/block-10.c

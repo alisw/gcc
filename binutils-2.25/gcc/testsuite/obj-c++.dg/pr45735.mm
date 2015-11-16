@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/obj-c++.dg/pr45735.mm

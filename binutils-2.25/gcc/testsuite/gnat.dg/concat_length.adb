@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/concat_length.adb

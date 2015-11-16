@@ -1,0 +1,1 @@
+../../../../gcc/config/pa/pa32-openbsd.h

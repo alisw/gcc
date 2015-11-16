@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/volatile-2.c

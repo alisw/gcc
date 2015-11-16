@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/27_io/basic_streambuf/in_avail/wchar_t/1.cc

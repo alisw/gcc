@@ -1,0 +1,1 @@
+../../../../libgcc/config/stormy16/cmpsi2.c

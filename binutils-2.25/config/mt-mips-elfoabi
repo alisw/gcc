@@ -1,1 +1,1 @@
-include $(srcdir)/config/mt-mips16-compat
+../../config/mt-mips-elfoabi

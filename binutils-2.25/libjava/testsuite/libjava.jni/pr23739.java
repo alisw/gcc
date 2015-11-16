@@ -1,0 +1,1 @@
+../../../../libjava/testsuite/libjava.jni/pr23739.java

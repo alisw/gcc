@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/vect/dump-tree-dceloop-pr26359.c

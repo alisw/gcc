@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/opt/inline17.C

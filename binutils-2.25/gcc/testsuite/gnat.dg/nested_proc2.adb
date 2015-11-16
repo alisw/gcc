@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/nested_proc2.adb

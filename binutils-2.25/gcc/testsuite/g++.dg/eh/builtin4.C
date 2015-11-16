@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/eh/builtin4.C

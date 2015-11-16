@@ -1,0 +1,1 @@
+../../../../../libgo/go/crypto/cipher/example_test.go

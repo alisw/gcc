@@ -1,0 +1,1 @@
+../../../../libgomp/testsuite/libgomp.fortran/lock-2.f90

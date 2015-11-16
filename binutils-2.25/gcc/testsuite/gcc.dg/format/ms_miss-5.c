@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/format/ms_miss-5.c

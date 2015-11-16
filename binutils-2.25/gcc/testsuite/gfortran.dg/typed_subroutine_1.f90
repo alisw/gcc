@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/typed_subroutine_1.f90

@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/x86_64/k10/sec_tabselect.asm

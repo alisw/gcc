@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/ext/vstring/inserters_extractors/wchar_t/28277.cc

@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/sparc64/ultrasparc1234/mul_1.asm

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/parse/attr-externally-visible-2.C

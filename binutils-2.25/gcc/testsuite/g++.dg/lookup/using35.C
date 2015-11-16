@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/lookup/using35.C

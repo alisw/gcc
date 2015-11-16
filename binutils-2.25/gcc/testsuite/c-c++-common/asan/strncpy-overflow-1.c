@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/c-c++-common/asan/strncpy-overflow-1.c

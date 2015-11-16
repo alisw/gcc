@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/fmt_error_3.f90

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/inherit/covariant19.C

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/avx512pf-vscatterpf0dps-1.c

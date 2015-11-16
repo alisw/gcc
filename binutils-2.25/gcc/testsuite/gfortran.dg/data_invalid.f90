@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/data_invalid.f90

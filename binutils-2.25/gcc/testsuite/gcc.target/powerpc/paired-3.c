@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/paired-3.c

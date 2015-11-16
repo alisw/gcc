@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.dg/gomp/crayptr5.f90

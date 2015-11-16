@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/compile/m68k-byte-addr.c

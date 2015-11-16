@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/ext/stdio_sync_filebuf/char/12048-3.cc

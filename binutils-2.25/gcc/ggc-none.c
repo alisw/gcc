@@ -1,0 +1,1 @@
+../../gcc/ggc-none.c

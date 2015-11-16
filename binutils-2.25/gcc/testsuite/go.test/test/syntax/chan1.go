@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/go.test/test/syntax/chan1.go

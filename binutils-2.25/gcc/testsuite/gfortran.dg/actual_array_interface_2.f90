@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/actual_array_interface_2.f90

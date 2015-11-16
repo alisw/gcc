@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/character_comparison_3.f90

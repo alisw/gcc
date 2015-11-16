@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/aarch64/symbol-range-tiny.c

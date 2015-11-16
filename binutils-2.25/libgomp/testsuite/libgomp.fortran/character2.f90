@@ -1,0 +1,1 @@
+../../../../libgomp/testsuite/libgomp.fortran/character2.f90

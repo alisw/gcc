@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/23_containers/array/debug/front1_neg.cc

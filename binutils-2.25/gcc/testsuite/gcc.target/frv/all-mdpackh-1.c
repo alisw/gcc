@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/frv/all-mdpackh-1.c

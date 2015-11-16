@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/cris/rld-legit2.c

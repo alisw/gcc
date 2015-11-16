@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/sync_iface_test.adb

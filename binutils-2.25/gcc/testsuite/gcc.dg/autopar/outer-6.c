@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/autopar/outer-6.c

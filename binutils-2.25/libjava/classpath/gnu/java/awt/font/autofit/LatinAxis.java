@@ -1,0 +1,1 @@
+../../../../../../../../libjava/classpath/gnu/java/awt/font/autofit/LatinAxis.java

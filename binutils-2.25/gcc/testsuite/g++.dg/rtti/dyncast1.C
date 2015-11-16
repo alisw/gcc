@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/rtti/dyncast1.C

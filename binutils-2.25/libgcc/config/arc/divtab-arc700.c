@@ -1,0 +1,1 @@
+../../../../libgcc/config/arc/divtab-arc700.c

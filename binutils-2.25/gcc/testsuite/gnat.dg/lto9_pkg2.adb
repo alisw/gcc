@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/lto9_pkg2.adb

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/vect/O3-pr46077.c

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/old-style-then-proto-1.c

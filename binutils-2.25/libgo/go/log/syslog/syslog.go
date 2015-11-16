@@ -1,0 +1,1 @@
+../../../../../libgo/go/log/syslog/syslog.go

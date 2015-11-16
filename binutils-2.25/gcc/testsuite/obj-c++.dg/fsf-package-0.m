@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/obj-c++.dg/fsf-package-0.m

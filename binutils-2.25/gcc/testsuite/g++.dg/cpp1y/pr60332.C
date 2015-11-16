@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/cpp1y/pr60332.C

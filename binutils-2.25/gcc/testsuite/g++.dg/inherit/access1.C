@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/inherit/access1.C

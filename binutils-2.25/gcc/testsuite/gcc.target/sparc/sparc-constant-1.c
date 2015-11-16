@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/sparc/sparc-constant-1.c

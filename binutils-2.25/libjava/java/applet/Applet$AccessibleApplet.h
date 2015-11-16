@@ -1,0 +1,1 @@
+../../../../libjava/java/applet/Applet$AccessibleApplet.h

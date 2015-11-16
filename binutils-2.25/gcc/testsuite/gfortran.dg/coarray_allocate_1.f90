@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/coarray_allocate_1.f90

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/compile/complex-6.c

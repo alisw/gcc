@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/adx-addcarryx64-2.c

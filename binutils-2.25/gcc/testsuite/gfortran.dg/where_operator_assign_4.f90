@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/where_operator_assign_4.f90

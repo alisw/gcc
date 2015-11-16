@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/vcvtps2ph-3.c

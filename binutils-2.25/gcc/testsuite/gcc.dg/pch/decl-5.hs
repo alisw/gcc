@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/pch/decl-5.hs

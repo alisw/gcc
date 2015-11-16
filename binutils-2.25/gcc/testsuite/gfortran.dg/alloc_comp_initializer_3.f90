@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/alloc_comp_initializer_3.f90

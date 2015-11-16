@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/c-c++-common/attributes-1.c

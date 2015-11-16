@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/char_result_4.f90

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/transfer_check_4.f90

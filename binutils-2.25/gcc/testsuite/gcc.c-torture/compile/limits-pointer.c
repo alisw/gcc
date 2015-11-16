@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/compile/limits-pointer.c

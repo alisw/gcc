@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/derived_array_intrinisics_1.f90

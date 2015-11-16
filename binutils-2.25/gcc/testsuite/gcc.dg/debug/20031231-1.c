@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/debug/20031231-1.c

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/g_tables.adb

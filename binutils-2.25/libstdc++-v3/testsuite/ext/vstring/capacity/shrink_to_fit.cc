@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/ext/vstring/capacity/shrink_to_fit.cc

@@ -1,0 +1,1 @@
+../../../../libgcc/config/mips/gthr-mipssde.h

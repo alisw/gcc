@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/parse/ret-type1.C

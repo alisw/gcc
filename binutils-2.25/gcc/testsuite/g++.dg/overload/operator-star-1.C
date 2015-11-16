@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/overload/operator-star-1.C

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/dtor1.C

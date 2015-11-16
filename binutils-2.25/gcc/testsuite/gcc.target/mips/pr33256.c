@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/pr33256.c

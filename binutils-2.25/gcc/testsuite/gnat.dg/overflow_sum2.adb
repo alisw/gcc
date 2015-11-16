@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/overflow_sum2.adb

@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/objc.dg/torture/tls/thr-init-3.m

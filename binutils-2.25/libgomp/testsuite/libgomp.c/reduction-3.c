@@ -1,0 +1,1 @@
+../../../../libgomp/testsuite/libgomp.c/reduction-3.c

@@ -1,0 +1,1 @@
+../../../gcc/config/glibc-c.c

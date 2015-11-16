@@ -1,0 +1,1 @@
+../../../../libgomp/testsuite/libgomp.fortran/omp_atomic1.f90

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/parse/bitfield5.C

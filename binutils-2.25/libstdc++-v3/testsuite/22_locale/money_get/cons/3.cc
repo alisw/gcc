@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/22_locale/money_get/cons/3.cc

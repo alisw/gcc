@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arm/thumb2-cond-cmp-3.c

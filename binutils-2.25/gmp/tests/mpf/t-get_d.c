@@ -1,0 +1,1 @@
+../../../../gmp/tests/mpf/t-get_d.c

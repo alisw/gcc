@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/impure_assignment_1.f90

@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/sparc32/v8/submul_1.asm

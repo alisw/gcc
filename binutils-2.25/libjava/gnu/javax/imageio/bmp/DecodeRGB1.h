@@ -1,0 +1,1 @@
+../../../../../../libjava/gnu/javax/imageio/bmp/DecodeRGB1.h

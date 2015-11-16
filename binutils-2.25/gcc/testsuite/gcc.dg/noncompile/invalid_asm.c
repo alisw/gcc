@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/noncompile/invalid_asm.c

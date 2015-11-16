@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/powerpc64/mode64/bdiv_dbm1c.asm

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/wtr-int-type-1.c

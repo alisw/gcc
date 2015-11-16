@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/c-c++-common/tsan/thread_leak.c

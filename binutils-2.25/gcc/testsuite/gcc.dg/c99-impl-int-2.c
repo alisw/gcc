@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/c99-impl-int-2.c

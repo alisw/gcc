@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/zero-link-2.m

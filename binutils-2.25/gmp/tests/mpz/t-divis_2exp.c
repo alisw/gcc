@@ -1,0 +1,1 @@
+../../../../gmp/tests/mpz/t-divis_2exp.c

@@ -1,0 +1,1 @@
+../../../../gmp/mpn/powerpc64/logops_n.asm

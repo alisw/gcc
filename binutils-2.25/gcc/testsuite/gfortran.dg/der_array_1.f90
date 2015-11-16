@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/der_array_1.f90

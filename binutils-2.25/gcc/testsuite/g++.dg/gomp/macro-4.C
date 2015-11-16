@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/gomp/macro-4.C

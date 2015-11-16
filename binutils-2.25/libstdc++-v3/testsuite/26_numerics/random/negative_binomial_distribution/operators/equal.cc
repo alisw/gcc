@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/26_numerics/random/negative_binomial_distribution/operators/equal.cc

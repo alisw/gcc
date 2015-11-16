@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/26_numerics/random/discrete_distribution/requirements/typedefs.cc

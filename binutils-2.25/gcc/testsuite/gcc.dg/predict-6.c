@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/predict-6.c

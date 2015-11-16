@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/c_char_tests_2.f03

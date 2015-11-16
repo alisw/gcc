@@ -1,0 +1,1 @@
+../../../../gmp/tests/rand/t-lc2exp.c

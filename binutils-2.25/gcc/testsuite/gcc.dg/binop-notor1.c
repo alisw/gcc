@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/binop-notor1.c

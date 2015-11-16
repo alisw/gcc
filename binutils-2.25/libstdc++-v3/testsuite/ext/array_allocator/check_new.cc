@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/ext/array_allocator/check_new.cc

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/objc.dg/attributes/method-deprecated-2.m

@@ -1,0 +1,1 @@
+../../../../libjava/javax/swing/JTextField$AccessibleJTextField.h

@@ -1,0 +1,1 @@
+../../../../gcc/config/arm/thumb2.md

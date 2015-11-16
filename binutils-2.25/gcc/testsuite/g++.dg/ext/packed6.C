@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/ext/packed6.C

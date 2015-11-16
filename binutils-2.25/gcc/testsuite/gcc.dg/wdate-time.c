@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/wdate-time.c

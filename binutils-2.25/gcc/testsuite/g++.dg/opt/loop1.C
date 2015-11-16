@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/opt/loop1.C

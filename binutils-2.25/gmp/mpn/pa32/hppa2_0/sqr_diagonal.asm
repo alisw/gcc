@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/pa32/hppa2_0/sqr_diagonal.asm

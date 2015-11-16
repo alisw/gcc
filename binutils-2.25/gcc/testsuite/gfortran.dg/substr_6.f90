@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/substr_6.f90

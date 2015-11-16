@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/pragma-pack-4.c

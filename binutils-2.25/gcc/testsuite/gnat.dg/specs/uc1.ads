@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gnat.dg/specs/uc1.ads

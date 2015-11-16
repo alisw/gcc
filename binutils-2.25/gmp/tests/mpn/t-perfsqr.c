@@ -1,0 +1,1 @@
+../../../../gmp/tests/mpn/t-perfsqr.c

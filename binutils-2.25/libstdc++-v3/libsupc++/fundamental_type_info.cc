@@ -1,0 +1,1 @@
+../../../libstdc++-v3/libsupc++/fundamental_type_info.cc

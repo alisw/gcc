@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/tm/irrevocable-5.c

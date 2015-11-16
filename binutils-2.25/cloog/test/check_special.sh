@@ -1,0 +1,1 @@
+../../../cloog/test/check_special.sh

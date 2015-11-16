@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/dwarf-1.m

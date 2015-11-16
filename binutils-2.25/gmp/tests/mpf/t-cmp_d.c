@@ -1,0 +1,1 @@
+../../../../gmp/tests/mpf/t-cmp_d.c

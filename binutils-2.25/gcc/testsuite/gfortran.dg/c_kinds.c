@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/c_kinds.c

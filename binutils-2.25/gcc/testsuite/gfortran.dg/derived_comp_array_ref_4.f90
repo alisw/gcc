@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/derived_comp_array_ref_4.f90

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/compile/libcall-1.c

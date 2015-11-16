@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/fold-mod-1.c

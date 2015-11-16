@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.dg/g77/970625-2.f

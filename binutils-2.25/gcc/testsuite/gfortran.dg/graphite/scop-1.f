@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.dg/graphite/scop-1.f

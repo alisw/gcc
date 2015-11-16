@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/aarch64/fmul_intrinsic_1.c

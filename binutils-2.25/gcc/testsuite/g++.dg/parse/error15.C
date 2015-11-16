@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/parse/error15.C

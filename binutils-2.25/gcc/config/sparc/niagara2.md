@@ -1,0 +1,1 @@
+../../../../gcc/config/sparc/niagara2.md

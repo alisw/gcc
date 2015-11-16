@@ -1,0 +1,1 @@
+../../../../../libjava/javax/sound/midi/Sequencer$SyncMode.h

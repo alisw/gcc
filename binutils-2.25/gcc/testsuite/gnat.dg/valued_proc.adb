@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/valued_proc.adb

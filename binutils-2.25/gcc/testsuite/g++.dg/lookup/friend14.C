@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/lookup/friend14.C

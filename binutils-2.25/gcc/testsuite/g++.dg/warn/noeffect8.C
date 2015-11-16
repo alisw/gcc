@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/noeffect8.C

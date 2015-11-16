@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/torture/tree-loop-1.c

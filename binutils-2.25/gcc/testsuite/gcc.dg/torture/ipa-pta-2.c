@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/torture/ipa-pta-2.c

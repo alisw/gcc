@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/21_strings/debug/self_move_assign_neg.cc

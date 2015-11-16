@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/Wstrict-aliasing-7.C

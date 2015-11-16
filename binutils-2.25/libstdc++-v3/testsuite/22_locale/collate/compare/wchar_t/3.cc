@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/22_locale/collate/compare/wchar_t/3.cc

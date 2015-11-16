@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/branch-5.c

@@ -1,0 +1,1 @@
+../../../libquadmath/math/isinf_nsq.c

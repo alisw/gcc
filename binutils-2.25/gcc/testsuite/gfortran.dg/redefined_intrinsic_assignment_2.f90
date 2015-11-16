@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/redefined_intrinsic_assignment_2.f90

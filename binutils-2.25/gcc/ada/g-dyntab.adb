@@ -1,0 +1,1 @@
+../../../gcc/ada/g-dyntab.adb

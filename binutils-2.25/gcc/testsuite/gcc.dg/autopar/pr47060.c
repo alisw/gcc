@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/autopar/pr47060.c

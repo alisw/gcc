@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/selector-4.m

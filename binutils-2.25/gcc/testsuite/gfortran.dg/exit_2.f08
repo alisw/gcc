@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/exit_2.f08

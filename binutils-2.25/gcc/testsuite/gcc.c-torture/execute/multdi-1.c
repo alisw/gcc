@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/execute/multdi-1.c

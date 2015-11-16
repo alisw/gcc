@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/funcdef-attr-1.c

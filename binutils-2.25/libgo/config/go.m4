@@ -1,0 +1,1 @@
+../../../libgo/config/go.m4

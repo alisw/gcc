@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/20_util/result_of/sfinae_friendly_1.cc

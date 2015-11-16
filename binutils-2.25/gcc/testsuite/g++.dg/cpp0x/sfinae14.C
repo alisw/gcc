@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/cpp0x/sfinae14.C

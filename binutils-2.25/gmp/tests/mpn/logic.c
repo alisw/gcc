@@ -1,0 +1,1 @@
+../../../../gmp/tests/mpn/logic.c

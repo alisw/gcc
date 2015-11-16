@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/comp-goto-2.c

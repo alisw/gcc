@@ -1,0 +1,1 @@
+../../../../libgcc/config/cr16/crti.S

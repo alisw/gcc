@@ -1,0 +1,1 @@
+../../../gcc/ada/system-solaris-sparcv9.ads

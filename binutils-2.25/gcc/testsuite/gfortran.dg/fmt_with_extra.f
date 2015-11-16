@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/fmt_with_extra.f

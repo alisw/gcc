@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/pointer-integer-comparison.C

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/parse/attr-ctor1.C

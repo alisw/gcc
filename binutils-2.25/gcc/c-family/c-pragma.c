@@ -1,0 +1,1 @@
+../../../gcc/c-family/c-pragma.c

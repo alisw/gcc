@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/alpha/20011018-1.c

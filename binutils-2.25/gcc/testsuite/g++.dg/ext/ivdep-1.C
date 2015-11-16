@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/ext/ivdep-1.C

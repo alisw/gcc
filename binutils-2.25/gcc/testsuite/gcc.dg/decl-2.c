@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/decl-2.c

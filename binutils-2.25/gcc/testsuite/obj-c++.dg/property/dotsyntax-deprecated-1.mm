@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/obj-c++.dg/property/dotsyntax-deprecated-1.mm

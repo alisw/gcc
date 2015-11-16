@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/dfp/Wbad-function-cast-1.c

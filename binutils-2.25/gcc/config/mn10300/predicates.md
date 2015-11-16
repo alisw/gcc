@@ -1,0 +1,1 @@
+../../../../gcc/config/mn10300/predicates.md

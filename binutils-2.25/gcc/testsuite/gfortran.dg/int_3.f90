@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/int_3.f90

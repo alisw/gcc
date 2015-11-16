@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/fsf-nsstring-format-1.m

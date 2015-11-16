@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/torture/pr58201_0.C

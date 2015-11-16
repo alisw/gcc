@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/string_pad_trunc.f90

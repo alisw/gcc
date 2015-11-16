@@ -1,0 +1,1 @@
+../../../../../libgo/go/debug/elf/elf_test.go

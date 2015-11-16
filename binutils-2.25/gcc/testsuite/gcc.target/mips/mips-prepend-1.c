@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/mips-prepend-1.c

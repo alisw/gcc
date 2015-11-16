@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/compile/packed-1.c

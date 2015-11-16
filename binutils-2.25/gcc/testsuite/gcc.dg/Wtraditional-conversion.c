@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/Wtraditional-conversion.c

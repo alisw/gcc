@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.test-framework/dg-dot-run-xif-exp-XP.c

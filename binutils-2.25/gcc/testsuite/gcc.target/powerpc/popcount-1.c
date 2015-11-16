@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/popcount-1.c

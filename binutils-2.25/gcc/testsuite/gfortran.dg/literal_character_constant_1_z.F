@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/literal_character_constant_1_z.F

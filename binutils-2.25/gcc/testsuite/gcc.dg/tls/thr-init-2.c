@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/tls/thr-init-2.c

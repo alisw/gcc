@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/mvbits_2.f90

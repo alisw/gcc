@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/shrink-wrap-pretend.c

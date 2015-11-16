@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/x86_64/atom/aorrlsh1_n.asm

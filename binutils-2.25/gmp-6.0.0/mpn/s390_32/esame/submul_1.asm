@@ -1,0 +1,1 @@
+../../../../../gmp-6.0.0/mpn/s390_32/esame/submul_1.asm

@@ -1,0 +1,1 @@
+../../../../gmp/mpn/powerpc32/sec_tabselect.asm

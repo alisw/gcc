@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gnat.dg/specs/size_attribute1_pkg2.adb

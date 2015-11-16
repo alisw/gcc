@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.dg/graphite/block-1.f90

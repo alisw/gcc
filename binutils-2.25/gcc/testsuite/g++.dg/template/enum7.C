@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/enum7.C

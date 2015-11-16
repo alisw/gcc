@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/25_algorithms/find_if/requirements/explicit_instantiation/pod.cc

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/pr62167-run.c

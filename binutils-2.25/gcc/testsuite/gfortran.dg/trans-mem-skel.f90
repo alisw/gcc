@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/trans-mem-skel.f90

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/fold-abs-1.c

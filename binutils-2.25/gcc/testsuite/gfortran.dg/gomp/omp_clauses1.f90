@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.dg/gomp/omp_clauses1.f90

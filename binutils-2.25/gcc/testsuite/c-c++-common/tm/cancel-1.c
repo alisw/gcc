@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/c-c++-common/tm/cancel-1.c

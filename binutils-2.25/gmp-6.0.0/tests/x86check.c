@@ -1,0 +1,1 @@
+../../../gmp-6.0.0/tests/x86check.c

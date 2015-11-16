@@ -1,0 +1,1 @@
+../../../../../libgo/go/go/printer/performance_test.go

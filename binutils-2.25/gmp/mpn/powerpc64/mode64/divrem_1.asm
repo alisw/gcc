@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/powerpc64/mode64/divrem_1.asm

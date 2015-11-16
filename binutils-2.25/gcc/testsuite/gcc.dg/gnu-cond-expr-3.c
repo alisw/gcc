@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/gnu-cond-expr-3.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/go.test/test/complit1.go

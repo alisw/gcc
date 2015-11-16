@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/string_compare_2.f90

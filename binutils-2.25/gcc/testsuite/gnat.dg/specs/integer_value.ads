@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gnat.dg/specs/integer_value.ads

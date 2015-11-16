@@ -1,0 +1,1 @@
+../../../gcc/ada/g-shsh64.ads

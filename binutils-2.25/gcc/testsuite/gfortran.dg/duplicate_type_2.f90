@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/duplicate_type_2.f90

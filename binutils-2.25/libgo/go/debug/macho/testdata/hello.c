@@ -1,0 +1,1 @@
+../../../../../../libgo/go/debug/macho/testdata/hello.c

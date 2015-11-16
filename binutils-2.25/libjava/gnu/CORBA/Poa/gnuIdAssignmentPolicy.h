@@ -1,0 +1,1 @@
+../../../../../libjava/gnu/CORBA/Poa/gnuIdAssignmentPolicy.h

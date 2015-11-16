@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/interface_18.f90

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.dg/gomp/associate1.f90

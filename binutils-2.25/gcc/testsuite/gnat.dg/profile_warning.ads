@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/profile_warning.ads

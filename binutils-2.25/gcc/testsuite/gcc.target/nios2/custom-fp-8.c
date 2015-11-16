@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/nios2/custom-fp-8.c

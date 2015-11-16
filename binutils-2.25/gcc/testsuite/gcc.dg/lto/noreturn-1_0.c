@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/lto/noreturn-1_0.c

@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/25_algorithms/find_first_of/check_type.cc

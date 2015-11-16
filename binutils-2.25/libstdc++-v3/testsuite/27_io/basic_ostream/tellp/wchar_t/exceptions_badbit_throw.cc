@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/27_io/basic_ostream/tellp/wchar_t/exceptions_badbit_throw.cc

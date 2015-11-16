@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/dfp/fe-convert-2.c

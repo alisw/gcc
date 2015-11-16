@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/compile/goto-1.c

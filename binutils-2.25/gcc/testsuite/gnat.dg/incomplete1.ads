@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/incomplete1.ads

@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/x86_64/atom/addmul_2.asm

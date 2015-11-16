@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/deprecated-7.C

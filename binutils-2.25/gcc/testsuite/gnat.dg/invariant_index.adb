@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/invariant_index.adb

@@ -1,0 +1,1 @@
+../../libatomic/store_n.c

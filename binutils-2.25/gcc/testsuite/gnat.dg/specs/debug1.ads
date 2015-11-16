@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gnat.dg/specs/debug1.ads

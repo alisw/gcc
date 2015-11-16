@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/open_status_2.f90

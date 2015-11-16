@@ -1,0 +1,1 @@
+../../../../../libgcc/config/arc/gmon/dcache_linesz.S

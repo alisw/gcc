@@ -1,0 +1,1 @@
+../../../../libgo/go/syscall/libcall_solaris_amd64.go

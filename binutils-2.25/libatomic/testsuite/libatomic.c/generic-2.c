@@ -1,0 +1,1 @@
+../../../../libatomic/testsuite/libatomic.c/generic-2.c

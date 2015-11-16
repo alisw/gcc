@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/aarch64/frint_double.c

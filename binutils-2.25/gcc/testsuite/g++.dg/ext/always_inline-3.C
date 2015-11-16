@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/ext/always_inline-3.C

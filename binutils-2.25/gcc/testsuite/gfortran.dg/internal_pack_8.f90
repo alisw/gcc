@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/internal_pack_8.f90

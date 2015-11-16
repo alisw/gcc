@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/storage_size_3.f08

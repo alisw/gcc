@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/ext/alias-decl-attr2.C

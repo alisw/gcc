@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/tls/init-1.c

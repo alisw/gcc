@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/xop-shift2-vector.c

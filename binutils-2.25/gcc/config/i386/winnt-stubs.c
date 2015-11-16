@@ -1,0 +1,1 @@
+../../../../gcc/config/i386/winnt-stubs.c

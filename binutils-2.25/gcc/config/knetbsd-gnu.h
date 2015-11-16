@@ -1,0 +1,1 @@
+../../../gcc/config/knetbsd-gnu.h

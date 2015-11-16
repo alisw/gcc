@@ -1,0 +1,1 @@
+../../../gcc/ada/s-trafor-default.ads

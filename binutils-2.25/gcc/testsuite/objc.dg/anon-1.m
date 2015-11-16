@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/anon-1.m

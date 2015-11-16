@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/attr-ifunc-3.c

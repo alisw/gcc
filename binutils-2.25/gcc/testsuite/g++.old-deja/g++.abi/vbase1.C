@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.old-deja/g++.abi/vbase1.C

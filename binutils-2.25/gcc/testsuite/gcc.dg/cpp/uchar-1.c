@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/cpp/uchar-1.c

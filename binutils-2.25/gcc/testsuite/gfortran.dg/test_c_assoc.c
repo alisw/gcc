@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/test_c_assoc.c

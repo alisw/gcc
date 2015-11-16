@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/c-c++-common/ubsan/undefined-2.c

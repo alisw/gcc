@@ -1,0 +1,1 @@
+../../../../libgo/go/runtime/chan_test.go

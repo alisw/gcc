@@ -1,0 +1,1 @@
+../../../../../../../libjava/classpath/gnu/classpath/jdwp/value/DoubleValue.java

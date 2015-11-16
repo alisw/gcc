@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/30_threads/timed_mutex/requirements/standard_layout.cc

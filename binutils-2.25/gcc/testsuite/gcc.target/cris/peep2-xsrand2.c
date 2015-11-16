@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/cris/peep2-xsrand2.c

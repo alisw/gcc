@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.dg/vect/Ofast-pr50414.f90

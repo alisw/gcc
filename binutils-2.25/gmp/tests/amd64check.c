@@ -1,0 +1,1 @@
+../../../gmp/tests/amd64check.c

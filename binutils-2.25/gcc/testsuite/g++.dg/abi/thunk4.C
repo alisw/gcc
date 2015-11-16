@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/abi/thunk4.C

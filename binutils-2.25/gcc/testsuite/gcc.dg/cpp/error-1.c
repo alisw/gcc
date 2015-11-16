@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/cpp/error-1.c

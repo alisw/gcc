@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/27_io/types/3.cc

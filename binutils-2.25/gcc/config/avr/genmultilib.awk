@@ -1,0 +1,1 @@
+../../../../gcc/config/avr/genmultilib.awk

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/derived_aggregate.adb

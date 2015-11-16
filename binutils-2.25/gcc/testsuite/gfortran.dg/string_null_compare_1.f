@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/string_null_compare_1.f

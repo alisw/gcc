@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/atomic-store-5.c

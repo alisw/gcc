@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/sparc/vis3move-2.c

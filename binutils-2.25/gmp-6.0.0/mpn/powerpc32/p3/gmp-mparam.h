@@ -1,0 +1,1 @@
+../../../../../gmp-6.0.0/mpn/powerpc32/p3/gmp-mparam.h

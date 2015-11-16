@@ -1,0 +1,1 @@
+../../../../../isl/test_inputs/codegen/omega/stride4-0.c

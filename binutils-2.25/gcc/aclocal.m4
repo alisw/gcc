@@ -1,0 +1,1 @@
+../../gcc/aclocal.m4

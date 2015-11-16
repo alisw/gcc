@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/objc.dg/strings/const-str-2.m

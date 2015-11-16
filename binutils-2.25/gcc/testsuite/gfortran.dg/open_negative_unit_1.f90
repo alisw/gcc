@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/open_negative_unit_1.f90

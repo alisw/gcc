@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/opt45.adb

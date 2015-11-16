@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/other/default8.C

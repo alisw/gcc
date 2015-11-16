@@ -1,0 +1,1 @@
+../../../cloog/test/lineality-1-2.good.c

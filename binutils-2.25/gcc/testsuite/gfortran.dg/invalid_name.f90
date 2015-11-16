@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/invalid_name.f90

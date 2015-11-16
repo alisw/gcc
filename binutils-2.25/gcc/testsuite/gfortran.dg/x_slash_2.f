@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/x_slash_2.f

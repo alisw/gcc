@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/cast-qual-2.c

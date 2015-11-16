@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/parse/access10.C

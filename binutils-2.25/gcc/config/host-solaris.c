@@ -1,0 +1,1 @@
+../../../gcc/config/host-solaris.c

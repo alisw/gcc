@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/proc_assign_2.f90

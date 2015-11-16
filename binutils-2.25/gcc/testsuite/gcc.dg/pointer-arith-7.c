@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/pointer-arith-7.c

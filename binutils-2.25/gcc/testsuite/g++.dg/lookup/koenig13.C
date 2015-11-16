@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/lookup/koenig13.C

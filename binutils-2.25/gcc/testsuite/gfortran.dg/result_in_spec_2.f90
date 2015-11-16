@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/result_in_spec_2.f90

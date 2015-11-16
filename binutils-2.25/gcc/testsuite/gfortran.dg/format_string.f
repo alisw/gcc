@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/format_string.f

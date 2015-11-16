@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/proc_decl_21.f90

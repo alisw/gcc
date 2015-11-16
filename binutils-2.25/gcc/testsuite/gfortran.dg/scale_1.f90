@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/scale_1.f90

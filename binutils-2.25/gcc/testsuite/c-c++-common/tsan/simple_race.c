@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/c-c++-common/tsan/simple_race.c

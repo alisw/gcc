@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/22_locale/facet/25421.cc

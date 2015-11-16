@@ -1,0 +1,1 @@
+../../../gcc/ada/s-taspri-mingw.ads

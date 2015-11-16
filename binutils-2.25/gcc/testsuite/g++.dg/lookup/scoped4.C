@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/lookup/scoped4.C

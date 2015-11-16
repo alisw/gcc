@@ -1,0 +1,1 @@
+../../../../libffi/testsuite/libffi.call/fastthis1_win32.c

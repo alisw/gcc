@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/go.test/test/chan/powser2.go

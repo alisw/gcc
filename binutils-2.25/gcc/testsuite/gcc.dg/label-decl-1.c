@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/label-decl-1.c

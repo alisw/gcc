@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/go.test/test/escape4.go

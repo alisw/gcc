@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/Wsizeof-pointer-memaccess-1.C

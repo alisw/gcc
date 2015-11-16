@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/timing_events.adb

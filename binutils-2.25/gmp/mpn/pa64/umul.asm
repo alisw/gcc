@@ -1,0 +1,1 @@
+../../../../gmp/mpn/pa64/umul.asm

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/gomp/method-1.C

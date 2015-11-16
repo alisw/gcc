@@ -1,0 +1,1 @@
+../../../mpfr/tests/tmin_prec.c

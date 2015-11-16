@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/plugin/attribute_plugin.c

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/elemental_initializer_1.f90

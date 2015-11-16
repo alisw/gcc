@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/inherit/multiple1.C

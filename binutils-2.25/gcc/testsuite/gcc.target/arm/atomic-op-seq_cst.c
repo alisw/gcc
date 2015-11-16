@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arm/atomic-op-seq_cst.c

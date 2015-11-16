@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/cpp/20000209-2.c

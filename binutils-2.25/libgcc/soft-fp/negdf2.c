@@ -1,0 +1,1 @@
+../../../libgcc/soft-fp/negdf2.c

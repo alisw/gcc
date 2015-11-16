@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/plugin/plugindir1.c

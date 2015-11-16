@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/ext/vector23.C

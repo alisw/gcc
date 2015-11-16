@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/ext/inline1.C

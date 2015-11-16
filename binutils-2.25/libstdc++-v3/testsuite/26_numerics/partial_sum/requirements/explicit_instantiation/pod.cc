@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/26_numerics/partial_sum/requirements/explicit_instantiation/pod.cc

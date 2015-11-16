@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/test_ifaces.adb

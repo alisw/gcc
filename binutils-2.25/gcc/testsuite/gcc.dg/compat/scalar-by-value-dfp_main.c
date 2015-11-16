@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/compat/scalar-by-value-dfp_main.c

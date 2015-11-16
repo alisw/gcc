@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/22_locale/money_put/put/char/3.cc

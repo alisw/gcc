@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/vtable1.C

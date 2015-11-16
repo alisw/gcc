@@ -1,0 +1,1 @@
+../../../../libgcc/config/nds32/lib1asmsrc-mculib.S

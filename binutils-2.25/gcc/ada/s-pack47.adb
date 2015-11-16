@@ -1,0 +1,1 @@
+../../../gcc/ada/s-pack47.adb

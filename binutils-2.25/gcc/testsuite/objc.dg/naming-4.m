@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/naming-4.m

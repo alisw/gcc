@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/boz_14.f90

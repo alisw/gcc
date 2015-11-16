@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/popcnt_poppar_2.F90

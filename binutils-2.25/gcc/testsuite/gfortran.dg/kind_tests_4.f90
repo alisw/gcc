@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/kind_tests_4.f90

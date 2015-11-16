@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/eh/catch1.C

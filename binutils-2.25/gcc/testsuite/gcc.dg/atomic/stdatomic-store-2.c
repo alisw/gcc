@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/atomic/stdatomic-store-2.c

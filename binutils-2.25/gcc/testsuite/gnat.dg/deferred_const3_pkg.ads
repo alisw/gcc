@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/deferred_const3_pkg.ads

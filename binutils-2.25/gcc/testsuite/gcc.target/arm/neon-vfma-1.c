@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arm/neon-vfma-1.c

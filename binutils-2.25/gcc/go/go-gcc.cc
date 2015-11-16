@@ -1,0 +1,1 @@
+../../../gcc/go/go-gcc.cc

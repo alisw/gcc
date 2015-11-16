@@ -1,0 +1,1 @@
+../../libatomic/host-config.h

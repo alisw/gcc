@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.dg/lto/20091028-2_1.c

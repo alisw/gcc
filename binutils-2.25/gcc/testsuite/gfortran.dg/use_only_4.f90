@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/use_only_4.f90

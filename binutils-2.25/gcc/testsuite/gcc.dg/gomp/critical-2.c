@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/gomp/critical-2.c

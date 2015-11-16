@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/torture/type-generic-1.C

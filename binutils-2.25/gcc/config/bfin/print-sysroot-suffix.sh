@@ -1,0 +1,1 @@
+../../../../gcc/config/bfin/print-sysroot-suffix.sh

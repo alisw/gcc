@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/typebound_call_19.f03

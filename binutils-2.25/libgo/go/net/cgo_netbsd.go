@@ -1,0 +1,1 @@
+../../../../libgo/go/net/cgo_netbsd.go

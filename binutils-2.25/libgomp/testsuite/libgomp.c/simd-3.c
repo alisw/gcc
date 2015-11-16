@@ -1,0 +1,1 @@
+../../../../libgomp/testsuite/libgomp.c/simd-3.c

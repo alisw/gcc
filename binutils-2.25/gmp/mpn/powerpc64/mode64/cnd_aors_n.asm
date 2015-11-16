@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/powerpc64/mode64/cnd_aors_n.asm

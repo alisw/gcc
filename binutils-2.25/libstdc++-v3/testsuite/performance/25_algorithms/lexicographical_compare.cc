@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/performance/25_algorithms/lexicographical_compare.cc

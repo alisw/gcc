@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/vect/no-vfa-pr29145.c

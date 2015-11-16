@@ -1,0 +1,1 @@
+../../../../libgo/go/runtime/lfstack_test.go

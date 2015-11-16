@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/typebound_assignment_3.f03

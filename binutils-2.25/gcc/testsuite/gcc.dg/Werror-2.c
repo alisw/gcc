@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/Werror-2.c

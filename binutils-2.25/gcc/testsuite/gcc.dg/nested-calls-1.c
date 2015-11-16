@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/nested-calls-1.c

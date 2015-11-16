@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arc/cond-set-use.c

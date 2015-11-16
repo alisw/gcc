@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/26_numerics/valarray/noexcept_move_construct.cc

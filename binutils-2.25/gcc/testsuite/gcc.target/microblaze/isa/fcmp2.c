@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/gcc.target/microblaze/isa/fcmp2.c

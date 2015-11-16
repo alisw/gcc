@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/ldist-1.f90

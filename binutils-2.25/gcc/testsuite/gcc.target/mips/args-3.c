@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/args-3.c

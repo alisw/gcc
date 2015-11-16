@@ -1,0 +1,1 @@
+../../../../../../libjava/javax/swing/plaf/multi/MultiColorChooserUI.h

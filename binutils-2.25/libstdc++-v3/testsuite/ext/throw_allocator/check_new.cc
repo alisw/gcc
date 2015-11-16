@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/ext/throw_allocator/check_new.cc

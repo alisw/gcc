@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/register-var-1.C

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/attr-mode-2.c

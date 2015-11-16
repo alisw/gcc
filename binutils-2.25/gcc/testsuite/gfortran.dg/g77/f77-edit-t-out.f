@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.dg/g77/f77-edit-t-out.f

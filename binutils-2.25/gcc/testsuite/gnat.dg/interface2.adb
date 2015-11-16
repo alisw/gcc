@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/interface2.adb

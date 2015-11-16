@@ -1,0 +1,1 @@
+../../../../libgcc/config/score/crti.S

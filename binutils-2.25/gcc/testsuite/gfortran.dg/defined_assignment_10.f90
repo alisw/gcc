@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/defined_assignment_10.f90

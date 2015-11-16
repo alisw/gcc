@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/builtin-constant_p-1.c

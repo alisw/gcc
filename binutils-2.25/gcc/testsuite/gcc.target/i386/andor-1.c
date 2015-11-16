@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/andor-1.c

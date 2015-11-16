@@ -1,0 +1,1 @@
+../../../../../../libjava/classpath/javax/swing/colorchooser/DefaultRGBChooserPanel.java

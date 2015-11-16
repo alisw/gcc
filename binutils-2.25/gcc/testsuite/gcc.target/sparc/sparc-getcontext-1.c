@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/sparc/sparc-getcontext-1.c

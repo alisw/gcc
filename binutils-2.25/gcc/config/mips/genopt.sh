@@ -1,0 +1,1 @@
+../../../../gcc/config/mips/genopt.sh

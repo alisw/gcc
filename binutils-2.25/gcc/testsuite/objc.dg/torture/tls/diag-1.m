@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/objc.dg/torture/tls/diag-1.m

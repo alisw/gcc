@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/lto7_pkg.adb

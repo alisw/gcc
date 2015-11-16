@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/complex_write.f90

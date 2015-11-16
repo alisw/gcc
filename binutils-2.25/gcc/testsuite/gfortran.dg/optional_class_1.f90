@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/optional_class_1.f90

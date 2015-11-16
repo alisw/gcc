@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/rx/zero-width-bitfield.c

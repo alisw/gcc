@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/init/dso_handle2.C

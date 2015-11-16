@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/addr1.adb

@@ -1,0 +1,1 @@
+../../../cloog/test/darte.good.c

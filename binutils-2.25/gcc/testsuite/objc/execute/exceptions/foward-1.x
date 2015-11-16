@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/objc/execute/exceptions/foward-1.x

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/sparc/sparc-loop-1.c

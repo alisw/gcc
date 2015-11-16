@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/x86/pentium/mode1o.asm

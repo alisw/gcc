@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/c_ptr_tests_7_driver.c

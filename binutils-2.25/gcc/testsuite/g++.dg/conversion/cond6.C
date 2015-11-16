@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/conversion/cond6.C

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/operator_c1202.f90

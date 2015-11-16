@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/transfer_array_intrinsic_4.f90

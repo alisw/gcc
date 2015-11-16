@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/other/cxa-atexit1.C

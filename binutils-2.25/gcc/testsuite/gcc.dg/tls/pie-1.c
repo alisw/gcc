@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/tls/pie-1.c

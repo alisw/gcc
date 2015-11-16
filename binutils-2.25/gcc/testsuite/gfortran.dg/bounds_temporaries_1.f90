@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/bounds_temporaries_1.f90

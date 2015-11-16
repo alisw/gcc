@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/lookup/duperr1.C

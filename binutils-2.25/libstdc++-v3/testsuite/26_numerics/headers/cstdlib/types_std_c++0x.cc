@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/26_numerics/headers/cstdlib/types_std_c++0x.cc

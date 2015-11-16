@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/mmix-1.c

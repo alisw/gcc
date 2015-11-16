@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/sh/attr-isr-trap_exit.c

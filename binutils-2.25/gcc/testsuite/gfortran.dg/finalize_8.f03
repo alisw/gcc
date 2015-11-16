@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/finalize_8.f03

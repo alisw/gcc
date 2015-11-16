@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/g++.dg/cilk-plus/CK/const_spawn.cc

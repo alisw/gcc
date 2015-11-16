@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/ipa/pr46287-1.C

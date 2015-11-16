@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/lazy-binding-1.c

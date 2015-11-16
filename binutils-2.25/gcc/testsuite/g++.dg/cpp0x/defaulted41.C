@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/cpp0x/defaulted41.C

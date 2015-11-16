@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/pr19216.f

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/ipa/remref-1b.c

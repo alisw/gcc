@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/nios2/biggot-2.c

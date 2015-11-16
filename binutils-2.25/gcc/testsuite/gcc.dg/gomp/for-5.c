@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/gomp/for-5.c

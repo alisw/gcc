@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/static_linking_1.c

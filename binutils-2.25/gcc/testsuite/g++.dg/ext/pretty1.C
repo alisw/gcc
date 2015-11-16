@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/ext/pretty1.C

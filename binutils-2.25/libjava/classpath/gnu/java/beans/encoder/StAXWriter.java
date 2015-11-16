@@ -1,0 +1,1 @@
+../../../../../../../libjava/classpath/gnu/java/beans/encoder/StAXWriter.java

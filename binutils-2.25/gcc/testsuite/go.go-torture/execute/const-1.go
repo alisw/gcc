@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/go.go-torture/execute/const-1.go

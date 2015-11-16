@@ -1,0 +1,1 @@
+../../../gcc/ada/sem_ch10.ads

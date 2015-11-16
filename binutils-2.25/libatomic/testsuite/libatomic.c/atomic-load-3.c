@@ -1,0 +1,1 @@
+../../../../libatomic/testsuite/libatomic.c/atomic-load-3.c

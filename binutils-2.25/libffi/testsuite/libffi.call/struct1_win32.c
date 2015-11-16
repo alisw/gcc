@@ -1,0 +1,1 @@
+../../../../libffi/testsuite/libffi.call/struct1_win32.c

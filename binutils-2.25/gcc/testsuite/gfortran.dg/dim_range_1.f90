@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/dim_range_1.f90

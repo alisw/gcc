@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/sparc/pdist-3.c

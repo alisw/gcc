@@ -1,0 +1,1 @@
+../../../../../../gmp/mpn/x86/pentium4/sse2/bdiv_q_1.asm

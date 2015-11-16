@@ -1,0 +1,1 @@
+../../../../libjava/testsuite/libjava.lang/anon_ctor_itf_arg.java

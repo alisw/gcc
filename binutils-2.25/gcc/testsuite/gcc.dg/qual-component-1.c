@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/qual-component-1.c

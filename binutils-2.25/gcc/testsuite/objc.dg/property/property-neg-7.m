@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/objc.dg/property/property-neg-7.m

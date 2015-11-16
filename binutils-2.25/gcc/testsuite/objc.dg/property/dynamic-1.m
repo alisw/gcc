@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/objc.dg/property/dynamic-1.m

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/eh/partial1.C

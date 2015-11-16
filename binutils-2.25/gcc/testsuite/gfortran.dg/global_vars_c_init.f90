@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/global_vars_c_init.f90

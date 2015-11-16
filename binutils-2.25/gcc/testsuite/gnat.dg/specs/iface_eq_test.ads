@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gnat.dg/specs/iface_eq_test.ads

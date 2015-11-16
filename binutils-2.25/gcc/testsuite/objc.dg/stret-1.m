@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/stret-1.m

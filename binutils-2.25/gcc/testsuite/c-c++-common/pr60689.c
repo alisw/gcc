@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/c-c++-common/pr60689.c

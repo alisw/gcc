@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/vmx/1b-07-ansi.c

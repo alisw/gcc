@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/format/z-1.c

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/rational_arithmetic.ads

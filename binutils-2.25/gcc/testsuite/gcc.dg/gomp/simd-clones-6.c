@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/gomp/simd-clones-6.c

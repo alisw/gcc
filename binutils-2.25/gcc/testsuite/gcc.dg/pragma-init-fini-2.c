@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/pragma-init-fini-2.c

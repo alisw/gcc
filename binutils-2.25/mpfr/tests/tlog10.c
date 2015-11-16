@@ -1,0 +1,1 @@
+../../../mpfr/tests/tlog10.c

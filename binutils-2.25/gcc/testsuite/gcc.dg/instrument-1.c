@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/instrument-1.c

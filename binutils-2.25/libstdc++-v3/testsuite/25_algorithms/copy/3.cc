@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/25_algorithms/copy/3.cc

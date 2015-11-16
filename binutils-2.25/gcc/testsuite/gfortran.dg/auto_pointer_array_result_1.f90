@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/auto_pointer_array_result_1.f90

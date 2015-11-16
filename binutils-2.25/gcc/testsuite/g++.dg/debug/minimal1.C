@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/debug/minimal1.C

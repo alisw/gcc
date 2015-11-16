@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/25_algorithms/replace_copy/check_type.cc

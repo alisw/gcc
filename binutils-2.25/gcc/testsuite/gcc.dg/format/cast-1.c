@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/format/cast-1.c

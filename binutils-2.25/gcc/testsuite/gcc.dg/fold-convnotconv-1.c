@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/fold-convnotconv-1.c

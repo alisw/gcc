@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/unordered-2.c

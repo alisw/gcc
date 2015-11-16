@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/umips-constraints-1.c

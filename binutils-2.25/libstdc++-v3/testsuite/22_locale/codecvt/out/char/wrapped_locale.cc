@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/22_locale/codecvt/out/char/wrapped_locale.cc

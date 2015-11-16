@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/Wunused-parm-1.c

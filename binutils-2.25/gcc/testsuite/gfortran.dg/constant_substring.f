@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/constant_substring.f

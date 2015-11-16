@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/tls/pr24428.c

@@ -1,0 +1,1 @@
+../../../../../../libjava/classpath/gnu/CORBA/Interceptor/Registrator.java

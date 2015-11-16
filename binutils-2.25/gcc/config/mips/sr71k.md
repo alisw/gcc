@@ -1,0 +1,1 @@
+../../../../gcc/config/mips/sr71k.md

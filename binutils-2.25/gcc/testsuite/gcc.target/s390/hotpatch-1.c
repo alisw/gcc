@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/s390/hotpatch-1.c

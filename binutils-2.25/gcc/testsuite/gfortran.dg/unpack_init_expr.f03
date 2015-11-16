@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/unpack_init_expr.f03

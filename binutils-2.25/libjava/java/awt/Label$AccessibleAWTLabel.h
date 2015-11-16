@@ -1,0 +1,1 @@
+../../../../libjava/java/awt/Label$AccessibleAWTLabel.h

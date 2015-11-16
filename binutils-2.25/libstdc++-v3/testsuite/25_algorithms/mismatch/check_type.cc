@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/25_algorithms/mismatch/check_type.cc

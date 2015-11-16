@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/read_x_past.f

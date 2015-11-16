@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arc/mA6.c

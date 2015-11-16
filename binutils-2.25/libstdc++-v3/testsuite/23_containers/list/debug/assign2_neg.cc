@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/23_containers/list/debug/assign2_neg.cc

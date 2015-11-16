@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/objc/execute/bf-7.m

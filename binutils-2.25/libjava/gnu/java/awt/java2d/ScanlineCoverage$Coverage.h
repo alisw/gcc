@@ -1,0 +1,1 @@
+../../../../../../libjava/gnu/java/awt/java2d/ScanlineCoverage$Coverage.h

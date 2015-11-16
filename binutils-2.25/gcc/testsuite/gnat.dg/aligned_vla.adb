@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/aligned_vla.adb

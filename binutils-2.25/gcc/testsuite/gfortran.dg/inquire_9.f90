@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/inquire_9.f90

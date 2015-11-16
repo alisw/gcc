@@ -1,0 +1,1 @@
+../../../../../../libjava/classpath/javax/imageio/stream/ImageOutputStreamImpl.java

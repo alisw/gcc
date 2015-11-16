@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/forall_15.f90

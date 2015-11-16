@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/coarray_29_2.f90

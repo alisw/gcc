@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/objc/execute/protocol-isEqual-2.m

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/trim_optimize_5.f90

@@ -1,0 +1,1 @@
+../../../../../../gmp/mpn/x86/pentium4/sse2/mul_1.asm

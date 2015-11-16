@@ -1,0 +1,1 @@
+../../../../gmp/mpn/s390_64/sqr_basecase.asm

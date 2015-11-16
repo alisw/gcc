@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/no_exc_prop.adb

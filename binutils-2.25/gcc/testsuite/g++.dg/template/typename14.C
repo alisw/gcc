@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/typename14.C

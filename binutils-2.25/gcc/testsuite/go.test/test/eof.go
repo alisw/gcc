@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/go.test/test/eof.go

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/attr-alias-3.c

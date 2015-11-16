@@ -1,0 +1,1 @@
+../../../../libgomp/testsuite/libgomp.c++/single-2.C

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/init/init-ref1.C

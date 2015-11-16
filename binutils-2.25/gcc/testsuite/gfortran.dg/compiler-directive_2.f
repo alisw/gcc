@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/compiler-directive_2.f

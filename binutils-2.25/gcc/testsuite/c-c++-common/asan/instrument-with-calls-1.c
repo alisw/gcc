@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/c-c++-common/asan/instrument-with-calls-1.c

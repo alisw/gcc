@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/tsan/default_options.C

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/format/c99-printf-2.c

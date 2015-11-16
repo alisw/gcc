@@ -1,0 +1,1 @@
+../../../gcc/config/kopensolaris-gnu.h

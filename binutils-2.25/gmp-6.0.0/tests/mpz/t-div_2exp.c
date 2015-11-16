@@ -1,0 +1,1 @@
+../../../../gmp-6.0.0/tests/mpz/t-div_2exp.c

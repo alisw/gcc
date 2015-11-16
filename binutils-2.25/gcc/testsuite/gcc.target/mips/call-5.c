@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/call-5.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.dg/graphite/pr47019.f

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/debug/ra1.C

@@ -1,0 +1,1 @@
+../../../../libjava/java/awt/TextComponent$AccessibleAWTTextComponent.h

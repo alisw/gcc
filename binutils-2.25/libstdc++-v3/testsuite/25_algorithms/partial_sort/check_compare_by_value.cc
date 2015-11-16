@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/25_algorithms/partial_sort/check_compare_by_value.cc

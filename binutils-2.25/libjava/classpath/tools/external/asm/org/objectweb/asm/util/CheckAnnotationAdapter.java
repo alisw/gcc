@@ -1,0 +1,1 @@
+../../../../../../../../../../libjava/classpath/tools/external/asm/org/objectweb/asm/util/CheckAnnotationAdapter.java

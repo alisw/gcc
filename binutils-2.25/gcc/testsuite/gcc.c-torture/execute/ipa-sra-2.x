@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/execute/ipa-sra-2.x

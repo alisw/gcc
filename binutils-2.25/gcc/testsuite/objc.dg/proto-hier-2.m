@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/proto-hier-2.m

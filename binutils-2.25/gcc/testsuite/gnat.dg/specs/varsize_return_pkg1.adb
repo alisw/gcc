@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gnat.dg/specs/varsize_return_pkg1.adb

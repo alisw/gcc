@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/c-c++-common/tm/20100127.c

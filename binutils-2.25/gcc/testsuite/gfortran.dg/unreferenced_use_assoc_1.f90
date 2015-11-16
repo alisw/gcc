@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/unreferenced_use_assoc_1.f90

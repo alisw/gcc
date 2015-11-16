@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/layout-2.m

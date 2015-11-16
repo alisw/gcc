@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/method-conflict-1.m

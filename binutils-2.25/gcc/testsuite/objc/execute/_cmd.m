@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/objc/execute/_cmd.m

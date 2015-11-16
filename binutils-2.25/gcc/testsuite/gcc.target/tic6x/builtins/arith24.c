@@ -1,0 +1,1 @@
+../../../../../../gcc/testsuite/gcc.target/tic6x/builtins/arith24.c

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/noinline2.adb

@@ -1,0 +1,1 @@
+../../../../libjava/java/awt/AWTKeyStroke$1.h

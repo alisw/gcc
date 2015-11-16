@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/obj-c++.dg/comp-types-6.mm

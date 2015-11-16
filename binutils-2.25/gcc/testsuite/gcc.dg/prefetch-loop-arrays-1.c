@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/prefetch-loop-arrays-1.c

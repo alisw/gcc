@@ -1,0 +1,1 @@
+../../../mpfr/tests/ttrunc.c

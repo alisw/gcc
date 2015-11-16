@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/tm/data-1.c

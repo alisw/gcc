@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/entry_queues.adb

@@ -1,0 +1,1 @@
+../../libatomic/libatomic_i.h

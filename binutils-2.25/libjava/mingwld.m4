@@ -1,0 +1,1 @@
+../../libjava/mingwld.m4

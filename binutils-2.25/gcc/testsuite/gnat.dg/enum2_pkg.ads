@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/enum2_pkg.ads

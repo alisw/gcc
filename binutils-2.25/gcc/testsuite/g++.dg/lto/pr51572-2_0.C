@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/lto/pr51572-2_0.C

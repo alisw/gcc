@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/opt/vt1.C

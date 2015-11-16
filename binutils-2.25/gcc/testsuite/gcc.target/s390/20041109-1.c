@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/s390/20041109-1.c

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/binop-notxor1.c

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/builtin-inf-1.c

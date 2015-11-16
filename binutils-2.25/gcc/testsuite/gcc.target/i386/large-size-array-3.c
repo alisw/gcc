@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/i386/large-size-array-3.c

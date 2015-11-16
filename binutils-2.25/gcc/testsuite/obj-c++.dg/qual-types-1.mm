@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/obj-c++.dg/qual-types-1.mm

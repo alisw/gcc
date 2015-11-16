@@ -1,0 +1,1 @@
+../../../../../../libjava/javax/swing/plaf/metal/MetalFileChooserUI$SingleClickListener$EditingActionListener.h

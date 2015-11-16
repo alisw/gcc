@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/g++.dg/uninit-pred-2_b.C

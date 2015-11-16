@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/ext/vstring/hash/char/1.cc

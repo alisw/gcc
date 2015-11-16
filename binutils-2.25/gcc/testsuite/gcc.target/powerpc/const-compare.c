@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/powerpc/const-compare.c

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/execute/doloop-2.c

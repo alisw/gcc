@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/format/errmk-1.c

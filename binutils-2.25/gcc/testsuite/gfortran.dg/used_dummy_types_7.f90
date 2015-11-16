@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/used_dummy_types_7.f90

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/debug_2.f

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/negative_unit_int8.f

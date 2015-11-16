@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/c_ptr_tests_8_funcs.c

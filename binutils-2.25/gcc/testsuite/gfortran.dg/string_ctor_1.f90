@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/string_ctor_1.f90

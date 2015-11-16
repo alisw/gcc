@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/maddu-3.c

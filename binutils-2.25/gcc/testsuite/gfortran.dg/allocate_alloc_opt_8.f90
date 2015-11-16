@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/allocate_alloc_opt_8.f90

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/dpaq_sa_l_w.c

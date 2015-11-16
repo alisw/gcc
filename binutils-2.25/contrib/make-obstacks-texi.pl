@@ -1,0 +1,1 @@
+../../contrib/make-obstacks-texi.pl

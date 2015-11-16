@@ -1,0 +1,1 @@
+../../../../../../../gcc/testsuite/ada/acats/tests/c3/c35502a.ada

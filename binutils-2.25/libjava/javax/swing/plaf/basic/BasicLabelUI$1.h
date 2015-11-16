@@ -1,0 +1,1 @@
+../../../../../../libjava/javax/swing/plaf/basic/BasicLabelUI$1.h

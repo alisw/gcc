@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arm/symbian2.c

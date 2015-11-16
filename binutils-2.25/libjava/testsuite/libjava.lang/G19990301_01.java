@@ -1,0 +1,1 @@
+../../../../libjava/testsuite/libjava.lang/G19990301_01.java

@@ -1,0 +1,1 @@
+../../../../libgcc/config/stormy16/ffshi2.c

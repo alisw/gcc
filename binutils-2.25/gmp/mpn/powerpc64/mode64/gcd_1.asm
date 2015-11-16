@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/powerpc64/mode64/gcd_1.asm

@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/template/ntp1.C

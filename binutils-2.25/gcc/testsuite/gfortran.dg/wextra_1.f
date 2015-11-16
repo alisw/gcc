@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/wextra_1.f

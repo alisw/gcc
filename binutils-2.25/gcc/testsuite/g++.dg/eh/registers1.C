@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/eh/registers1.C

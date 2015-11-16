@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.c-torture/execute/nestfunc-4.c

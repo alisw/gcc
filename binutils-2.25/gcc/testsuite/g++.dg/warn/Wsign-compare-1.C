@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/Wsign-compare-1.C

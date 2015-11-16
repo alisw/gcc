@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gfortran.dg/debug/pr46756.f

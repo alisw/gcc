@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/maxloc_shape_1.f90

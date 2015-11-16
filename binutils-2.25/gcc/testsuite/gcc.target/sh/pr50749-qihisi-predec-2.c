@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/sh/pr50749-qihisi-predec-2.c

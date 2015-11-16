@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/transfer_hollerith_1.f90

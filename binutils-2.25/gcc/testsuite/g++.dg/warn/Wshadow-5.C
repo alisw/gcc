@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/Wshadow-5.C

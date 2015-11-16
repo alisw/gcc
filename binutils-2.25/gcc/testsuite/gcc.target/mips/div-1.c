@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/mips/div-1.c

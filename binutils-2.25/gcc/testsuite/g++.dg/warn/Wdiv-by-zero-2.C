@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/Wdiv-by-zero-2.C

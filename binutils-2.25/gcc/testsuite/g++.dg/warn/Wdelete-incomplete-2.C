@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/warn/Wdelete-incomplete-2.C

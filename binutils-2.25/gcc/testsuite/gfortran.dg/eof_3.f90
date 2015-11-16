@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/eof_3.f90

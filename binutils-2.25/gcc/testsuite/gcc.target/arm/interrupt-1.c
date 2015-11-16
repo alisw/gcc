@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/arm/interrupt-1.c

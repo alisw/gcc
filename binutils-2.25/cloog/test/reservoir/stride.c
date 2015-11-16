@@ -1,0 +1,1 @@
+../../../../cloog/test/reservoir/stride.c

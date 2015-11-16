@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/modular2.adb

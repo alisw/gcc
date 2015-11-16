@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/volatile3.c

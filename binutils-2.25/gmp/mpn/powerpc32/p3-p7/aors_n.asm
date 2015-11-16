@@ -1,0 +1,1 @@
+../../../../../gmp/mpn/powerpc32/p3-p7/aors_n.asm

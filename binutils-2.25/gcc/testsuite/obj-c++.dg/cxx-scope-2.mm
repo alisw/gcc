@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/obj-c++.dg/cxx-scope-2.mm

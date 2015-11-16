@@ -1,0 +1,1 @@
+../../../../../../../libstdc++-v3/testsuite/23_containers/multiset/requirements/exception/generation_prohibited.cc

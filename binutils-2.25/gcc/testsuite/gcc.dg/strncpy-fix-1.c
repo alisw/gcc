@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/strncpy-fix-1.c

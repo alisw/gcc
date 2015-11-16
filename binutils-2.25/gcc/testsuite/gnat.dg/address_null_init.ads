@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/address_null_init.ads

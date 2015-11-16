@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/end_block_label_1.f90

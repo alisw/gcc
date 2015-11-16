@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/g++.dg/abi/arm_rtti1.C

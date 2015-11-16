@@ -1,0 +1,1 @@
+../../../../gmp/mpn/sparc32/gmp-mparam.h

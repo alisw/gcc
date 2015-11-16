@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/m68k/interrupt_thread-1.c

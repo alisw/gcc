@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/specification_type_resolution_2.f90

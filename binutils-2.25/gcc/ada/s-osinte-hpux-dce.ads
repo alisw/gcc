@@ -1,0 +1,1 @@
+../../../gcc/ada/s-osinte-hpux-dce.ads

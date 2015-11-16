@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.dg/autopar/reduc-2char.c

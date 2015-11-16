@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gcc.dg/builtin-bswap-4.c

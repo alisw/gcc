@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/performance/22_locale/is_wchar_t.cc

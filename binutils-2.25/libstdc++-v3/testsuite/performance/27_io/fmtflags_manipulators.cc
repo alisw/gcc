@@ -1,0 +1,1 @@
+../../../../../libstdc++-v3/testsuite/performance/27_io/fmtflags_manipulators.cc

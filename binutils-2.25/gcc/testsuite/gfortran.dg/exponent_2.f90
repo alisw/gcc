@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/exponent_2.f90

@@ -1,0 +1,1 @@
+../../../../libgcc/config/stormy16/clrsbhi2.c

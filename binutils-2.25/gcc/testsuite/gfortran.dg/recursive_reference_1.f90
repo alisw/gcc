@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/recursive_reference_1.f90

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/merge_init_expr.f90

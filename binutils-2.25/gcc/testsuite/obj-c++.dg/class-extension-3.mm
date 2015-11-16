@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/obj-c++.dg/class-extension-3.mm

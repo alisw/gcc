@@ -1,0 +1,1 @@
+../../../libgo/runtime/getncpu-linux.c

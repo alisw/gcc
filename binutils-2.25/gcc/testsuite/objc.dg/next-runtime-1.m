@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/objc.dg/next-runtime-1.m

@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gfortran.dg/nan_2.f90

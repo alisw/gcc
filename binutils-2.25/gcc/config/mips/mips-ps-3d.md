@@ -1,0 +1,1 @@
+../../../../gcc/config/mips/mips-ps-3d.md

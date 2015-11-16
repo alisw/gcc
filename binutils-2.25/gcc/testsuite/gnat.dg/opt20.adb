@@ -1,0 +1,1 @@
+../../../../gcc/testsuite/gnat.dg/opt20.adb

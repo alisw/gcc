@@ -1,0 +1,1 @@
+../../../gcc/ada/system-darwin-ppc64.ads

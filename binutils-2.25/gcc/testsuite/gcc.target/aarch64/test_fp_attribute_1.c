@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/gcc.target/aarch64/test_fp_attribute_1.c

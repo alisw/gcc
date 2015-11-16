@@ -1,0 +1,1 @@
+../../../../../gcc/testsuite/c-c++-common/ubsan/overflow-negate-1.c

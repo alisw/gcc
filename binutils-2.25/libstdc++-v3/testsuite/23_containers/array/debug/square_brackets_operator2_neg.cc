@@ -1,0 +1,1 @@
+../../../../../../libstdc++-v3/testsuite/23_containers/array/debug/square_brackets_operator2_neg.cc
