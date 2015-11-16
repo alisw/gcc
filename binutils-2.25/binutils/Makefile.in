@@ -1317,13 +1317,13 @@ objdump.@OBJEXT@:objdump.c
 #	-rm -f $(STRIP_PROG)
 #	-ln $(OBJCOPY_PROG) $(STRIP_PROG)
 
-sysroff.c: sysinfo$(EXEEXT_FOR_BUILD) sysroff.info
-	./sysinfo$(EXEEXT_FOR_BUILD) -c <$(srcdir)/sysroff.info >sysroff.c
-	./sysinfo$(EXEEXT_FOR_BUILD) -i <$(srcdir)/sysroff.info >>sysroff.c
-	./sysinfo$(EXEEXT_FOR_BUILD) -g <$(srcdir)/sysroff.info >>sysroff.c
+sysroff.c: sysinfo$(EXEEXT_FOR_BUILD) sysroff.xinfo
+	./sysinfo$(EXEEXT_FOR_BUILD) -c <$(srcdir)/sysroff.xinfo >sysroff.c
+	./sysinfo$(EXEEXT_FOR_BUILD) -i <$(srcdir)/sysroff.xinfo >>sysroff.c
+	./sysinfo$(EXEEXT_FOR_BUILD) -g <$(srcdir)/sysroff.xinfo >>sysroff.c
 
-sysroff.h: sysinfo$(EXEEXT_FOR_BUILD) sysroff.info
-	./sysinfo$(EXEEXT_FOR_BUILD) -d <$(srcdir)/sysroff.info >sysroff.h
+sysroff.h: sysinfo$(EXEEXT_FOR_BUILD) sysroff.xinfo
+	./sysinfo$(EXEEXT_FOR_BUILD) -d <$(srcdir)/sysroff.xinfo >sysroff.h
 
 sysinfo$(EXEEXT_FOR_BUILD): sysinfo.@OBJEXT@ syslex_wrap.@OBJEXT@
 	$(CC_FOR_BUILD) $(CFLAGS_FOR_BUILD) $(LDFLAGS_FOR_BUILD) -o $@ sysinfo.@OBJEXT@ syslex_wrap.@OBJEXT@
